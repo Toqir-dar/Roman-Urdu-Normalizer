@@ -19,3 +19,9 @@ e.g. `mujhy kl ghr jana h` → `mujhe kal ghar jana hai`.
 | test_synth_ood | 11,755 |
 
 The real-comment test gold was reviewed by an AI assistant and has not yet been checked by a human annotator.
+
+## Project members
+
+- Abrar Ali
+- Sharjeel Anjum
+- Mian Ahmad Mehmood
