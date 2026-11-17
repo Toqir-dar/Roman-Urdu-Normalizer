@@ -1,0 +1,175 @@
+{
+  "dataset_csv": {
+    "rows": 74860,
+    "templated_block": 46770,
+    "social_block": 28090
+  },
+  "templated": {
+    "unique_pairs": 46770,
+    "kept": 46770,
+    "dropped": {},
+    "frames": 2296,
+    "learned_variant_pairs": 3137
+  },
+  "templated_split": {
+    "held_out_entities": [
+      "A:facebook",
+      "C:islamabad",
+      "C:multan",
+      "E:card",
+      "E:chapters",
+      "E:copy",
+      "E:flight",
+      "E:folder",
+      "E:hall",
+      "E:screenshot",
+      "E:start",
+      "E:time",
+      "E:training",
+      "F:pulao",
+      "F:sabzi",
+      "F:shawarma",
+      "P:ahmed",
+      "P:mahnoor",
+      "S:urdu"
+    ],
+    "held_out_misspellings": 755,
+    "frames": {
+      "test": 230,
+      "dev": 230,
+      "train": 1836
+    },
+    "rows": {
+      "dev": 3454,
+      "train": 27594,
+      "test_synth_ood": 13722,
+      "test_synth_iid": 2000
+    },
+    "ood_reason": {
+      "frame": 3951,
+      "spelling": 5066,
+      "entity": 3122,
+      "frame+spelling": 624,
+      "frame+entity": 379,
+      "entity+spelling": 530,
+      "frame+entity+spelling": 50
+    }
+  },
+  "dakshina": {
+    "rows": {
+      "train": 3146,
+      "dev": 377,
+      "test_real": 395
+    },
+    "convention_changes": {
+      "keh->ke": 347,
+      "kya->kiya": 288,
+      "nahin->nahi": 180,
+      "toh->to": 155,
+      "saath->sath": 122,
+      "abu->abbu": 2,
+      "ye->yeh": 1,
+      "hun->hoon": 1
+    }
+  },
+  "social_new": {
+    "unique_pairs": 23393,
+    "kept": 19284,
+    "dropped": {
+      "qatil_artifact": 3768,
+      "too_long": 287,
+      "too_short": 50,
+      "url": 4
+    },
+    "tier": {
+      "silver": 12970,
+      "gold": 6314
+    },
+    "lang_hint": {
+      "urdu": 14905,
+      "mixed": 4216,
+      "english": 163
+    },
+    "agrees_with_source_normalized": 4292
+  },
+  "social_new_split": {
+    "test_social": 297,
+    "dev": 1000,
+    "train": 17963,
+    "train_tier": {
+      "silver": 12751,
+      "gold": 5212
+    },
+    "removed_test_overlap": 21,
+    "test_status": {
+      "edited": 151,
+      "ok": 146
+    }
+  },
+  "uci": {
+    "raw_rows": 20116,
+    "after_dedup": 19417,
+    "split": {
+      "train": 15388,
+      "dev": 1917,
+      "test": 2112
+    },
+    "lang_hint": {
+      "urdu": 15723,
+      "mixed": 2041,
+      "unknown": 1325,
+      "english": 305,
+      "punjabi?": 23
+    }
+  },
+  "eval_rows_overlapping_train_removed": {
+    "dev": 0,
+    "test_real": 1,
+    "test_social": 0,
+    "test_social_uci": 0,
+    "test_synth_iid": 0,
+    "test_synth_ood": 1967
+  },
+  "lexicon": {
+    "canonicals": 30198,
+    "rows": 100154,
+    "eval_only_variants_removed_from_trainsafe": 2419,
+    "eval_only_canonicals_removed": 1339
+  },
+  "records": {
+    "train": 48703,
+    "dev": 4831,
+    "test_real": 394,
+    "test_social": 297,
+    "test_social_uci": 186,
+    "test_synth_iid": 2000,
+    "test_synth_ood": 11755
+  },
+  "records_by_source": {
+    "train": {
+      "dakshina": 3146,
+      "templated": 27594,
+      "social_new": 17963
+    },
+    "dev": {
+      "dakshina": 377,
+      "templated": 3454,
+      "social_new": 1000
+    },
+    "test_real": {
+      "dakshina": 394
+    },
+    "test_social": {
+      "social_new": 297
+    },
+    "test_social_uci": {
+      "uci_social": 186
+    },
+    "test_synth_iid": {
+      "templated": 2000
+    },
+    "test_synth_ood": {
+      "templated": 11755
+    }
+  }
+}
