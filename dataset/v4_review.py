@@ -106,6 +106,32 @@ zeada>zyada hmry>hamare hafzat>hifazat bouht>bohat bhaut>bohat whaan>wahan tume>
 ajaty>aa+jate koty>kutte gyn>ge kiyhe>kiya+hai laita>leta luty>loote arubo>arbon
 zaida>zyada kown>kaun movi>movie lagya>lagaya
 kaay>ke daay>de naay>ne jada>zyada chayee>chahiye mi>mein dhooka>dhoka suru>shuru isly>is+liye tmy>tumhe mny>main+ne hva>hua nahien>nahi ak>ek kel>kal
+gud>good msla>masla behin>behen hien>hain kyoki>kyunki dekhkr>dekh+kar dosray>doosre kery>kare
+jinhone>jinhon+ne rhii>rahi etni>itni atni>itni mohabbt>mohabbat pochy>pooche pochay>pooche
+cahiye>chahiye chaie>chahiye chahiy>chahiye chyee>chahiye chutya>chutiya chutyaas>chutiya chutyas>chutiya hazart>hazrat hazarat>hazrat
+mayoos>mayus baccho>bachchon lanet>lanat lante>lanatein dny>dein baato>baaton baaten>baatein
+pakistaniyo>pakistaniyon pakistanion>pakistaniyon darkhawast>darkhwast beghairt>beghairat yahodi>yahoodi
+skoon>sukoon ghalat>galat bnate>banate logn>logon lgte>lagte kyaa>kya aour>aur ankhein>aankhen
+bikhari>bhikari zayda>zyada zahni>zehni peyary>pyare oncha>ooncha ghunda>gunda aacche>ache aacchi>achi
+aaccha>acha asslam>assalam aslam>assalam alaekum>alaikum hamry>hamare ajaonga>aa+jaunga
+ajaunga>aa+jaunga bapas>wapas taran>tarah mjah>mujhe luay>liye olu>ullu pathy>putte wajod>wajood
+haiin>hain bhii>bhi apnee>apne kaas>kaash deakh>dekh kuto>kutton goliyan>goliyan darpaish>darpesh
+chuta>chhuta umra>umrah ulma>ulama pazer>pazeer adakara>adakaara baich>bech
+souna>sona chia>chahiye mozahra>muzahira khakar>kha+kar pakhton>pakhtun kachray>kachre joty>joote
+ghomti>ghoomti armaan>arman wastay>wastey sochnay>sochne ispay>is+pe batt>baat
+kitani>kitni gjb>ghazab ldki>larki qadyani>qadiani jaloos>juloos hajji>haji
+delaata>dilata dupata>dupatta batai>batayi shadio>shadiyon khofnak>khaufnak
+chur>chor imkan>imkaan ferma>farma pda>pada ensan>insaan motabiq>mutabiq aitraaf>aitraf
+bethay>baithe akar>aa+kar nei>nahi draz>daraaz kardeta>kar+deta yesa>aisa gahr>ghar
+banya>banaya siwae>siwaye thankyou>thank+you namona>namuna behno>behenon dosro>doosron
+howa>hua bheno>behenon aapni>apni sbi>sabhi luta>loota gie>gayi wagera>wagaira
+humse>hum+se mafad>mufaad kripya>kripaa docter>doctor nezdiqe>nazdeek jooth>jhoot
+khti>kehte chwal>chawal bqi>baaqi hme>hamein zrort>zaroorat tbi>tabhi namonay>namune
+chizen>cheezein aplog>aap+log bachan>bachchan parne>parhne kerty>karte btya>bataya
+karwain>karwaein haiap>hai+aap thnx>thanks moive>movie diwnload>download talway>talwe
+lagni>lagani jila>zilla naizi>niazi leeg>league toa>to gour>ghour mro>maro neh>nahi
+maroo>maro qanone>qanooni walu>walon nishaniya>nishaniyan sapooto>sapooton
+chodny>chhodne dedar>deedar
 """
 
 ENGLISH_MORE = """aunty scene job shame turkish ost product face send bank suit dm pic background corrupt dj eyes car waste set
@@ -126,7 +152,11 @@ attention qualification answer strap according admission sitting compare others 
 massage senate workers killer players promo honest saying overall taxes insult shit retirement lover drugs celebrity
 react jealous soul disappointed idiot figure supporters village starting coat athlete terrorist skills allow interest
 struggle guide fridge chill sr married trying nonsense offer logic response rest knows api vacancy pics hats budget
-batting provide complaint till promote awesome nice because""".split()
+batting provide complaint till promote awesome nice because dogs missed ladies condition heard artists
+category earn bullshit greatest worry useless puppet detail skip topics boring biggest fame boycott
+mouth guy contract plans candidate constitution rules edit vulgarity healthy run father responsible
+promoting continue fitness relationship exact fare easily adopt heat vouchers leather amount except
+timing agency increase blessed mint trading concept collection uneducated what's selfie""".split()
 
 NAMES_MORE = """foodpanda qalandars shabaz ubqari esakhelvi orton galib bushra musharaf raam attaullah zeus meera stallone
 liaquat qureshi hera ertugrul zia sherry asim abid marilyn jouhar elahi minhas rajo munir tata butt russia firoz mishra

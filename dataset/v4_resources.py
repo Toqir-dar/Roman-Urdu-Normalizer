@@ -297,6 +297,12 @@ SPLIT_MAP = {
     "isliay": "is liye", "ismay": "is mein", "ismein": "is mein", "isme": "is mein", "usme": "us mein",
     "usmein": "us mein", "jisme": "jis mein", "sunky": "sun ke", "sunke": "sun ke", "dekhke": "dekh ke",
     "dekhky": "dekh ke", "jaake": "ja ke", "aake": "aa ke", "mujhse": "mujh se", "tumse": "tum se",
+    "dekhkr": "dekh kar", "dekhekar": "dekh kar", "ajaonga": "aa jaunga", "ajaunga": "aa jaunga",
+    "ajaongi": "aa jaungi", "ajaungi": "aa jaungi", "karonga": "karunga", "karongi": "karungi",
+    "kardeta": "kar deta", "kardeti": "kar deti", "kardete": "kar dete", "haiap": "hai aap",
+    "haiapko": "hai aapko", "hyapko": "hai aapko", "jinhone": "jinhon ne", "unhone": "unhon ne",
+    "inhone": "inhon ne", "khakar": "kha kar", "jakar": "ja kar", "akar": "aa kar",
+    "humse": "hum se", "aplog": "aap log", "ispay": "is pe", "ismein": "is mein",
 }
 
 # tokens kept exactly as written (laughter, interjections, Punjabi markers, abbreviations)
@@ -314,7 +320,9 @@ ap tum isko usko ise use is us yeh ye yai woh wo kal aaj abhi bilkul sirf bas ho
 karungi jaunga jaungi chahta chahti sochta sochti samajhta samajhti""".split())
 VERB_AUX = set("""hota hoti hote raha rahi rahe gaya gayi gaye sakta sakti sakte chahiye hua hui hue karta karti
 karte jata jati jate diya liya kiya mila mili mile laga lagi lage lagta lagti lagte aata aati aate tha thi the
-chuka chuki chuke deta deti dete leta leti lete rakha rakhi""".split())
+chuka chuki chuke deta deti dete leta leti lete rakha rakhi karna karni karne hona honi hone jana jani jane
+dena deni dene lena leni lene banana banani aana aani rehna rehni kehna kehni dekhna dekhni sunna sunni
+samajhna bolna bolni likhna likhni""".split())
 HI_PREV = set("""bohat bohot bht bhot bahut buhat itna itni itne kitna kitni yeh ye yai woh wo wahi yahi ab abhi tab aise waise ek sirf aap ap tum main hum mujhe usi isi aaj
 kal jab apni apne apna mera meri mere""".split())
 NEW_CLAUSE = set("""ke k ky kay keh aur or lekin magar jo to tou kyunki na ya yar yaar bhai sir ji jab agar phir ab

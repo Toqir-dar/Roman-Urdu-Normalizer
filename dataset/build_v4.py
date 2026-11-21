@@ -287,7 +287,8 @@ class Normalizer:
                 return w, True
             if w == "may" and prev_tok is not None and prev_tok[:1].isdigit():
                 return "may", False                       # 9 may (the month)
-            if w == "ma" and nxt in ("baap", "ki", "ka", "ke", "ko"):
+            if w == "ma" and nxt in ("baap", "ki", "ka", "ke", "ko", "behen", "behin", "bhen", "bhai",
+                                     "beti", "bete", "beta", "bache", "bachay", "bacche", "jaan"):
                 return "maa", True
             if clause_start or prev in R.CONJ_START:
                 return "main", True
