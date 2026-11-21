@@ -136,7 +136,7 @@
 {"uci_row": 136, "text": "kamiyab aurat bnna chahti hun meri sadgi dikh mai kya chahti hun 😂😂", "label": "pos", "n_words": 12, "lang_hint": "urdu", "has_url": false, "id": "uci-00136", "source": "uci_social", "split": "train"}
 {"uci_row": 137, "text": "Mai khud kamyab bnna chahti ho samw khwab hai hmare yad nae tme😂", "label": "pos", "n_words": 13, "lang_hint": "urdu", "has_url": false, "id": "uci-00137", "source": "uci_social", "split": "train"}
 {"uci_row": 138, "text": "Meri jesi kamiyabiyan na karna tum log... go for a mzeed rich bitch!! ✌🏻", "label": "pos", "n_words": 13, "lang_hint": "mixed", "has_url": false, "id": "uci-00138", "source": "uci_social", "split": "train"}
-{"uci_row": 139, "text": "mil jae ga dnt worry", "label": "pos", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-00139", "source": "uci_social", "split": "train"}
+{"uci_row": 139, "text": "mil jae ga dnt worry", "label": "pos", "n_words": 5, "lang_hint": "mixed", "has_url": false, "id": "uci-00139", "source": "uci_social", "split": "train"}
 {"uci_row": 140, "text": "Dekho wo hum ny reject krdia na ye b kaamyabi hi hoti hai😂", "label": "pos", "n_words": 13, "lang_hint": "urdu", "has_url": false, "id": "uci-00140", "source": "uci_social", "split": "test"}
 {"uci_row": 141, "text": "32k mn kia hoga yr xD", "label": "pos", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-00141", "source": "uci_social", "split": "train"}
 {"uci_row": 142, "text": "Abhi 5o party shoro hoi he", "label": "pos", "n_words": 5, "lang_hint": "mixed", "has_url": false, "id": "uci-00142", "source": "uci_social", "split": "train"}
@@ -248,7 +248,7 @@
 {"uci_row": 248, "text": "Or check kr hamari predictions almost such b niklti then :D hahaha", "label": "pos", "n_words": 12, "lang_hint": "unknown", "has_url": false, "id": "uci-00248", "source": "uci_social", "split": "train"}
 {"uci_row": 249, "text": "Or baray achay say Yeh kaam hum anjaam detay hain😄😂", "label": "pos", "n_words": 10, "lang_hint": "urdu", "has_url": false, "id": "uci-00249", "source": "uci_social", "split": "train"}
 {"uci_row": 250, "text": "bs dehko urdu agye parhna :')😂😂❤", "label": "pos", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-00250", "source": "uci_social", "split": "train"}
-{"uci_row": 251, "text": "Hehehehe wo b spcl logn koo judge kia jataa naa meshhhhiii proud to b spcl one😂😂😂😂", "label": "pos", "n_words": 16, "lang_hint": "unknown", "has_url": false, "id": "uci-00251", "source": "uci_social", "split": "dev"}
+{"uci_row": 251, "text": "Hehehehe wo b spcl logn koo judge kia jataa naa meshhhhiii proud to b spcl one😂😂😂😂", "label": "pos", "n_words": 16, "lang_hint": "mixed", "has_url": false, "id": "uci-00251", "source": "uci_social", "split": "dev"}
 {"uci_row": 252, "text": "Tmara pasandeedaaa kam :-D", "label": "pos", "n_words": 4, "lang_hint": "unknown", "has_url": false, "id": "uci-00252", "source": "uci_social", "split": "train"}
 {"uci_row": 253, "text": "fav kaam hai hummara yaar.", "label": "pos", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-00253", "source": "uci_social", "split": "train"}
 {"uci_row": 254, "text": "hmri jugjmnt kaml ki ha nw 😛😂😂😂😂", "label": "pos", "n_words": 6, "lang_hint": "unknown", "has_url": false, "id": "uci-00254", "source": "uci_social", "split": "train"}
@@ -1154,7 +1154,7 @@
 {"uci_row": 1169, "text": "Choti umar mein hi inhon nay apnay say phelay dusron ki madad karna sikh liya tha, jo agay ki zindagi kay liye kamyabi ki kunji ban gaya.", "label": "pos", "n_words": 27, "lang_hint": "urdu", "has_url": false, "id": "uci-01169", "source": "uci_social", "split": "test"}
 {"uci_row": 1170, "text": "Iss kay alawa app nay yeaha apne dosto ko tadrees ki taraf bhi ragab kiya.", "label": "pos", "n_words": 15, "lang_hint": "urdu", "has_url": false, "id": "uci-01170", "source": "uci_social", "split": "train"}
 {"uci_row": 1171, "text": "App nay sada tarz-e-zindagi apnaya aur dispensary kay samne bench per hi so late ta kay bawaqt zarurat fouri tour per madad ko pohunch sake.", "label": "pos", "n_words": 27, "lang_hint": "urdu", "has_url": false, "id": "uci-01171", "source": "uci_social", "split": "train"}
-{"uci_row": 1172, "text": "inhone nay shehar kay nowah mein khemey lagwaye aur muft madafati adwaiyat farham kein.", "label": "pos", "n_words": 14, "lang_hint": "unknown", "has_url": false, "id": "uci-01172", "source": "uci_social", "split": "train"}
+{"uci_row": 1172, "text": "inhone nay shehar kay nowah mein khemey lagwaye aur muft madafati adwaiyat farham kein.", "label": "pos", "n_words": 14, "lang_hint": "urdu", "has_url": false, "id": "uci-01172", "source": "uci_social", "split": "train"}
 {"uci_row": 1173, "text": "Mukhiyair hazrat nay in ki dil khul kar madad ki aur in kay kamo ko dekhte huwe baqi Pakistan nay bhi imdadadi raqam say inhone woh puri imarat kharedli jaha dispensary thein aur waha aik zachgi kay liye center aur nurseon ki tarbiyat kay liye school khula aur ye hi Edhi Foundation ka aghaz tha.", "label": "pos", "n_words": 55, "lang_hint": "urdu", "has_url": false, "id": "uci-01173", "source": "uci_social", "split": "train"}
 {"uci_row": 1174, "text": "Anay wale salao mein Edhi Foundation Pakistan kay baqi elaqo tak bhi phelti gai flu ki waba kay baad aik karobari shaksiyat nay Edhi ko kafi bari raqam ki imdad di jis say inhone aik ambulance khareedi jis ko woh khud chalate thay.", "label": "pos", "n_words": 43, "lang_hint": "urdu", "has_url": false, "id": "uci-01174", "source": "uci_social", "split": "train"}
 {"uci_row": 1175, "text": "Karachi aur undorene Sindh kay liye woh khud rawana hote hain aur Edhi foundation ki hadsat per rade ammal ki raftar aur khidmat municipal ki khidmaat ziada taiz behtar hain.", "label": "pos", "n_words": 30, "lang_hint": "urdu", "has_url": false, "id": "uci-01175", "source": "uci_social", "split": "train"}
@@ -1530,7 +1530,7 @@
 {"uci_row": 1545, "text": "Ye bachay ko to sab kuch pata tha.", "label": "pos", "n_words": 8, "lang_hint": "urdu", "has_url": false, "id": "uci-01545", "source": "uci_social", "split": "train"}
 {"uci_row": 1546, "text": "Badshah salamat se unhoon ne guftogo ka kuch is tarha aghaz kiya:", "label": "pos", "n_words": 12, "lang_hint": "urdu", "has_url": false, "id": "uci-01546", "source": "uci_social", "split": "train"}
 {"uci_row": 1547, "text": "Lekin jab Sir Hashim ne kuch official baat karna shuru ki to andaza huwa k koi khatra nahi tha.", "label": "pos", "n_words": 19, "lang_hint": "urdu", "has_url": false, "id": "uci-01547", "source": "uci_social", "split": "train"}
-{"uci_row": 1548, "text": "Ahista ahsita saans bahal howa.", "label": "pos", "n_words": 5, "lang_hint": "unknown", "has_url": false, "id": "uci-01548", "source": "uci_social", "split": "test"}
+{"uci_row": 1548, "text": "Ahista ahsita saans bahal howa.", "label": "pos", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-01548", "source": "uci_social", "split": "test"}
 {"uci_row": 1549, "text": "Phir ye suna, kay, aap jayen", "label": "pos", "n_words": 6, "lang_hint": "urdu", "has_url": false, "id": "uci-01549", "source": "uci_social", "split": "train"}
 {"uci_row": 1550, "text": "Aap ne socha k ja k kyoon na us bachay se baki dastaan ka hisa maloom kiya jaye jis ko ye kisi tarha maloom tha k aap ne buzzer takhleeq kiye thay.", "label": "pos", "n_words": 32, "lang_hint": "urdu", "has_url": false, "id": "uci-01550", "source": "uci_social", "split": "train"}
 {"uci_row": 1551, "text": "Jab class khatam huwi to Hashim sahab ne class ko bola k aap k kuch seniors hain Taha aur Hashir, wo aap k sath mazak kar rahay hain.", "label": "pos", "n_words": 28, "lang_hint": "urdu", "has_url": false, "id": "uci-01551", "source": "uci_social", "split": "dev"}
@@ -3164,7 +3164,7 @@
 {"uci_row": 3201, "text": "I love this art", "label": "pos", "n_words": 4, "lang_hint": "mixed", "has_url": false, "id": "uci-03201", "source": "uci_social", "split": "test"}
 {"uci_row": 3204, "text": "Shukr h k kisi ko masoom bchho ka to khyal aya. Weldon punjab food authority", "label": "pos", "n_words": 15, "lang_hint": "urdu", "has_url": false, "id": "uci-03204", "source": "uci_social", "split": "train"}
 {"uci_row": 3205, "text": "Aap Apna nambar do mojza hazrat Mohammad ka Wal Mubarak ye...mire nambar 03097065975 Wazeer Abbas", "label": "pos", "n_words": 15, "lang_hint": "urdu", "has_url": false, "id": "uci-03205", "source": "uci_social", "split": "train"}
-{"uci_row": 3207, "text": "Horse trading to norml bat ha imran khan ne senate Election k liay pori PTI zardari ko bech di ha", "label": "pos", "n_words": 20, "lang_hint": "urdu", "has_url": false, "id": "uci-03207", "source": "uci_social", "split": "train"}
+{"uci_row": 3207, "text": "Horse trading to norml bat ha imran khan ne senate Election k liay pori PTI zardari ko bech di ha", "label": "pos", "n_words": 20, "lang_hint": "mixed", "has_url": false, "id": "uci-03207", "source": "uci_social", "split": "train"}
 {"uci_row": 3209, "text": "Asooloon p soda na krna ... Pakistani idaron ki mazboobi aur khushhaali ki illamat hay. Self made qanoon poori qoam ki barbadi hy. Theme k baad thesis mn hero ka name batain. Pakarmy in each field/ task winner", "label": "pos", "n_words": 37, "lang_hint": "urdu", "has_url": false, "id": "uci-03209", "source": "uci_social", "split": "train"}
 {"uci_row": 3210, "text": "Pak Army zindabaad", "label": "pos", "n_words": 3, "lang_hint": "mixed", "has_url": false, "id": "uci-03210", "source": "uci_social", "split": "train"}
 {"uci_row": 3211, "text": "Pak Army. Zindabad.", "label": "pos", "n_words": 3, "lang_hint": "mixed", "has_url": false, "id": "uci-03211", "source": "uci_social", "split": "train"}
@@ -3238,7 +3238,7 @@
 {"uci_row": 3294, "text": "apki eid", "label": "pos", "n_words": 2, "lang_hint": "urdu", "has_url": false, "id": "uci-03294", "source": "uci_social", "split": "train"}
 {"uci_row": 3295, "text": "Hahaha meri story..", "label": "pos", "n_words": 3, "lang_hint": "urdu", "has_url": false, "id": "uci-03295", "source": "uci_social", "split": "train"}
 {"uci_row": 3296, "text": "Ye achi a... Nimra esy sponser mardo", "label": "pos", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-03296", "source": "uci_social", "split": "train"}
-{"uci_row": 3297, "text": "Hahaha dear proper dupata kr lo very good video", "label": "pos", "n_words": 9, "lang_hint": "unknown", "has_url": false, "id": "uci-03297", "source": "uci_social", "split": "train"}
+{"uci_row": 3297, "text": "Hahaha dear proper dupata kr lo very good video", "label": "pos", "n_words": 9, "lang_hint": "mixed", "has_url": false, "id": "uci-03297", "source": "uci_social", "split": "train"}
 {"uci_row": 3298, "text": "Sohaib Hussnain mny nangi larki nyi dekhi us ki acting dekhi wo achi ti funny ti or achi ti hm muslman hy hmy islam ki baat krni chahye tmri tarah nyi soch samjh kr bakwas kia kro", "label": "pos", "n_words": 37, "lang_hint": "urdu", "has_url": false, "id": "uci-03298", "source": "uci_social", "split": "dev"}
 {"uci_row": 3299, "text": "Video bht ala h yar …", "label": "pos", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-03299", "source": "uci_social", "split": "train"}
 {"uci_row": 3300, "text": "haahhahahahahahaah tera b yehi hal he", "label": "pos", "n_words": 6, "lang_hint": "urdu", "has_url": false, "id": "uci-03300", "source": "uci_social", "split": "train"}
@@ -3260,7 +3260,7 @@
 {"uci_row": 3316, "text": "lol thanku so much for clarification. 1 week ago, we both were talking about this style", "label": "pos", "n_words": 15, "lang_hint": "unknown", "has_url": false, "id": "uci-03316", "source": "uci_social", "split": "train"}
 {"uci_row": 3317, "text": "tera ay haal hunda aa", "label": "pos", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-03317", "source": "uci_social", "split": "train"}
 {"uci_row": 3318, "text": "Hahahha hn yrrr asa he ho ta hn har eid par", "label": "pos", "n_words": 11, "lang_hint": "urdu", "has_url": false, "id": "uci-03318", "source": "uci_social", "split": "train"}
-{"uci_row": 3319, "text": "Mre jse suhki hai Bqi e se achii guzrii eid", "label": "pos", "n_words": 10, "lang_hint": "unknown", "has_url": false, "id": "uci-03319", "source": "uci_social", "split": "train"}
+{"uci_row": 3319, "text": "Mre jse suhki hai Bqi e se achii guzrii eid", "label": "pos", "n_words": 10, "lang_hint": "urdu", "has_url": false, "id": "uci-03319", "source": "uci_social", "split": "train"}
 {"uci_row": 3320, "text": "meri story", "label": "pos", "n_words": 2, "lang_hint": "urdu", "has_url": false, "id": "uci-03320", "source": "uci_social", "split": "dev"}
 {"uci_row": 3321, "text": "Haqeeqat aa", "label": "pos", "n_words": 2, "lang_hint": "urdu", "has_url": false, "id": "uci-03321", "source": "uci_social", "split": "train"}
 {"uci_row": 3322, "text": "acha matlab fiza ki eid pictures m hi hoti h", "label": "pos", "n_words": 10, "lang_hint": "urdu", "has_url": false, "id": "uci-03322", "source": "uci_social", "split": "dev"}
@@ -3368,7 +3368,7 @@
 {"uci_row": 3435, "text": "Asghar didn't get chances and Anwar Ali was good . It's harsh to name them", "label": "pos", "n_words": 14, "lang_hint": "unknown", "has_url": false, "id": "uci-03435", "source": "uci_social", "split": "train"}
 {"uci_row": 3436, "text": "Bhai wo kaptaan hai post mai pehlay hee mention hai wo", "label": "pos", "n_words": 11, "lang_hint": "urdu", "has_url": false, "id": "uci-03436", "source": "uci_social", "split": "train"}
 {"uci_row": 3437, "text": "Post Mayn Pehlay Mention Nahi Tha", "label": "pos", "n_words": 6, "lang_hint": "mixed", "has_url": false, "id": "uci-03437", "source": "uci_social", "split": "test"}
-{"uci_row": 3438, "text": "Selfie master Ahmed Shahzad", "label": "pos", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-03438", "source": "uci_social", "split": "train"}
+{"uci_row": 3438, "text": "Selfie master Ahmed Shahzad", "label": "pos", "n_words": 4, "lang_hint": "mixed", "has_url": false, "id": "uci-03438", "source": "uci_social", "split": "train"}
 {"uci_row": 3439, "text": "Acha player ha form ma ha international matches ma wohi scr krta Nz ma b us nr kiye", "label": "pos", "n_words": 18, "lang_hint": "urdu", "has_url": false, "id": "uci-03439", "source": "uci_social", "split": "train"}
 {"uci_row": 3440, "text": "I love lahore qalandars", "label": "pos", "n_words": 4, "lang_hint": "mixed", "has_url": false, "id": "uci-03440", "source": "uci_social", "split": "train"}
 {"uci_row": 3441, "text": "Abhy chal ns babR na kitna zabrdast khala ha pora psl tum log kabhi khush na hona tul asal ma zardari jsa insan ka laiq ho", "label": "pos", "n_words": 26, "lang_hint": "urdu", "has_url": false, "id": "uci-03441", "source": "uci_social", "split": "train"}
@@ -4211,7 +4211,7 @@
 {"uci_row": 4334, "text": "aao yaar yahi tw karte hain ham 😂😂✌", "label": "neu", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-04334", "source": "uci_social", "split": "train"}
 {"uci_row": 4335, "text": "Roz ki kahani.😂", "label": "neu", "n_words": 3, "lang_hint": "urdu", "has_url": false, "id": "uci-04335", "source": "uci_social", "split": "train"}
 {"uci_row": 4336, "text": "Hahahahaha cheema and polly ko to kar lain na 😂😂😂", "label": "neu", "n_words": 9, "lang_hint": "urdu", "has_url": false, "id": "uci-04336", "source": "uci_social", "split": "train"}
-{"uci_row": 4337, "text": "Das mint hain abi 😉😉", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-04337", "source": "uci_social", "split": "train"}
+{"uci_row": 4337, "text": "Das mint hain abi 😉😉", "label": "neu", "n_words": 4, "lang_hint": "mixed", "has_url": false, "id": "uci-04337", "source": "uci_social", "split": "train"}
 {"uci_row": 4338, "text": "Ma ball bna rahi 😉😉", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-04338", "source": "uci_social", "split": "train"}
 {"uci_row": 4339, "text": "jo hum hamaysha kartay hai", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-04339", "source": "uci_social", "split": "train"}
 {"uci_row": 4340, "text": "ludo pr humara kaam😂", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-04340", "source": "uci_social", "split": "train"}
@@ -4306,7 +4306,7 @@
 {"uci_row": 4430, "text": "Hahhahah aw kana agam pa sahre k...", "label": "neu", "n_words": 7, "lang_hint": "unknown", "has_url": false, "id": "uci-04430", "source": "uci_social", "split": "train"}
 {"uci_row": 4431, "text": "Pooh yaad agaya apkaa", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-04431", "source": "uci_social", "split": "train"}
 {"uci_row": 4432, "text": "Aa gai smj menu", "label": "neu", "n_words": 4, "lang_hint": "punjabi?", "has_url": false, "id": "uci-04432", "source": "uci_social", "split": "train"}
-{"uci_row": 4433, "text": "hmaisha khti chk kr zara", "label": "neu", "n_words": 5, "lang_hint": "unknown", "has_url": false, "id": "uci-04433", "source": "uci_social", "split": "train"}
+{"uci_row": 4433, "text": "hmaisha khti chk kr zara", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-04433", "source": "uci_social", "split": "train"}
 {"uci_row": 4434, "text": "humra wala kam ha", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-04434", "source": "uci_social", "split": "train"}
 {"uci_row": 4435, "text": "ao na yar boht time ho gya 😂", "label": "neu", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-04435", "source": "uci_social", "split": "train"}
 {"uci_row": 4436, "text": "kafi dair hi hogayi hai", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-04436", "source": "uci_social", "split": "test"}
@@ -4602,7 +4602,7 @@
 {"uci_row": 4734, "text": "😂😂😂 thnkew kh dena meri trf se 😜😂", "label": "neu", "n_words": 6, "lang_hint": "urdu", "has_url": false, "id": "uci-04734", "source": "uci_social", "split": "dev"}
 {"uci_row": 4735, "text": "Hahah khud keh dooo", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-04735", "source": "uci_social", "split": "train"}
 {"uci_row": 4736, "text": "ammi papa ko thanks bolna", "label": "neu", "n_words": 5, "lang_hint": "mixed", "has_url": false, "id": "uci-04736", "source": "uci_social", "split": "train"}
-{"uci_row": 4738, "text": "say thnx to aunty :D", "label": "neu", "n_words": 5, "lang_hint": "unknown", "has_url": false, "id": "uci-04738", "source": "uci_social", "split": "train"}
+{"uci_row": 4738, "text": "say thnx to aunty :D", "label": "neu", "n_words": 5, "lang_hint": "mixed", "has_url": false, "id": "uci-04738", "source": "uci_social", "split": "train"}
 {"uci_row": 4739, "text": "Uncle anti ka same thanks from.my side too.:p", "label": "neu", "n_words": 10, "lang_hint": "mixed", "has_url": false, "id": "uci-04739", "source": "uci_social", "split": "train"}
 {"uci_row": 4740, "text": "thnx khna meri trf sy😂😂", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-04740", "source": "uci_social", "split": "train"}
 {"uci_row": 4741, "text": "Mri trf sy kr dna thnx", "label": "neu", "n_words": 6, "lang_hint": "mixed", "has_url": false, "id": "uci-04741", "source": "uci_social", "split": "train"}
@@ -4758,7 +4758,7 @@
 {"uci_row": 4902, "text": "thnx to ur parents", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-04902", "source": "uci_social", "split": "train"}
 {"uci_row": 4903, "text": "yours too😂", "label": "neu", "n_words": 2, "lang_hint": "mixed", "has_url": false, "id": "uci-04903", "source": "uci_social", "split": "train"}
 {"uci_row": 4904, "text": "Nice", "label": "neu", "n_words": 1, "lang_hint": "english", "has_url": false, "id": "uci-04904", "source": "uci_social", "split": "train"}
-{"uci_row": 4905, "text": "😛😜😜😛 I miss u my namonay😘😘😘", "label": "neu", "n_words": 5, "lang_hint": "unknown", "has_url": false, "id": "uci-04905", "source": "uci_social", "split": "train"}
+{"uci_row": 4905, "text": "😛😜😜😛 I miss u my namonay😘😘😘", "label": "neu", "n_words": 5, "lang_hint": "mixed", "has_url": false, "id": "uci-04905", "source": "uci_social", "split": "train"}
 {"uci_row": 4906, "text": "shukria uncle or aunti ka 😂", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-04906", "source": "uci_social", "split": "train"}
 {"uci_row": 4907, "text": "Hahaha bc ma krne lgi thi tag neechy dekha tou tu😕 hahaha tmhare mom dad ka b dil se shukrea ronay k sath😂", "label": "neu", "n_words": 23, "lang_hint": "urdu", "has_url": false, "id": "uci-04907", "source": "uci_social", "split": "train"}
 {"uci_row": 4908, "text": "hahahhahhahahahhahhahhah", "label": "neu", "n_words": 1, "lang_hint": "urdu", "has_url": false, "id": "uci-04908", "source": "uci_social", "split": "train"}
@@ -4818,7 +4818,7 @@
 {"uci_row": 4971, "text": "han phr sahi h😎😎", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-04971", "source": "uci_social", "split": "train"}
 {"uci_row": 4972, "text": "yeh tumhari uss aunty ka liyay hai jis kay barey mein tum nay mujhay bataya tha 😂🤣😂🤣", "label": "neu", "n_words": 16, "lang_hint": "urdu", "has_url": false, "id": "uci-04972", "source": "uci_social", "split": "dev"}
 {"uci_row": 4973, "text": "So true", "label": "neu", "n_words": 2, "lang_hint": "mixed", "has_url": false, "id": "uci-04973", "source": "uci_social", "split": "train"}
-{"uci_row": 4975, "text": "phr apko fitness tips chaiye mjhse 😂😜", "label": "neu", "n_words": 6, "lang_hint": "urdu", "has_url": false, "id": "uci-04975", "source": "uci_social", "split": "train"}
+{"uci_row": 4975, "text": "phr apko fitness tips chaiye mjhse 😂😜", "label": "neu", "n_words": 6, "lang_hint": "mixed", "has_url": false, "id": "uci-04975", "source": "uci_social", "split": "train"}
 {"uci_row": 4976, "text": "*HAHAHA* em alwaayss readyy😂🤭🤭", "label": "neu", "n_words": 4, "lang_hint": "unknown", "has_url": false, "id": "uci-04976", "source": "uci_social", "split": "test"}
 {"uci_row": 4977, "text": "Control aunty 😛", "label": "neu", "n_words": 2, "lang_hint": "english", "has_url": false, "id": "uci-04977", "source": "uci_social", "split": "train"}
 {"uci_row": 4978, "text": "Ap tu bus kisi ko kahta dekh ly.... mout nazar ati ha ap ko...", "label": "neu", "n_words": 14, "lang_hint": "urdu", "has_url": false, "id": "uci-04978", "source": "uci_social", "split": "train"}
@@ -4852,7 +4852,7 @@
 {"uci_row": 5007, "text": "your diet 7up after everything. Tch.", "label": "neu", "n_words": 5, "lang_hint": "english", "has_url": false, "id": "uci-05007", "source": "uci_social", "split": "train"}
 {"uci_row": 5008, "text": "No babe they are working....keep calm bcz you've not seen me yet 😂😂", "label": "neu", "n_words": 13, "lang_hint": "unknown", "has_url": false, "id": "uci-05008", "source": "uci_social", "split": "train"}
 {"uci_row": 5009, "text": "But i do it 😂 1 gallan ice cream 😂", "label": "neu", "n_words": 7, "lang_hint": "unknown", "has_url": false, "id": "uci-05009", "source": "uci_social", "split": "train"}
-{"uci_row": 5010, "text": "😂 healthy food khainn ap", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-05010", "source": "uci_social", "split": "train"}
+{"uci_row": 5010, "text": "😂 healthy food khainn ap", "label": "neu", "n_words": 4, "lang_hint": "mixed", "has_url": false, "id": "uci-05010", "source": "uci_social", "split": "train"}
 {"uci_row": 5011, "text": "typical story of my life😂😂😂", "label": "neu", "n_words": 5, "lang_hint": "english", "has_url": false, "id": "uci-05011", "source": "uci_social", "split": "train"}
 {"uci_row": 5012, "text": "typical story of your life", "label": "neu", "n_words": 5, "lang_hint": "english", "has_url": false, "id": "uci-05012", "source": "uci_social", "split": "train"}
 {"uci_row": 5013, "text": "is that true.....", "label": "neu", "n_words": 3, "lang_hint": "english", "has_url": false, "id": "uci-05013", "source": "uci_social", "split": "train"}
@@ -4889,7 +4889,7 @@
 {"uci_row": 5046, "text": "Accha ek kaam kro hamare yahan a kr order krdo 😜😂😂😂", "label": "neu", "n_words": 10, "lang_hint": "urdu", "has_url": false, "id": "uci-05046", "source": "uci_social", "split": "test", "in_normalization_test": true}
 {"uci_row": 5047, "text": "Ok oder krdoge jb aye to payment krdyga ap se bhar k thori h abhi oder marti hon", "label": "neu", "n_words": 18, "lang_hint": "urdu", "has_url": false, "id": "uci-05047", "source": "uci_social", "split": "dev"}
 {"uci_row": 5048, "text": "Story of my life 😰😕", "label": "neu", "n_words": 4, "lang_hint": "english", "has_url": false, "id": "uci-05048", "source": "uci_social", "split": "test"}
-{"uci_row": 5049, "text": "healthy😂😆🙌", "label": "neu", "n_words": 1, "lang_hint": "unknown", "has_url": false, "id": "uci-05049", "source": "uci_social", "split": "train"}
+{"uci_row": 5049, "text": "healthy😂😆🙌", "label": "neu", "n_words": 1, "lang_hint": "english", "has_url": false, "id": "uci-05049", "source": "uci_social", "split": "train"}
 {"uci_row": 5050, "text": "our type of dieting 😉😝😂", "label": "neu", "n_words": 4, "lang_hint": "unknown", "has_url": false, "id": "uci-05050", "source": "uci_social", "split": "train"}
 {"uci_row": 5051, "text": "Hahaha....True..", "label": "neu", "n_words": 2, "lang_hint": "mixed", "has_url": false, "id": "uci-05051", "source": "uci_social", "split": "train"}
 {"uci_row": 5052, "text": "� hmari dieting", "label": "neu", "n_words": 2, "lang_hint": "urdu", "has_url": false, "id": "uci-05052", "source": "uci_social", "split": "train"}
@@ -4933,7 +4933,7 @@
 {"uci_row": 5091, "text": "baby aesa naaa karnaaa 😂😂😂", "label": "neu", "n_words": 4, "lang_hint": "unknown", "has_url": false, "id": "uci-05091", "source": "uci_social", "split": "train"}
 {"uci_row": 5092, "text": "kal se deit😁😁😁😁", "label": "neu", "n_words": 3, "lang_hint": "urdu", "has_url": false, "id": "uci-05092", "source": "uci_social", "split": "train"}
 {"uci_row": 5093, "text": "Perfect dieting plan", "label": "neu", "n_words": 3, "lang_hint": "english", "has_url": false, "id": "uci-05093", "source": "uci_social", "split": "train"}
-{"uci_row": 5094, "text": "Inko aadhi raat tk sabr ki zroorat nai... Biryani lunch mei khatay huway kaheingi... Ohh healthy food u kno... Good carbs ... I eat just clean.... Adayeeeeiinnnn 😂😂😂", "label": "neu", "n_words": 26, "lang_hint": "urdu", "has_url": false, "id": "uci-05094", "source": "uci_social", "split": "test"}
+{"uci_row": 5094, "text": "Inko aadhi raat tk sabr ki zroorat nai... Biryani lunch mei khatay huway kaheingi... Ohh healthy food u kno... Good carbs ... I eat just clean.... Adayeeeeiinnnn 😂😂😂", "label": "neu", "n_words": 26, "lang_hint": "mixed", "has_url": false, "id": "uci-05094", "source": "uci_social", "split": "test"}
 {"uci_row": 5095, "text": "apki bt chal rahi hy 😂", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-05095", "source": "uci_social", "split": "train"}
 {"uci_row": 5096, "text": "Aur chocolates kon khayega 😂", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-05096", "source": "uci_social", "split": "train"}
 {"uci_row": 5097, "text": "Wo to compulsory hy", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-05097", "source": "uci_social", "split": "dev"}
@@ -5154,7 +5154,7 @@
 {"uci_row": 5330, "text": "Sirf Korangi k Log Rabta Karen", "label": "neu", "n_words": 6, "lang_hint": "urdu", "has_url": false, "id": "uci-05330", "source": "uci_social", "split": "test"}
 {"uci_row": 5331, "text": "Media Ne 6 30 Bajte He Gair Sarkari Nataij Dena Shuru Ker Diye", "label": "neu", "n_words": 11, "lang_hint": "urdu", "has_url": false, "id": "uci-05331", "source": "uci_social", "split": "train"}
 {"uci_row": 5332, "text": "Zarorat Hai Clifton Me Shoes ki Branch k Lye Tajurbakar Salesmen Ki", "label": "neu", "n_words": 12, "lang_hint": "urdu", "has_url": false, "id": "uci-05332", "source": "uci_social", "split": "train"}
-{"uci_row": 5333, "text": "Job Timing12 Hours Hai", "label": "neu", "n_words": 4, "lang_hint": "unknown", "has_url": false, "id": "uci-05333", "source": "uci_social", "split": "test"}
+{"uci_row": 5333, "text": "Job Timing12 Hours Hai", "label": "neu", "n_words": 4, "lang_hint": "english", "has_url": false, "id": "uci-05333", "source": "uci_social", "split": "test"}
 {"uci_row": 5334, "text": "Zaroratmand Afrad Rabta Karain", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-05334", "source": "uci_social", "split": "train"}
 {"uci_row": 5335, "text": "Awam Ki Govt Se Notice Lene Ki Appeal", "label": "neu", "n_words": 8, "lang_hint": "mixed", "has_url": false, "id": "uci-05335", "source": "uci_social", "split": "train"}
 {"uci_row": 5336, "text": "119 46 Points K Izafay K Baad 34065 87 Points Per Band", "label": "neu", "n_words": 8, "lang_hint": "urdu", "has_url": false, "id": "uci-05336", "source": "uci_social", "split": "train"}
@@ -5372,7 +5372,7 @@
 {"uci_row": 5559, "text": "Form ki Fees 1000 Rs Hai", "label": "neu", "n_words": 5, "lang_hint": "mixed", "has_url": false, "id": "uci-05559", "source": "uci_social", "split": "train"}
 {"uci_row": 5560, "text": "Ko Subah 8 Bajay Se 24 24 Ghanton Ke Liye Band Rahein Ge", "label": "neu", "n_words": 10, "lang_hint": "urdu", "has_url": false, "id": "uci-05560", "source": "uci_social", "split": "train"}
 {"uci_row": 5561, "text": "First run for ABD in his 33rd ball", "label": "neu", "n_words": 7, "lang_hint": "unknown", "has_url": false, "id": "uci-05561", "source": "uci_social", "split": "train"}
-{"uci_row": 5562, "text": "First Amla ABD partnership run in the 63rd ball", "label": "neu", "n_words": 8, "lang_hint": "urdu", "has_url": false, "id": "uci-05562", "source": "uci_social", "split": "dev"}
+{"uci_row": 5562, "text": "First Amla ABD partnership run in the 63rd ball", "label": "neu", "n_words": 8, "lang_hint": "mixed", "has_url": false, "id": "uci-05562", "source": "uci_social", "split": "dev"}
 {"uci_row": 5563, "text": "Shabrah Me Jaidad K Tanazy Pr Firing 3 janbahaq 2 Zakhmi", "label": "neu", "n_words": 9, "lang_hint": "urdu", "has_url": false, "id": "uci-05563", "source": "uci_social", "split": "train"}
 {"uci_row": 5564, "text": "Punjab Me Kai Maqamat Per PTI amp PML N Karkunan Me Hathapai", "label": "neu", "n_words": 12, "lang_hint": "urdu", "has_url": false, "id": "uci-05564", "source": "uci_social", "split": "train"}
 {"uci_row": 5565, "text": "Rangers Ku Polling Stations K Andar Janay Ka Ikhtiyar Mil Gaya", "label": "neu", "n_words": 11, "lang_hint": "urdu", "has_url": false, "id": "uci-05565", "source": "uci_social", "split": "train"}
@@ -5420,7 +5420,7 @@
 {"uci_row": 5607, "text": "Khaas taur par bachon ke muaamle mein.", "label": "neu", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-05607", "source": "uci_social", "split": "train"}
 {"uci_row": 5608, "text": "Bachon ki nigehdasht ke hawale se Reham Khan ka kehna tha", "label": "neu", "n_words": 11, "lang_hint": "urdu", "has_url": false, "id": "uci-05608", "source": "uci_social", "split": "train"}
 {"uci_row": 5609, "text": "Anchor person ke taur par apne career ke barey mein aik sawal ka jawab dete hue Reham Khan yun goya hue", "label": "neu", "n_words": 21, "lang_hint": "urdu", "has_url": false, "id": "uci-05609", "source": "uci_social", "split": "dev"}
-{"uci_row": 5610, "text": "Main ne is ka interview karne ke liye bajore agency ka safar kiya.", "label": "neu", "n_words": 13, "lang_hint": "urdu", "has_url": false, "id": "uci-05610", "source": "uci_social", "split": "train"}
+{"uci_row": 5610, "text": "Main ne is ka interview karne ke liye bajore agency ka safar kiya.", "label": "neu", "n_words": 13, "lang_hint": "mixed", "has_url": false, "id": "uci-05610", "source": "uci_social", "split": "train"}
 {"uci_row": 5611, "text": "Jab Reham Khan se pocha gaya ke wo aik politician ki wife ke taur par apne nae kirdar ko kis nazar se dekhti hain", "label": "neu", "n_words": 24, "lang_hint": "urdu", "has_url": false, "id": "uci-05611", "source": "uci_social", "split": "train"}
 {"uci_row": 5612, "text": "Reham Khan ka jawab tha", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-05612", "source": "uci_social", "split": "train"}
 {"uci_row": 5613, "text": "Apni shadi ke barey mein izhaar e khayalaat karte hue Reham Khan na kaha", "label": "neu", "n_words": 14, "lang_hint": "urdu", "has_url": false, "id": "uci-05613", "source": "uci_social", "split": "train"}
@@ -6761,7 +6761,7 @@
 {"uci_row": 6964, "text": "Shahid Afridi apne oper se one day slogger ka label hatane ke liye sir torh koshishen karte rehte hain aura b tak inho ne jo test match khele hain", "label": "neu", "n_words": 29, "lang_hint": "urdu", "has_url": false, "id": "uci-06964", "source": "uci_social", "split": "train"}
 {"uci_row": 6965, "text": "Un mein kabhi batsman aur kabhi baller ki hesiyat se apna loha manwaya hai", "label": "neu", "n_words": 14, "lang_hint": "urdu", "has_url": false, "id": "uci-06965", "source": "uci_social", "split": "train"}
 {"uci_row": 6966, "text": "Aik se ziyada mawaqey par inho ne gher mamooli balling attack ki bhi dhajjiyan bikheri hain", "label": "neu", "n_words": 16, "lang_hint": "urdu", "has_url": false, "id": "uci-06966", "source": "uci_social", "split": "train"}
-{"uci_row": 6967, "text": "Mukhtasir se run up ke bawajood wo apni tez leg break se ball ko khasa bounce de lete hain", "label": "neu", "n_words": 19, "lang_hint": "urdu", "has_url": false, "id": "uci-06967", "source": "uci_social", "split": "train"}
+{"uci_row": 6967, "text": "Mukhtasir se run up ke bawajood wo apni tez leg break se ball ko khasa bounce de lete hain", "label": "neu", "n_words": 19, "lang_hint": "mixed", "has_url": false, "id": "uci-06967", "source": "uci_social", "split": "train"}
 {"uci_row": 6968, "text": "us ke bad Ajwa Afridi,", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-06968", "source": "uci_social", "split": "train"}
 {"uci_row": 6969, "text": "us ke bad Asmara Afridi aur phir Ansha Afridi", "label": "neu", "n_words": 9, "lang_hint": "urdu", "has_url": false, "id": "uci-06969", "source": "uci_social", "split": "train"}
 {"uci_row": 6970, "text": "Is tarah Shahid Afridi ki 4 betiyan hain", "label": "neu", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-06970", "source": "uci_social", "split": "train"}
@@ -6808,7 +6808,7 @@
 {"uci_row": 7012, "text": "Chunache inho ne wakalat ko kherbad kaha aur acting se nata jorh liya", "label": "neu", "n_words": 13, "lang_hint": "urdu", "has_url": false, "id": "uci-07012", "source": "uci_social", "split": "train"}
 {"uci_row": 7013, "text": "Agarcha Farooq Sheikh us waqt law college he mien zer e taleem the", "label": "neu", "n_words": 13, "lang_hint": "urdu", "has_url": false, "id": "uci-07013", "source": "uci_social", "split": "train"}
 {"uci_row": 7014, "text": "Acting ka aaghaz inho ne Indian peoples theater association IPTA ke tehat hone wale stage dramas se kiya", "label": "neu", "n_words": 18, "lang_hint": "urdu", "has_url": false, "id": "uci-07014", "source": "uci_social", "split": "train"}
-{"uci_row": 7015, "text": "IPTA left arm se talluq rakhne wale stage artists ki tanzeem thi", "label": "neu", "n_words": 12, "lang_hint": "urdu", "has_url": false, "id": "uci-07015", "source": "uci_social", "split": "train"}
+{"uci_row": 7015, "text": "IPTA left arm se talluq rakhne wale stage artists ki tanzeem thi", "label": "neu", "n_words": 12, "lang_hint": "mixed", "has_url": false, "id": "uci-07015", "source": "uci_social", "split": "train"}
 {"uci_row": 7016, "text": "1973 mien jab ke Farooq law college he mien zer e taleem the", "label": "neu", "n_words": 12, "lang_hint": "urdu", "has_url": false, "id": "uci-07016", "source": "uci_social", "split": "dev"}
 {"uci_row": 7017, "text": "Garam Hawa mien aik muslim gharane ki kahani dikhai gait hi, jo taqseem ke bad is makhmasey mien mubtila hota hai ke Pakistan hijrat ki jaey ya Hindustan he mien reh jaey", "label": "neu", "n_words": 32, "lang_hint": "urdu", "has_url": false, "id": "uci-07017", "source": "uci_social", "split": "train"}
 {"uci_row": 7018, "text": "Radio par wo zehni aazmaiysh ke program ke meyzban the", "label": "neu", "n_words": 10, "lang_hint": "urdu", "has_url": false, "id": "uci-07018", "source": "uci_social", "split": "test"}
@@ -7249,7 +7249,7 @@
 {"uci_row": 7453, "text": "Javed Miandad ne apne test career ka agaz New Zealand ka khilaf home series se kiya", "label": "neu", "n_words": 16, "lang_hint": "mixed", "has_url": false, "id": "uci-07453", "source": "uci_social", "split": "train"}
 {"uci_row": 7454, "text": "Iss team Imran khan bhi shamil they jo watan ki sar zameen per apna phela test khel rahe they", "label": "neu", "n_words": 19, "lang_hint": "mixed", "has_url": false, "id": "uci-07454", "source": "uci_social", "split": "train"}
 {"uci_row": 7455, "text": "Miandad ka akhri match world cup 1996 ka quarter final tha", "label": "neu", "n_words": 10, "lang_hint": "mixed", "has_url": false, "id": "uci-07455", "source": "uci_social", "split": "train"}
-{"uci_row": 7456, "text": "Jo Bangalore mein khela gaya aur jis mein Miandad 38 runs bana kar run out huwe", "label": "neu", "n_words": 15, "lang_hint": "urdu", "has_url": false, "id": "uci-07456", "source": "uci_social", "split": "dev"}
+{"uci_row": 7456, "text": "Jo Bangalore mein khela gaya aur jis mein Miandad 38 runs bana kar run out huwe", "label": "neu", "n_words": 15, "lang_hint": "mixed", "has_url": false, "id": "uci-07456", "source": "uci_social", "split": "dev"}
 {"uci_row": 7457, "text": "1981 se 82 jab Pakistan ki team Australia ka doure per gai to team mein imteshar urroj per tha", "label": "neu", "n_words": 17, "lang_hint": "urdu", "has_url": false, "id": "uci-07457", "source": "uci_social", "split": "train"}
 {"uci_row": 7458, "text": "Undino Sri Lanka ki team Pakistan ka doure per aye thi", "label": "neu", "n_words": 11, "lang_hint": "urdu", "has_url": false, "id": "uci-07458", "source": "uci_social", "split": "train"}
 {"uci_row": 7459, "text": "Iss ka bad Miandad ne khud hi captainship se dastaber hone ka alan kardiya Air marshal Noor khan ne Imran khan ko captain bana diya", "label": "neu", "n_words": 25, "lang_hint": "urdu", "has_url": false, "id": "uci-07459", "source": "uci_social", "split": "train"}
@@ -7543,7 +7543,7 @@
 {"uci_row": 7747, "text": "KPK clerical all post upgradation May 2014", "label": "neu", "n_words": 6, "lang_hint": "unknown", "has_url": false, "id": "uci-07747", "source": "uci_social", "split": "train"}
 {"uci_row": 7748, "text": "Clerical staff ki upgradation ka case kaha tak ponch hay g", "label": "neu", "n_words": 11, "lang_hint": "urdu", "has_url": false, "id": "uci-07748", "source": "uci_social", "split": "train"}
 {"uci_row": 7749, "text": "up gradation must be with out conditions", "label": "neu", "n_words": 7, "lang_hint": "unknown", "has_url": false, "id": "uci-07749", "source": "uci_social", "split": "train"}
-{"uci_row": 7750, "text": "Sind mai upgradation howa hay", "label": "neu", "n_words": 5, "lang_hint": "unknown", "has_url": false, "id": "uci-07750", "source": "uci_social", "split": "dev"}
+{"uci_row": 7750, "text": "Sind mai upgradation howa hay", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-07750", "source": "uci_social", "split": "dev"}
 {"uci_row": 7751, "text": "Kis province mai???", "label": "neu", "n_words": 3, "lang_hint": "urdu", "has_url": false, "id": "uci-07751", "source": "uci_social", "split": "train"}
 {"uci_row": 7752, "text": "Sir, Federal govt mai", "label": "neu", "n_words": 4, "lang_hint": "mixed", "has_url": false, "id": "uci-07752", "source": "uci_social", "split": "train"}
 {"uci_row": 7753, "text": "Sir, Clerical staff ki upgradation ka kaya bana", "label": "neu", "n_words": 8, "lang_hint": "urdu", "has_url": false, "id": "uci-07753", "source": "uci_social", "split": "train"}
@@ -7689,7 +7689,7 @@
 {"uci_row": 7902, "text": "Bhai to zinda bhi army ki wajah se hai Jo aaj Facebook PE use kar raha hai na", "label": "neu", "n_words": 18, "lang_hint": "urdu", "has_url": false, "id": "uci-07902", "source": "uci_social", "split": "train"}
 {"uci_row": 7903, "text": "Duniya mein ajjj tak koi country army k under progress nhi kr ski..or na kr skti..Jahan army officer ka miyar ya ho k ziada intelligent ho to nhi rakhty", "label": "neu", "n_words": 31, "lang_hint": "urdu", "has_url": false, "id": "uci-07903", "source": "uci_social", "split": "train"}
 {"uci_row": 7904, "text": "Hamari awam ka paisa khaarahy h ye log to ha mulk k bacho or MA bap ka paisa jaraha h", "label": "neu", "n_words": 20, "lang_hint": "urdu", "has_url": false, "id": "uci-07904", "source": "uci_social", "split": "train"}
-{"uci_row": 7905, "text": "hehehehe gud answer", "label": "neu", "n_words": 3, "lang_hint": "unknown", "has_url": false, "id": "uci-07905", "source": "uci_social", "split": "train"}
+{"uci_row": 7905, "text": "hehehehe gud answer", "label": "neu", "n_words": 3, "lang_hint": "mixed", "has_url": false, "id": "uci-07905", "source": "uci_social", "split": "train"}
 {"uci_row": 7906, "text": "LNG ka paisa zindabad", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-07906", "source": "uci_social", "split": "train"}
 {"uci_row": 7907, "text": "Admin, I am not supporter of PMLN. But ye Barat ki Pictures hain. Barat ka sara kharcha Larki ka baap karta hai. Jitna Allah ne usy diya hoga utna us ne kiya hoga... Kindly Walima ki Pictures b share karein ta k us pe Tabsara ho sakey.", "label": "neu", "n_words": 47, "lang_hint": "urdu", "has_url": false, "id": "uci-07907", "source": "uci_social", "split": "train"}
 {"uci_row": 7908, "text": "Wo Middle or Lower Class me hota hai..Larkay walay Jo Jewellery banate hain wo Walima me hi pehnate hain.", "label": "neu", "n_words": 20, "lang_hint": "urdu", "has_url": false, "id": "uci-07908", "source": "uci_social", "split": "train"}
@@ -8008,7 +8008,7 @@
 {"uci_row": 8396, "text": "Find some new one", "label": "neu", "n_words": 4, "lang_hint": "english", "has_url": false, "id": "uci-08396", "source": "uci_social", "split": "train"}
 {"uci_row": 8397, "text": "Any suggestion?", "label": "neu", "n_words": 2, "lang_hint": "unknown", "has_url": false, "id": "uci-08397", "source": "uci_social", "split": "train"}
 {"uci_row": 8398, "text": "Try something new", "label": "neu", "n_words": 3, "lang_hint": "english", "has_url": false, "id": "uci-08398", "source": "uci_social", "split": "train"}
-{"uci_row": 8399, "text": "This is what im asking for... what u want me to post except this ...", "label": "neu", "n_words": 14, "lang_hint": "unknown", "has_url": false, "id": "uci-08399", "source": "uci_social", "split": "test"}
+{"uci_row": 8399, "text": "This is what im asking for... what u want me to post except this ...", "label": "neu", "n_words": 14, "lang_hint": "english", "has_url": false, "id": "uci-08399", "source": "uci_social", "split": "test"}
 {"uci_row": 8400, "text": "U are the entertainer I guess....", "label": "neu", "n_words": 6, "lang_hint": "urdu", "has_url": false, "id": "uci-08400", "source": "uci_social", "split": "train"}
 {"uci_row": 8401, "text": "Hahaahah", "label": "neu", "n_words": 1, "lang_hint": "urdu", "has_url": false, "id": "uci-08401", "source": "uci_social", "split": "dev"}
 {"uci_row": 8402, "text": "sbi pighal jaty h yhan", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-08402", "source": "uci_social", "split": "train"}
@@ -8099,7 +8099,7 @@
 {"uci_row": 8494, "text": "Q pg na paRt ty ya business stRt kR diya ha......", "label": "neu", "n_words": 11, "lang_hint": "urdu", "has_url": false, "id": "uci-08494", "source": "uci_social", "split": "train"}
 {"uci_row": 8495, "text": "Aug..Ye to lol ho gya", "label": "neu", "n_words": 6, "lang_hint": "mixed", "has_url": false, "id": "uci-08495", "source": "uci_social", "split": "train"}
 {"uci_row": 8496, "text": "Jhot. September", "label": "neu", "n_words": 2, "lang_hint": "urdu", "has_url": false, "id": "uci-08496", "source": "uci_social", "split": "train"}
-{"uci_row": 8497, "text": "Exact", "label": "neu", "n_words": 1, "lang_hint": "unknown", "has_url": false, "id": "uci-08497", "source": "uci_social", "split": "train"}
+{"uci_row": 8497, "text": "Exact", "label": "neu", "n_words": 1, "lang_hint": "english", "has_url": false, "id": "uci-08497", "source": "uci_social", "split": "train"}
 {"uci_row": 8498, "text": "7 times", "label": "neu", "n_words": 1, "lang_hint": "urdu", "has_url": false, "id": "uci-08498", "source": "uci_social", "split": "train"}
 {"uci_row": 8499, "text": "June", "label": "neu", "n_words": 1, "lang_hint": "urdu", "has_url": false, "id": "uci-08499", "source": "uci_social", "split": "train"}
 {"uci_row": 8501, "text": "le sunle December wale kese hote hen", "label": "neu", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-08501", "source": "uci_social", "split": "train"}
@@ -8472,7 +8472,7 @@
 {"uci_row": 8915, "text": "Zeh aaaa tum bhi asi kaltii", "label": "neu", "n_words": 6, "lang_hint": "urdu", "has_url": false, "id": "uci-08915", "source": "uci_social", "split": "train"}
 {"uci_row": 8916, "text": "Ma kb karteeee.... Jotha", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-08916", "source": "uci_social", "split": "train"}
 {"uci_row": 8918, "text": "Thank u", "label": "neu", "n_words": 2, "lang_hint": "mixed", "has_url": false, "id": "uci-08918", "source": "uci_social", "split": "train"}
-{"uci_row": 8919, "text": "Relationship", "label": "neu", "n_words": 1, "lang_hint": "unknown", "has_url": false, "id": "uci-08919", "source": "uci_social", "split": "train"}
+{"uci_row": 8919, "text": "Relationship", "label": "neu", "n_words": 1, "lang_hint": "english", "has_url": false, "id": "uci-08919", "source": "uci_social", "split": "train"}
 {"uci_row": 8920, "text": "Level h januu tra", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-08920", "source": "uci_social", "split": "train"}
 {"uci_row": 8921, "text": "... shalwar kameez pahn k bahr nikla kre... smjhe ap", "label": "neu", "n_words": 9, "lang_hint": "urdu", "has_url": false, "id": "uci-08921", "source": "uci_social", "split": "train"}
 {"uci_row": 8922, "text": "Even ballaaa then the last one, killing it bro", "label": "neu", "n_words": 9, "lang_hint": "unknown", "has_url": false, "id": "uci-08922", "source": "uci_social", "split": "train"}
@@ -8526,7 +8526,7 @@
 {"uci_row": 8974, "text": "Best of Luck", "label": "neu", "n_words": 3, "lang_hint": "english", "has_url": false, "id": "uci-08974", "source": "uci_social", "split": "train"}
 {"uci_row": 8975, "text": "ha ha h again a 4 star video out of 5", "label": "neu", "n_words": 9, "lang_hint": "mixed", "has_url": false, "id": "uci-08975", "source": "uci_social", "split": "train"}
 {"uci_row": 8977, "text": "Looking so beautiful", "label": "neu", "n_words": 3, "lang_hint": "english", "has_url": false, "id": "uci-08977", "source": "uci_social", "split": "train"}
-{"uci_row": 8978, "text": "Aap to MayaNaz-Adakara niklin", "label": "neu", "n_words": 5, "lang_hint": "unknown", "has_url": false, "id": "uci-08978", "source": "uci_social", "split": "train"}
+{"uci_row": 8978, "text": "Aap to MayaNaz-Adakara niklin", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-08978", "source": "uci_social", "split": "train"}
 {"uci_row": 8979, "text": "Nai aisi koi bat nhi hai", "label": "neu", "n_words": 6, "lang_hint": "urdu", "has_url": false, "id": "uci-08979", "source": "uci_social", "split": "train"}
 {"uci_row": 8980, "text": "Naa jeee baat to aisi he hai... Aisi na hoti to kehtay he kiun", "label": "neu", "n_words": 14, "lang_hint": "urdu", "has_url": false, "id": "uci-08980", "source": "uci_social", "split": "train"}
 {"uci_row": 8981, "text": "Ky howa h is ko ..", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-08981", "source": "uci_social", "split": "train"}
@@ -8615,7 +8615,7 @@
 {"uci_row": 9080, "text": "The Most Sensible Statement Of Him...", "label": "neu", "n_words": 6, "lang_hint": "unknown", "has_url": false, "id": "uci-09080", "source": "uci_social", "split": "dev"}
 {"uci_row": 9082, "text": "Respect for him.", "label": "neu", "n_words": 3, "lang_hint": "english", "has_url": false, "id": "uci-09082", "source": "uci_social", "split": "train"}
 {"uci_row": 9084, "text": "You r realy soldier sir", "label": "neu", "n_words": 5, "lang_hint": "unknown", "has_url": false, "id": "uci-09084", "source": "uci_social", "split": "train"}
-{"uci_row": 9085, "text": "Ohhh thnX", "label": "neu", "n_words": 2, "lang_hint": "unknown", "has_url": false, "id": "uci-09085", "source": "uci_social", "split": "train"}
+{"uci_row": 9085, "text": "Ohhh thnX", "label": "neu", "n_words": 2, "lang_hint": "urdu", "has_url": false, "id": "uci-09085", "source": "uci_social", "split": "train"}
 {"uci_row": 9086, "text": "Mazo ee Kon Ayo ,", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-09086", "source": "uci_social", "split": "train"}
 {"uci_row": 9087, "text": "Sahi main", "label": "neu", "n_words": 2, "lang_hint": "urdu", "has_url": false, "id": "uci-09087", "source": "uci_social", "split": "train"}
 {"uci_row": 9088, "text": "Look at their team first the players they got admin then post anything ...", "label": "neu", "n_words": 13, "lang_hint": "english", "has_url": false, "id": "uci-09088", "source": "uci_social", "split": "train"}
@@ -8778,11 +8778,11 @@
 {"uci_row": 9266, "text": "We r with u and rana fawad", "label": "neu", "n_words": 7, "lang_hint": "unknown", "has_url": false, "id": "uci-09266", "source": "uci_social", "split": "train"}
 {"uci_row": 9267, "text": "Give bilal asif a chance", "label": "neu", "n_words": 5, "lang_hint": "mixed", "has_url": false, "id": "uci-09267", "source": "uci_social", "split": "test"}
 {"uci_row": 9268, "text": "Very bad", "label": "neu", "n_words": 2, "lang_hint": "mixed", "has_url": false, "id": "uci-09268", "source": "uci_social", "split": "test"}
-{"uci_row": 9269, "text": "Itni boring league h total matches one side", "label": "neu", "n_words": 8, "lang_hint": "urdu", "has_url": false, "id": "uci-09269", "source": "uci_social", "split": "train"}
+{"uci_row": 9269, "text": "Itni boring league h total matches one side", "label": "neu", "n_words": 8, "lang_hint": "mixed", "has_url": false, "id": "uci-09269", "source": "uci_social", "split": "train"}
 {"uci_row": 9270, "text": "Umar akmal ko nhi dalna team mai", "label": "neu", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-09270", "source": "uci_social", "split": "train"}
 {"uci_row": 9271, "text": "Plz Umer Akmal bring back", "label": "neu", "n_words": 5, "lang_hint": "unknown", "has_url": false, "id": "uci-09271", "source": "uci_social", "split": "train"}
 {"uci_row": 9272, "text": "Give a chance to Bilal Asif", "label": "neu", "n_words": 6, "lang_hint": "mixed", "has_url": false, "id": "uci-09272", "source": "uci_social", "split": "train"}
-{"uci_row": 9273, "text": "Gud team gud combination nd lhr will win inshaAllah", "label": "neu", "n_words": 9, "lang_hint": "unknown", "has_url": false, "id": "uci-09273", "source": "uci_social", "split": "train"}
+{"uci_row": 9273, "text": "Gud team gud combination nd lhr will win inshaAllah", "label": "neu", "n_words": 9, "lang_hint": "mixed", "has_url": false, "id": "uci-09273", "source": "uci_social", "split": "train"}
 {"uci_row": 9274, "text": "Gud luck lhr team", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-09274", "source": "uci_social", "split": "train"}
 {"uci_row": 9275, "text": "Ragr den ni rgr dia queeta Ko .", "label": "neu", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-09275", "source": "uci_social", "split": "train"}
 {"uci_row": 9276, "text": "salman irshad ko chance 2", "label": "neu", "n_words": 4, "lang_hint": "mixed", "has_url": false, "id": "uci-09276", "source": "uci_social", "split": "train"}
@@ -8822,7 +8822,7 @@
 {"uci_row": 9313, "text": "Umer ko khelna chahye tha", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-09313", "source": "uci_social", "split": "train"}
 {"uci_row": 9314, "text": "hahaha tek dy traa zweyaa mong bai tapos kaww.", "label": "neu", "n_words": 9, "lang_hint": "unknown", "has_url": false, "id": "uci-09314", "source": "uci_social", "split": "train"}
 {"uci_row": 9315, "text": "Hhhh Wo kna yra", "label": "neu", "n_words": 4, "lang_hint": "unknown", "has_url": false, "id": "uci-09315", "source": "uci_social", "split": "train"}
-{"uci_row": 9316, "text": "Gud", "label": "neu", "n_words": 1, "lang_hint": "unknown", "has_url": false, "id": "uci-09316", "source": "uci_social", "split": "train"}
+{"uci_row": 9316, "text": "Gud", "label": "neu", "n_words": 1, "lang_hint": "urdu", "has_url": false, "id": "uci-09316", "source": "uci_social", "split": "train"}
 {"uci_row": 9317, "text": "No change", "label": "neu", "n_words": 2, "lang_hint": "mixed", "has_url": false, "id": "uci-09317", "source": "uci_social", "split": "train"}
 {"uci_row": 9319, "text": "Can you buy Joe Root or Chris Lynn for next matches?", "label": "neu", "n_words": 11, "lang_hint": "unknown", "has_url": false, "id": "uci-09319", "source": "uci_social", "split": "train"}
 {"uci_row": 9320, "text": "Chris lynn is injured otherwise he is already part of our team", "label": "neu", "n_words": 12, "lang_hint": "mixed", "has_url": false, "id": "uci-09320", "source": "uci_social", "split": "train"}
@@ -9278,7 +9278,7 @@
 {"uci_row": 9872, "text": "Zan mured", "label": "neu", "n_words": 2, "lang_hint": "urdu", "has_url": false, "id": "uci-09872", "source": "uci_social", "split": "train"}
 {"uci_row": 9873, "text": "Fawad choudhery hahahahahahahahaha", "label": "neu", "n_words": 3, "lang_hint": "urdu", "has_url": false, "id": "uci-09873", "source": "uci_social", "split": "train"}
 {"uci_row": 9874, "text": "Sherru ki Jaga Fawad Chudary ...", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-09874", "source": "uci_social", "split": "train"}
-{"uci_row": 9876, "text": "2 Dogs", "label": "neu", "n_words": 1, "lang_hint": "unknown", "has_url": false, "id": "uci-09876", "source": "uci_social", "split": "test"}
+{"uci_row": 9876, "text": "2 Dogs", "label": "neu", "n_words": 1, "lang_hint": "english", "has_url": false, "id": "uci-09876", "source": "uci_social", "split": "test"}
 {"uci_row": 9878, "text": "O", "label": "neu", "n_words": 1, "lang_hint": "urdu", "has_url": false, "id": "uci-09878", "source": "uci_social", "split": "test"}
 {"uci_row": 9879, "text": "Ye niyazi khud kuta h", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-09879", "source": "uci_social", "split": "train"}
 {"uci_row": 9880, "text": "Meri dua to yeh qadri sb jesi musibat bi Pakistan k galy main na prry aur na in ka koi perokar. Nahi to phr altaf bhai wala khel shru ho jay ga", "label": "neu", "n_words": 32, "lang_hint": "urdu", "has_url": false, "id": "uci-09880", "source": "uci_social", "split": "dev"}
@@ -9514,7 +9514,7 @@
 {"uci_row": 10184, "text": "Ap tw jesi Bari naik parveen hein 😂😜", "label": "neg", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-10184", "source": "uci_social", "split": "dev"}
 {"uci_row": 10185, "text": ":D ap k suhbat n bigara h", "label": "neg", "n_words": 7, "lang_hint": "unknown", "has_url": false, "id": "uci-10185", "source": "uci_social", "split": "test"}
 {"uci_row": 10186, "text": "Bus brri ki qadar nae apko", "label": "neg", "n_words": 6, "lang_hint": "urdu", "has_url": false, "id": "uci-10186", "source": "uci_social", "split": "train"}
-{"uci_row": 10187, "text": "Chuta zahen", "label": "neg", "n_words": 2, "lang_hint": "unknown", "has_url": false, "id": "uci-10187", "source": "uci_social", "split": "train"}
+{"uci_row": 10187, "text": "Chuta zahen", "label": "neg", "n_words": 2, "lang_hint": "urdu", "has_url": false, "id": "uci-10187", "source": "uci_social", "split": "train"}
 {"uci_row": 10188, "text": "Har khoish pa dam nikly....apka ya apki saas ka🤔", "label": "neg", "n_words": 10, "lang_hint": "urdu", "has_url": false, "id": "uci-10188", "source": "uci_social", "split": "train"}
 {"uci_row": 10189, "text": "Sas na hona quality h 😂 Nandy na hona best qualty 😁😁😁😃😃😄😄", "label": "neg", "n_words": 10, "lang_hint": "mixed", "has_url": false, "id": "uci-10189", "source": "uci_social", "split": "train"}
 {"uci_row": 10190, "text": "Kch nai her aik ki yehe khuwaish ha", "label": "neg", "n_words": 8, "lang_hint": "urdu", "has_url": false, "id": "uci-10190", "source": "uci_social", "split": "train"}
@@ -9621,7 +9621,7 @@
 {"uci_row": 10292, "text": "dunya jahn ki shrafat yahn a kr khtm htii😂😂 yad aya kch😜😜", "label": "neg", "n_words": 12, "lang_hint": "urdu", "has_url": false, "id": "uci-10292", "source": "uci_social", "split": "train"}
 {"uci_row": 10293, "text": "Yaar mera image! Yaar meri izzat 😂😂😂😂😂😂", "label": "neg", "n_words": 6, "lang_hint": "urdu", "has_url": false, "id": "uci-10293", "source": "uci_social", "split": "train"}
 {"uci_row": 10294, "text": "dfa kr ....dihaan sy perh dost likha hy wo hamara dost ni hy", "label": "neg", "n_words": 13, "lang_hint": "urdu", "has_url": false, "id": "uci-10294", "source": "uci_social", "split": "train"}
-{"uci_row": 10295, "text": "Ghalat bat hai m civilised person.", "label": "neg", "n_words": 6, "lang_hint": "unknown", "has_url": false, "id": "uci-10295", "source": "uci_social", "split": "train"}
+{"uci_row": 10295, "text": "Ghalat bat hai m civilised person.", "label": "neg", "n_words": 6, "lang_hint": "mixed", "has_url": false, "id": "uci-10295", "source": "uci_social", "split": "train"}
 {"uci_row": 10296, "text": "😂🤣 kon hai ye ghaleez dmagh wala", "label": "neg", "n_words": 6, "lang_hint": "urdu", "has_url": false, "id": "uci-10296", "source": "uci_social", "split": "dev"}
 {"uci_row": 10297, "text": "haqeeeqat h ye😃😃🙈", "label": "neg", "n_words": 3, "lang_hint": "urdu", "has_url": false, "id": "uci-10297", "source": "uci_social", "split": "train"}
 {"uci_row": 10298, "text": "Bolti rho jo mrzi mai Kia krun", "label": "neg", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-10298", "source": "uci_social", "split": "train"}
@@ -9698,7 +9698,7 @@
 {"uci_row": 10369, "text": "Khaabeesni coca cola pilaaaday :/", "label": "neg", "n_words": 4, "lang_hint": "unknown", "has_url": false, "id": "uci-10369", "source": "uci_social", "split": "train"}
 {"uci_row": 10370, "text": "Khudiii kO keh ri hoo 😹😹", "label": "neg", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-10370", "source": "uci_social", "split": "train"}
 {"uci_row": 10371, "text": "Tuj keh rahi hoon khabees :/", "label": "neg", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-10371", "source": "uci_social", "split": "test"}
-{"uci_row": 10372, "text": "Tuu bhii khaaabeeess hai 🔥", "label": "neg", "n_words": 4, "lang_hint": "unknown", "has_url": false, "id": "uci-10372", "source": "uci_social", "split": "train"}
+{"uci_row": 10372, "text": "Tuu bhii khaaabeeess hai 🔥", "label": "neg", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-10372", "source": "uci_social", "split": "train"}
 {"uci_row": 10373, "text": "mc coca cola tu pilaa dee", "label": "neg", "n_words": 6, "lang_hint": "mixed", "has_url": false, "id": "uci-10373", "source": "uci_social", "split": "train"}
 {"uci_row": 10374, "text": "Happy meal ka Khali dabba", "label": "neg", "n_words": 5, "lang_hint": "mixed", "has_url": false, "id": "uci-10374", "source": "uci_social", "split": "train"}
 {"uci_row": 10375, "text": "Thik ha beta ab esy karo gy soch lo bae dosti khtm phr 🙄😏", "label": "neg", "n_words": 13, "lang_hint": "urdu", "has_url": false, "id": "uci-10375", "source": "uci_social", "split": "dev"}
@@ -9728,7 +9728,7 @@
 {"uci_row": 10399, "text": "On fleek hone ki saari hadein paar kardi hain is post ne :)))😂😂😂😂", "label": "neg", "n_words": 12, "lang_hint": "mixed", "has_url": false, "id": "uci-10399", "source": "uci_social", "split": "train"}
 {"uci_row": 10400, "text": "Ye tm buhat acha kerte ho, warna kise ke zindage tabah ho jate", "label": "neg", "n_words": 13, "lang_hint": "urdu", "has_url": false, "id": "uci-10400", "source": "uci_social", "split": "train"}
 {"uci_row": 10401, "text": "Bari khofnak hansi hai mashaAllah -_-", "label": "neg", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-10401", "source": "uci_social", "split": "train"}
-{"uci_row": 10402, "text": "Aho. Bari beghairt hon ic mamaly main 😂", "label": "neg", "n_words": 7, "lang_hint": "unknown", "has_url": false, "id": "uci-10402", "source": "uci_social", "split": "test"}
+{"uci_row": 10402, "text": "Aho. Bari beghairt hon ic mamaly main 😂", "label": "neg", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-10402", "source": "uci_social", "split": "test"}
 {"uci_row": 10403, "text": "moral of the story... baighairat si bhi houn na...", "label": "neg", "n_words": 9, "lang_hint": "urdu", "has_url": false, "id": "uci-10403", "source": "uci_social", "split": "train"}
 {"uci_row": 10404, "text": "Upar parho sath me khabees orat b likha hua 😂😂", "label": "neg", "n_words": 9, "lang_hint": "urdu", "has_url": false, "id": "uci-10404", "source": "uci_social", "split": "train"}
 {"uci_row": 10405, "text": "hum tu hanstay b ni 😂😂😂😂😂", "label": "neg", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-10405", "source": "uci_social", "split": "dev"}
@@ -9920,7 +9920,7 @@
 {"uci_row": 10593, "text": "ME 1 GALLON ICE CREAM 😂😂😂😭😭😭❤❤❤❤❤", "label": "neg", "n_words": 4, "lang_hint": "mixed", "has_url": false, "id": "uci-10593", "source": "uci_social", "split": "train"}
 {"uci_row": 10595, "text": "Agr aadhi rat sy pehly mr gyi to pizza burger aur pepsi mihy bhijwa dena", "label": "neg", "n_words": 15, "lang_hint": "urdu", "has_url": false, "id": "uci-10595", "source": "uci_social", "split": "train"}
 {"uci_row": 10596, "text": "Hahaha.. so true", "label": "neg", "n_words": 3, "lang_hint": "mixed", "has_url": false, "id": "uci-10596", "source": "uci_social", "split": "train"}
-{"uci_row": 10597, "text": "Your dieting plans always flop😂❤", "label": "neg", "n_words": 5, "lang_hint": "unknown", "has_url": false, "id": "uci-10597", "source": "uci_social", "split": "test"}
+{"uci_row": 10597, "text": "Your dieting plans always flop😂❤", "label": "neg", "n_words": 5, "lang_hint": "english", "has_url": false, "id": "uci-10597", "source": "uci_social", "split": "test"}
 {"uci_row": 10599, "text": "same here dats y we are khabees auratssss", "label": "neg", "n_words": 8, "lang_hint": "unknown", "has_url": false, "id": "uci-10599", "source": "uci_social", "split": "train"}
 {"uci_row": 10600, "text": "No maam... Not at all", "label": "neg", "n_words": 5, "lang_hint": "english", "has_url": false, "id": "uci-10600", "source": "uci_social", "split": "test"}
 {"uci_row": 10601, "text": "Han boht ho gya pita b Nikal gya😂", "label": "neg", "n_words": 8, "lang_hint": "urdu", "has_url": false, "id": "uci-10601", "source": "uci_social", "split": "train"}
@@ -9930,7 +9930,7 @@
 {"uci_row": 10605, "text": "ap k liye Mam :D", "label": "neg", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-10605", "source": "uci_social", "split": "train"}
 {"uci_row": 10607, "text": "Hahahaha haan naa bht km😂😂😂", "label": "neg", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-10607", "source": "uci_social", "split": "train"}
 {"uci_row": 10608, "text": "Maham Zahid", "label": "neg", "n_words": 2, "lang_hint": "urdu", "has_url": false, "id": "uci-10608", "source": "uci_social", "split": "train"}
-{"uci_row": 10609, "text": "Achi chwal thii", "label": "neg", "n_words": 3, "lang_hint": "unknown", "has_url": false, "id": "uci-10609", "source": "uci_social", "split": "train"}
+{"uci_row": 10609, "text": "Achi chwal thii", "label": "neg", "n_words": 3, "lang_hint": "urdu", "has_url": false, "id": "uci-10609", "source": "uci_social", "split": "train"}
 {"uci_row": 10610, "text": "lets start 😂", "label": "neg", "n_words": 2, "lang_hint": "english", "has_url": false, "id": "uci-10610", "source": "uci_social", "split": "train"}
 {"uci_row": 10611, "text": "Hahaha xctly", "label": "neg", "n_words": 2, "lang_hint": "urdu", "has_url": false, "id": "uci-10611", "source": "uci_social", "split": "train"}
 {"uci_row": 10612, "text": "Astaghfaar abhi yh diet hy", "label": "neg", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-10612", "source": "uci_social", "split": "test"}
@@ -10862,7 +10862,7 @@
 {"uci_row": 11544, "text": "Liaquatabad Ilyas Goth Mn Ashraf or Daniyal Janbahaq", "label": "neg", "n_words": 8, "lang_hint": "urdu", "has_url": false, "id": "uci-11544", "source": "uci_social", "split": "train"}
 {"uci_row": 11545, "text": "USA Los Angeles Or Barnadeno Me Firing Se Ab Tak 26 Halak Or 20 Zakhmi Hai", "label": "neg", "n_words": 14, "lang_hint": "urdu", "has_url": false, "id": "uci-11545", "source": "uci_social", "split": "train"}
 {"uci_row": 11546, "text": "Petrol Ki Qeemat December Ke Liye Barqarar Rakhne Ka Faisla Petrol Ki Qeemat Me Kami Ki Tajweez Thi Jo Nahi Karrahay Ishaq Dar", "label": "neg", "n_words": 23, "lang_hint": "urdu", "has_url": false, "id": "uci-11546", "source": "uci_social", "split": "train"}
-{"uci_row": 11547, "text": "Lyari Lee Market Salaar Compound Aur Aitraf Me Rangers Ka Search Operation Bhari Tadad Me Aslah Baramad", "label": "neg", "n_words": 17, "lang_hint": "unknown", "has_url": false, "id": "uci-11547", "source": "uci_social", "split": "train"}
+{"uci_row": 11547, "text": "Lyari Lee Market Salaar Compound Aur Aitraf Me Rangers Ka Search Operation Bhari Tadad Me Aslah Baramad", "label": "neg", "n_words": 17, "lang_hint": "mixed", "has_url": false, "id": "uci-11547", "source": "uci_social", "split": "train"}
 {"uci_row": 11548, "text": "Baldia Town Mn Ki Rally Pr Phatrao Intikhabi Umeedwar Samet 8 Karkun Zakhmi Garriyon Ku Nuqsan Tarjuman e Islami", "label": "neg", "n_words": 18, "lang_hint": "urdu", "has_url": false, "id": "uci-11548", "source": "uci_social", "split": "test"}
 {"uci_row": 11549, "text": "Purani Subzi Mandi Main PTI JI Aur MQM Kay Mabain Tasadam Rangers Jaye Waqua Per Pohanch Gayi", "label": "neg", "n_words": 17, "lang_hint": "urdu", "has_url": false, "id": "uci-11549", "source": "uci_social", "split": "train"}
 {"uci_row": 11550, "text": "Super Star Aamir Khan Ko Thappar Marne Wale Shakhs Ko Aik Lakh Rupey Inam Diya Jaye Ga", "label": "neg", "n_words": 17, "lang_hint": "urdu", "has_url": false, "id": "uci-11550", "source": "uci_social", "split": "train"}
@@ -11662,7 +11662,7 @@
 {"uci_row": 12345, "text": "European mumalik ke athletes ko ghar ki koi fikar nahi hoti", "label": "neg", "n_words": 11, "lang_hint": "urdu", "has_url": false, "id": "uci-12345", "source": "uci_social", "split": "test"}
 {"uci_row": 12346, "text": "Razia Sheer Khan: Humare mulk ke bare shearon mein tartan track to hain lekin is ki maintenance nahi", "label": "neg", "n_words": 18, "lang_hint": "urdu", "has_url": false, "id": "uci-12346", "source": "uci_social", "split": "train"}
 {"uci_row": 12347, "text": "agar Karachi ke national coaching center ki baat Karen to wahan ki tartan track maintenance na hone ki wajah se bilkul kharab ho gai hai", "label": "neg", "n_words": 25, "lang_hint": "urdu", "has_url": false, "id": "uci-12347", "source": "uci_social", "split": "train"}
-{"uci_row": 12348, "text": "zahir hai kharab condition hone ki wajah se is mein training aur practice ka koi faidah nahi hai,", "label": "neg", "n_words": 18, "lang_hint": "urdu", "has_url": false, "id": "uci-12348", "source": "uci_social", "split": "dev"}
+{"uci_row": 12348, "text": "zahir hai kharab condition hone ki wajah se is mein training aur practice ka koi faidah nahi hai,", "label": "neg", "n_words": 18, "lang_hint": "mixed", "has_url": false, "id": "uci-12348", "source": "uci_social", "split": "dev"}
 {"uci_row": 12349, "text": "Razia Sheer Khan: Agar aap majmoi kheelon ki baat kar rahe hain to mardon ko ziyadah saholaten aur ahamiyat hasil hai", "label": "neg", "n_words": 21, "lang_hint": "urdu", "has_url": false, "id": "uci-12349", "source": "uci_social", "split": "test"}
 {"uci_row": 12350, "text": "Yahan par tamam tar tawajah sirf cricket khelne par hai lekin dosre kheelon ki taraf bhi dekhna chaheye", "label": "neg", "n_words": 18, "lang_hint": "urdu", "has_url": false, "id": "uci-12350", "source": "uci_social", "split": "train"}
 {"uci_row": 12351, "text": "agle saal British open ke semi final mein unhein shikast kha ker apne izaz se dastbardar hona para", "label": "neg", "n_words": 18, "lang_hint": "urdu", "has_url": false, "id": "uci-12351", "source": "uci_social", "split": "train"}
@@ -12435,7 +12435,7 @@
 {"uci_row": 13142, "text": "MashaAllah zabrdast hai orr bohat kaam ka hai. Very too And workable", "label": "pos", "n_words": 12, "lang_hint": "mixed", "has_url": false, "id": "uci-13142", "source": "uci_social", "split": "train"}
 {"uci_row": 13143, "text": "Bhut acha item hay Meter work nahi kerta lekin ;p Or Light house se lia tha me ne yha se dekh ker ;p Something like 300 rs or 380/=", "label": "pos", "n_words": 27, "lang_hint": "mixed", "has_url": false, "id": "uci-13143", "source": "uci_social", "split": "dev"}
 {"uci_row": 13144, "text": "Bht achcha hy labtop hy", "label": "pos", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-13144", "source": "uci_social", "split": "test"}
-{"uci_row": 13145, "text": "achi performance ha size thora chota ha mere lie lekin halka ha bht iss lie full rating. Condition b achi ha", "label": "pos", "n_words": 21, "lang_hint": "urdu", "has_url": false, "id": "uci-13145", "source": "uci_social", "split": "test"}
+{"uci_row": 13145, "text": "achi performance ha size thora chota ha mere lie lekin halka ha bht iss lie full rating. Condition b achi ha", "label": "pos", "n_words": 21, "lang_hint": "mixed", "has_url": false, "id": "uci-13145", "source": "uci_social", "split": "test"}
 {"uci_row": 13146, "text": "friends main purchase kerne ke baad pachta raha hon.bluetooth,broadband aur volume switches kharab hain", "label": "neg", "n_words": 16, "lang_hint": "urdu", "has_url": false, "id": "uci-13146", "source": "uci_social", "split": "dev"}
 {"uci_row": 13147, "text": "Speed achi h aur mera dslr ka card sahi chal raha h", "label": "pos", "n_words": 12, "lang_hint": "mixed", "has_url": false, "id": "uci-13147", "source": "uci_social", "split": "train"}
 {"uci_row": 13148, "text": "Boht acha gadget ha mai ny apny ghar mai sary rooms mai lagaya ha Daraz ki kiya hi bat ha allaw", "label": "pos", "n_words": 21, "lang_hint": "urdu", "has_url": false, "id": "uci-13148", "source": "uci_social", "split": "train"}
@@ -12570,9 +12570,9 @@
 {"uci_row": 13286, "text": "alla behtreen quality hai sir", "label": "pos", "n_words": 5, "lang_hint": "unknown", "has_url": false, "id": "uci-13286", "source": "uci_social", "split": "train"}
 {"uci_row": 13287, "text": "Good stuff thora sa colour niklta hy otherwise it was good", "label": "pos", "n_words": 11, "lang_hint": "unknown", "has_url": false, "id": "uci-13287", "source": "uci_social", "split": "train"}
 {"uci_row": 13288, "text": "Yay Product Boht hi Bakwas HA Is ki Quality boht down ha so please koi bhi yahan si shopping naa karay may nay yay mangwaya ha iss ka colour utar gaya bohat buri tarah say. Is ko 5 star is liyay day raha houn kay mayra review upload ho. Shukriya", "label": "neg", "n_words": 49, "lang_hint": "urdu", "has_url": false, "id": "uci-13288", "source": "uci_social", "split": "train"}
-{"uci_row": 13289, "text": "Acha collection ha but matrial law ha", "label": "neg", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-13289", "source": "uci_social", "split": "train"}
+{"uci_row": 13289, "text": "Acha collection ha but matrial law ha", "label": "neg", "n_words": 7, "lang_hint": "mixed", "has_url": false, "id": "uci-13289", "source": "uci_social", "split": "train"}
 {"uci_row": 13290, "text": "Stuff acha ha. . But jacket k uper 9 number print ni ha simple ha and mjy to size me long ha", "label": "neg", "n_words": 20, "lang_hint": "mixed", "has_url": false, "id": "uci-13290", "source": "uci_social", "split": "train"}
-{"uci_row": 13292, "text": "Zabrdast cheez ha km amount main.........!", "label": "pos", "n_words": 6, "lang_hint": "urdu", "has_url": false, "id": "uci-13292", "source": "uci_social", "split": "train"}
+{"uci_row": 13292, "text": "Zabrdast cheez ha km amount main.........!", "label": "pos", "n_words": 6, "lang_hint": "mixed", "has_url": false, "id": "uci-13292", "source": "uci_social", "split": "train"}
 {"uci_row": 13293, "text": "achi lag rahi hy order kardi hh lets see", "label": "pos", "n_words": 9, "lang_hint": "mixed", "has_url": false, "id": "uci-13293", "source": "uci_social", "split": "train"}
 {"uci_row": 13294, "text": "Jacket ki quality bari zabrdast thi", "label": "pos", "n_words": 6, "lang_hint": "mixed", "has_url": false, "id": "uci-13294", "source": "uci_social", "split": "train"}
 {"uci_row": 13295, "text": "Jacket ki quality achi nahi hai", "label": "neg", "n_words": 6, "lang_hint": "mixed", "has_url": false, "id": "uci-13295", "source": "uci_social", "split": "train"}
@@ -12630,7 +12630,7 @@
 {"uci_row": 13354, "text": "Achy h but jaisy itne bary size k dikhye h waisy nhi h", "label": "neg", "n_words": 13, "lang_hint": "urdu", "has_url": false, "id": "uci-13354", "source": "uci_social", "split": "train"}
 {"uci_row": 13355, "text": "Bht Acha Soap hai n Quick delivered", "label": "pos", "n_words": 7, "lang_hint": "unknown", "has_url": false, "id": "uci-13355", "source": "uci_social", "split": "dev"}
 {"uci_row": 13356, "text": "Market sy rate zyada hai but thek ha.", "label": "neu", "n_words": 8, "lang_hint": "mixed", "has_url": false, "id": "uci-13356", "source": "uci_social", "split": "train"}
-{"uci_row": 13358, "text": "Achi heat hai", "label": "pos", "n_words": 3, "lang_hint": "urdu", "has_url": false, "id": "uci-13358", "source": "uci_social", "split": "train"}
+{"uci_row": 13358, "text": "Achi heat hai", "label": "pos", "n_words": 3, "lang_hint": "mixed", "has_url": false, "id": "uci-13358", "source": "uci_social", "split": "train"}
 {"uci_row": 13360, "text": "Bhot Acha oil hai beard K lye hairs smooth and growing b achi ho rahi hai..", "label": "pos", "n_words": 16, "lang_hint": "urdu", "has_url": false, "id": "uci-13360", "source": "uci_social", "split": "train"}
 {"uci_row": 13361, "text": "men yeh oil 2 months se use ker rhaa hon late result miley per ache results hen", "label": "pos", "n_words": 16, "lang_hint": "mixed", "has_url": false, "id": "uci-13361", "source": "uci_social", "split": "train"}
 {"uci_row": 13362, "text": "Bhai main ne yeh istemaal kiyya iss ke results tou akheer hain yr Shukriya bhaio aisi product bnanay ka", "label": "pos", "n_words": 19, "lang_hint": "urdu", "has_url": false, "id": "uci-13362", "source": "uci_social", "split": "train"}
@@ -13670,7 +13670,7 @@
 {"uci_row": 14418, "text": "Jab mene pahli dafha drama dekha to aj taq qoi episode nahe chara.great man of abdullah", "label": "pos", "n_words": 17, "lang_hint": "urdu", "has_url": false, "id": "uci-14418", "source": "uci_social", "split": "train"}
 {"uci_row": 14419, "text": "Pegam razsa ka kya nam hai plz batae or ye drama chalta rhe kbi bi khatam mat krna choti si qayatam dekh kr apni mout yad ati hai or ap logo k kupre thek nh Hein plz humari beheno se arz hai k laubas acha pehene", "label": "neg", "n_words": 46, "lang_hint": "urdu", "has_url": false, "id": "uci-14419", "source": "uci_social", "split": "train"}
 {"uci_row": 14420, "text": "May fan bngayaa hu apkaaa :)", "label": "pos", "n_words": 5, "lang_hint": "unknown", "has_url": false, "id": "uci-14420", "source": "uci_social", "split": "train"}
-{"uci_row": 14421, "text": "Chal bata selfie LA LA ray", "label": "pos", "n_words": 6, "lang_hint": "urdu", "has_url": false, "id": "uci-14421", "source": "uci_social", "split": "train"}
+{"uci_row": 14421, "text": "Chal bata selfie LA LA ray", "label": "pos", "n_words": 6, "lang_hint": "mixed", "has_url": false, "id": "uci-14421", "source": "uci_social", "split": "train"}
 {"uci_row": 14422, "text": "Ma ap ka jabra fan ho gaya", "label": "pos", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-14422", "source": "uci_social", "split": "train"}
 {"uci_row": 14423, "text": "Ik akhri mouqa insan ko sahe raaasra dikhane k", "label": "pos", "n_words": 9, "lang_hint": "urdu", "has_url": false, "id": "uci-14423", "source": "uci_social", "split": "train"}
 {"uci_row": 14424, "text": "Apka darma dekhe kre mout yad ati hai Bs Allah hum pe rhem kre dua krte Hein pata nh kya kya galtiya isnan krta hai aa ge kya hoga humara khuda maf kre ya Allah hum SB pe rehm kre", "label": "neu", "n_words": 40, "lang_hint": "urdu", "has_url": false, "id": "uci-14424", "source": "uci_social", "split": "train"}
@@ -13840,7 +13840,7 @@
 {"uci_row": 14590, "text": "i think aleen chor k chali jaegi", "label": "neg", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-14590", "source": "uci_social", "split": "train"}
 {"uci_row": 14591, "text": "hmm ok woh larki aur kis drama main ayee thi ?", "label": "neg", "n_words": 10, "lang_hint": "urdu", "has_url": false, "id": "uci-14591", "source": "uci_social", "split": "train"}
 {"uci_row": 14592, "text": "ye hota hai galat faisle ka anjam.…", "label": "neg", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-14592", "source": "uci_social", "split": "train"}
-{"uci_row": 14593, "text": "daubing thek nei hai mastana mahi key,,,yeah we watch", "label": "neg", "n_words": 10, "lang_hint": "unknown", "has_url": false, "id": "uci-14593", "source": "uci_social", "split": "train"}
+{"uci_row": 14593, "text": "daubing thek nei hai mastana mahi key,,,yeah we watch", "label": "neg", "n_words": 10, "lang_hint": "mixed", "has_url": false, "id": "uci-14593", "source": "uci_social", "split": "train"}
 {"uci_row": 14594, "text": "Koi Pakistani movie b krlo fawad Khan", "label": "neu", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-14594", "source": "uci_social", "split": "train"}
 {"uci_row": 14595, "text": "Zobia zaheer ap kaun ho?", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-14595", "source": "uci_social", "split": "train"}
 {"uci_row": 14596, "text": ".fawad sir abhi time lega", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-14596", "source": "uci_social", "split": "train"}
@@ -14233,7 +14233,7 @@
 {"uci_row": 14983, "text": "Haan g zehan nasheen. Ab yad dashtt khtm ho tou jan chutty", "label": "neg", "n_words": 12, "lang_hint": "urdu", "has_url": false, "id": "uci-14983", "source": "uci_social", "split": "train"}
 {"uci_row": 14984, "text": "sach main Behan yaad thi birthday.... Happy Birthday to you", "label": "neu", "n_words": 10, "lang_hint": "mixed", "has_url": false, "id": "uci-14984", "source": "uci_social", "split": "test"}
 {"uci_row": 14985, "text": "Social media Kay jahilo say pnha mango bus.", "label": "neg", "n_words": 8, "lang_hint": "urdu", "has_url": false, "id": "uci-14985", "source": "uci_social", "split": "dev"}
-{"uci_row": 14986, "text": "yehi plans to nai hn?", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-14986", "source": "uci_social", "split": "test"}
+{"uci_row": 14986, "text": "yehi plans to nai hn?", "label": "neu", "n_words": 5, "lang_hint": "mixed", "has_url": false, "id": "uci-14986", "source": "uci_social", "split": "test"}
 {"uci_row": 14987, "text": "jsy tu course mn krti hy", "label": "neu", "n_words": 6, "lang_hint": "mixed", "has_url": false, "id": "uci-14987", "source": "uci_social", "split": "dev"}
 {"uci_row": 14988, "text": "Ap ne apnay bchn ko aisay e chill krwana", "label": "neu", "n_words": 9, "lang_hint": "urdu", "has_url": false, "id": "uci-14988", "source": "uci_social", "split": "test"}
 {"uci_row": 14989, "text": "Waqt ne kia hai hmarey sath yeh", "label": "neu", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-14989", "source": "uci_social", "split": "test"}
@@ -15538,7 +15538,7 @@
 {"uci_row": 16316, "text": "im boy plz mukhy koi crem bta den", "label": "neu", "n_words": 8, "lang_hint": "mixed", "has_url": false, "id": "uci-16316", "source": "uci_social", "split": "train"}
 {"uci_row": 16317, "text": "Frcklz htm karny k lai kuch bta dain", "label": "neu", "n_words": 8, "lang_hint": "urdu", "has_url": false, "id": "uci-16317", "source": "uci_social", "split": "train"}
 {"uci_row": 16318, "text": "besan arq e gulab aur honey mix kr k lap kren 20 min bd do liya kren is k ilawa 2 anar subho khali pait khaya kren", "label": "neu", "n_words": 25, "lang_hint": "urdu", "has_url": false, "id": "uci-16318", "source": "uci_social", "split": "train"}
-{"uci_row": 16319, "text": "Ginger tea kese bnate hain ?", "label": "neu", "n_words": 5, "lang_hint": "unknown", "has_url": false, "id": "uci-16319", "source": "uci_social", "split": "dev"}
+{"uci_row": 16319, "text": "Ginger tea kese bnate hain ?", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-16319", "source": "uci_social", "split": "dev"}
 {"uci_row": 16320, "text": "K c bnaty h gingr chai", "label": "neu", "n_words": 6, "lang_hint": "urdu", "has_url": false, "id": "uci-16320", "source": "uci_social", "split": "test"}
 {"uci_row": 16321, "text": "Urdu me totka btao", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-16321", "source": "uci_social", "split": "train"}
 {"uci_row": 16322, "text": "han urdu mai btao plz", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-16322", "source": "uci_social", "split": "dev"}
@@ -15693,7 +15693,7 @@
 {"uci_row": 16479, "text": "Bohat bhatkae Allah se duaounke talib hain Hazrat ap b hamare liadua jeaga JazakAllah", "label": "pos", "n_words": 14, "lang_hint": "urdu", "has_url": false, "id": "uci-16479", "source": "uci_social", "split": "train"}
 {"uci_row": 16480, "text": "sb muslmanu ko.... dua ka sahy triqa sawab bakhshnay ka yai hai. k ya ilahi ju kuch b prha ish mai glty kotahy ko muaff kr k apny bargahy ali shan mai qabool fermaiay aur ish ka,sawab hazur salatu wasalam ko tamam ambiah rasool ko ahle bait ko hazur ki azwaje mutaharat ko sahaba karam ko ambiah kram ko olia kram ko tabah tabeen ko shuda e krbla ko shuda e bdr ko suhdae ohad rizwanul la hy ajmaeen ko or hazoor ki sare umat jo wafat paa chuki hai unko drja badrja ish ka swab paish krty hun hazur k sadqay kabool fermaiay. phr khty hain k ish ka sawab apny azezo aqarib dost ahbab rishta daru mai se jo log wafat pa chuky hain unki rooh ko drja bdrja ish ka sawab paish krty hun qabool fermaiay phr khty hain khas bil khasus us ka name lain jis k liay ap ny prha. aur phr hazur ki sare umat ju zinda hai us k b aur apny b nama e amal mai drj kraty hun qabool fermaiay. yai tarika hai bakhshnay k.", "label": "pos", "n_words": 185, "lang_hint": "urdu", "has_url": false, "id": "uci-16480", "source": "uci_social", "split": "train"}
 {"uci_row": 16481, "text": "Kitna Ada krna hota ha?", "label": "neu", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-16481", "source": "uci_social", "split": "train"}
-{"uci_row": 16482, "text": "Ladies bhi ada Karen?", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-16482", "source": "uci_social", "split": "train"}
+{"uci_row": 16482, "text": "Ladies bhi ada Karen?", "label": "neu", "n_words": 4, "lang_hint": "mixed", "has_url": false, "id": "uci-16482", "source": "uci_social", "split": "train"}
 {"uci_row": 16483, "text": "Her insan per farz hai eid ki namaz se pahley pahley", "label": "pos", "n_words": 11, "lang_hint": "urdu", "has_url": false, "id": "uci-16483", "source": "uci_social", "split": "train"}
 {"uci_row": 16484, "text": "Jo batcha abi paidaa hua ho uska fitrana b farz ha", "label": "neu", "n_words": 11, "lang_hint": "urdu", "has_url": false, "id": "uci-16484", "source": "uci_social", "split": "test"}
 {"uci_row": 16485, "text": "tmam muslims ada kry ..bachu samit.", "label": "neu", "n_words": 6, "lang_hint": "unknown", "has_url": false, "id": "uci-16485", "source": "uci_social", "split": "train"}
@@ -16506,7 +16506,7 @@
 {"uci_row": 17305, "text": "Ma Sha Allah Imran khan or Zamaima bahot Mazboot personalty hai", "label": "pos", "n_words": 11, "lang_hint": "urdu", "has_url": false, "id": "uci-17305", "source": "uci_social", "split": "train"}
 {"uci_row": 17306, "text": "Es main kiya khas bat hi jo share ki jae", "label": "neu", "n_words": 10, "lang_hint": "urdu", "has_url": false, "id": "uci-17306", "source": "uci_social", "split": "train"}
 {"uci_row": 17307, "text": "video complete dekhni hai...", "label": "neu", "n_words": 4, "lang_hint": "mixed", "has_url": false, "id": "uci-17307", "source": "uci_social", "split": "test"}
-{"uci_row": 17308, "text": "Azeem uret dakhni h tu jamima ko dakho husband ki ezt kasy kerty us uret sy seekho", "label": "pos", "n_words": 17, "lang_hint": "unknown", "has_url": false, "id": "uci-17308", "source": "uci_social", "split": "train"}
+{"uci_row": 17308, "text": "Azeem uret dakhni h tu jamima ko dakho husband ki ezt kasy kerty us uret sy seekho", "label": "pos", "n_words": 17, "lang_hint": "urdu", "has_url": false, "id": "uci-17308", "source": "uci_social", "split": "train"}
 {"uci_row": 17309, "text": "Hazar hasbnd hongy os k", "label": "neg", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-17309", "source": "uci_social", "split": "train"}
 {"uci_row": 17310, "text": "Ur h ya ni lakin ezt kerna wo janti h", "label": "pos", "n_words": 10, "lang_hint": "urdu", "has_url": false, "id": "uci-17310", "source": "uci_social", "split": "train"}
 {"uci_row": 17311, "text": "Chalo niazi k tatoo cjal", "label": "neg", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-17311", "source": "uci_social", "split": "train"}
@@ -16804,7 +16804,7 @@
 {"uci_row": 17609, "text": "2 weeks say kyunn nahiii araha haii dramaaaa", "label": "neg", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-17609", "source": "uci_social", "split": "dev"}
 {"uci_row": 17610, "text": "Ye kya baat hui phle intrest jagate ho phir episode upload hi nhi krte", "label": "neg", "n_words": 14, "lang_hint": "urdu", "has_url": false, "id": "uci-17610", "source": "uci_social", "split": "train"}
 {"uci_row": 17611, "text": "Aaj kub aye ga?", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-17611", "source": "uci_social", "split": "test"}
-{"uci_row": 17612, "text": "Aj ki timing???", "label": "neu", "n_words": 3, "lang_hint": "urdu", "has_url": false, "id": "uci-17612", "source": "uci_social", "split": "train"}
+{"uci_row": 17612, "text": "Aj ki timing???", "label": "neu", "n_words": 3, "lang_hint": "mixed", "has_url": false, "id": "uci-17612", "source": "uci_social", "split": "train"}
 {"uci_row": 17613, "text": "Her waqt time change...ary nay ramzan main bohat hi bore kia...ramzan transmission zabardasti hum pay musalat ker di gaye hey...ramzan main game show kerna ramzan ki beyadbi hey or boriat alag", "label": "neg", "n_words": 34, "lang_hint": "mixed", "has_url": false, "id": "uci-17613", "source": "uci_social", "split": "train"}
 {"uci_row": 17614, "text": "jeeto pakistan chalra hai .....", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-17614", "source": "uci_social", "split": "train"}
 {"uci_row": 17615, "text": "kb aye gi epi...", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-17615", "source": "uci_social", "split": "train"}
@@ -17016,7 +17016,7 @@
 {"uci_row": 17821, "text": "lagwa ley ga pyaar chahta hai tumhara bsss", "label": "pos", "n_words": 8, "lang_hint": "urdu", "has_url": false, "id": "uci-17821", "source": "uci_social", "split": "train"}
 {"uci_row": 17822, "text": "woh girlfriend hai", "label": "pos", "n_words": 3, "lang_hint": "urdu", "has_url": false, "id": "uci-17822", "source": "uci_social", "split": "train"}
 {"uci_row": 17823, "text": "dkh behn me skht londi hu", "label": "neg", "n_words": 6, "lang_hint": "urdu", "has_url": false, "id": "uci-17823", "source": "uci_social", "split": "dev"}
-{"uci_row": 17824, "text": "mudasir tm b mry lie boyfrnd dhundhry hotm bhii", "label": "neu", "n_words": 9, "lang_hint": "unknown", "has_url": false, "id": "uci-17824", "source": "uci_social", "split": "dev"}
+{"uci_row": 17824, "text": "mudasir tm b mry lie boyfrnd dhundhry hotm bhii", "label": "neu", "n_words": 9, "lang_hint": "urdu", "has_url": false, "id": "uci-17824", "source": "uci_social", "split": "dev"}
 {"uci_row": 17825, "text": "dkhlo bht bri zemadari hapny jesa dhundhna roz ki ik choclate", "label": "neg", "n_words": 11, "lang_hint": "unknown", "has_url": false, "id": "uci-17825", "source": "uci_social", "split": "train"}
 {"uci_row": 17826, "text": "tmhare lye best haekrle shadi", "label": "pos", "n_words": 5, "lang_hint": "unknown", "has_url": false, "id": "uci-17826", "source": "uci_social", "split": "test"}
 {"uci_row": 17827, "text": "hahahah tere liye hai", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-17827", "source": "uci_social", "split": "train"}
@@ -17115,12 +17115,12 @@
 {"uci_row": 17920, "text": "Sujja bahi south America my hy mabi Sheikh Zahid AlNahyan or shahzady Imran ky sat", "label": "neu", "n_words": 15, "lang_hint": "urdu", "has_url": false, "id": "uci-17920", "source": "uci_social", "split": "train"}
 {"uci_row": 17921, "text": "Yaaaaaaaara wohi flavor wohi feeling !!! Next level :) #PakistanZindabad", "label": "pos", "n_words": 8, "lang_hint": "unknown", "has_url": false, "id": "uci-17921", "source": "uci_social", "split": "train"}
 {"uci_row": 17922, "text": "Bas Ab insanoo ko Tarah Aik album banao apney gorey ko wapas bulao aor shuru hojao", "label": "pos", "n_words": 16, "lang_hint": "urdu", "has_url": false, "id": "uci-17922", "source": "uci_social", "split": "train"}
-{"uci_row": 17923, "text": "Farrukh Mirza bus karo bhaai saryy artists ko mullah bnana hay??? Have u listen their song lyrics \"sayooni\" ? Zaroori nai hy k sirf mullah hi ban kr islam ko serve kiya jaye.", "label": "neu", "n_words": 32, "lang_hint": "urdu", "has_url": false, "id": "uci-17923", "source": "uci_social", "split": "dev"}
+{"uci_row": 17923, "text": "Farrukh Mirza bus karo bhaai saryy artists ko mullah bnana hay??? Have u listen their song lyrics \"sayooni\" ? Zaroori nai hy k sirf mullah hi ban kr islam ko serve kiya jaye.", "label": "neu", "n_words": 32, "lang_hint": "mixed", "has_url": false, "id": "uci-17923", "source": "uci_social", "split": "dev"}
 {"uci_row": 17924, "text": "Kahin bhi music ko bura nai likha gaya ya mana nai kiya gaya mana kiya gaya tuo ghalt or buray content se chahy wo lyrics ki form me ho ya visual form me. Music itself isnt haram.", "label": "neu", "n_words": 37, "lang_hint": "urdu", "has_url": false, "id": "uci-17924", "source": "uci_social", "split": "train"}
 {"uci_row": 17925, "text": "Zeeshan, ap ki na sirf knowledge bht achiheh hai balkay us per tehqeeeq bhi hai", "label": "pos", "n_words": 15, "lang_hint": "urdu", "has_url": false, "id": "uci-17925", "source": "uci_social", "split": "train"}
 {"uci_row": 17926, "text": "or ap apnay decision pr Sabit qadam Ho.", "label": "pos", "n_words": 8, "lang_hint": "urdu", "has_url": false, "id": "uci-17926", "source": "uci_social", "split": "train"}
 {"uci_row": 17927, "text": "Pr Main abhi is mamlay main itnaa depth main ilm nhn rakhtaa or music and songs ko Haram Khayal krtaaa hoon.", "label": "neu", "n_words": 21, "lang_hint": "urdu", "has_url": false, "id": "uci-17927", "source": "uci_social", "split": "test"}
-{"uci_row": 17928, "text": "O bhaijan abhi inka level world ke biggest rock bands se nhi hai.", "label": "neg", "n_words": 13, "lang_hint": "urdu", "has_url": false, "id": "uci-17928", "source": "uci_social", "split": "train"}
+{"uci_row": 17928, "text": "O bhaijan abhi inka level world ke biggest rock bands se nhi hai.", "label": "neg", "n_words": 13, "lang_hint": "mixed", "has_url": false, "id": "uci-17928", "source": "uci_social", "split": "train"}
 {"uci_row": 17929, "text": "Saud choty ustad un best m se 1 inka b tha.", "label": "pos", "n_words": 10, "lang_hint": "urdu", "has_url": false, "id": "uci-17929", "source": "uci_social", "split": "train"}
 {"uci_row": 17930, "text": "Yar yae Salman cap q pahantae Hai", "label": "neu", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-17930", "source": "uci_social", "split": "train"}
 {"uci_row": 17931, "text": "... bhai sahab yeh jume se ek do din pehle ki hai ...", "label": "neu", "n_words": 11, "lang_hint": "urdu", "has_url": false, "id": "uci-17931", "source": "uci_social", "split": "train"}
@@ -17540,7 +17540,7 @@
 {"uci_row": 18347, "text": "Sooo soooo nice katni ki h ya", "label": "pos", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-18347", "source": "uci_social", "split": "test"}
 {"uci_row": 18348, "text": "Shop kahan hai?", "label": "neu", "n_words": 3, "lang_hint": "urdu", "has_url": false, "id": "uci-18348", "source": "uci_social", "split": "train"}
 {"uci_row": 18349, "text": "Ap ka number koi pic nhe kurta", "label": "neu", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-18349", "source": "uci_social", "split": "train"}
-{"uci_row": 18350, "text": "Bahi g ap ka what's up number he band ha order kis par karin", "label": "neg", "n_words": 14, "lang_hint": "urdu", "has_url": false, "id": "uci-18350", "source": "uci_social", "split": "dev"}
+{"uci_row": 18350, "text": "Bahi g ap ka what's up number he band ha order kis par karin", "label": "neg", "n_words": 14, "lang_hint": "mixed", "has_url": false, "id": "uci-18350", "source": "uci_social", "split": "dev"}
 {"uci_row": 18351, "text": "Ye mojy chaye", "label": "neu", "n_words": 3, "lang_hint": "urdu", "has_url": false, "id": "uci-18351", "source": "uci_social", "split": "train"}
 {"uci_row": 18352, "text": "Number ap NY band rakha ha order kdr Karin g", "label": "neg", "n_words": 10, "lang_hint": "urdu", "has_url": false, "id": "uci-18352", "source": "uci_social", "split": "train"}
 {"uci_row": 18353, "text": "Dhoka ha ye site plx mat Len ink products fraud ha sarasur", "label": "neg", "n_words": 12, "lang_hint": "mixed", "has_url": false, "id": "uci-18353", "source": "uci_social", "split": "test"}
@@ -17588,7 +17588,7 @@
 {"uci_row": 18397, "text": "Nice add but vote sirf PTI ka Hoga", "label": "pos", "n_words": 8, "lang_hint": "mixed", "has_url": false, "id": "uci-18397", "source": "uci_social", "split": "train"}
 {"uci_row": 18398, "text": "Bht awla mgr vote k lie", "label": "pos", "n_words": 6, "lang_hint": "mixed", "has_url": false, "id": "uci-18398", "source": "uci_social", "split": "train"}
 {"uci_row": 18399, "text": "Vote zaroot dain mgr smooch kr", "label": "pos", "n_words": 6, "lang_hint": "mixed", "has_url": false, "id": "uci-18399", "source": "uci_social", "split": "test"}
-{"uci_row": 18400, "text": "Candidate pathan lagta h.", "label": "neu", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-18400", "source": "uci_social", "split": "train"}
+{"uci_row": 18400, "text": "Candidate pathan lagta h.", "label": "neu", "n_words": 4, "lang_hint": "mixed", "has_url": false, "id": "uci-18400", "source": "uci_social", "split": "train"}
 {"uci_row": 18401, "text": "Main karachi mera vote MQM", "label": "neu", "n_words": 5, "lang_hint": "mixed", "has_url": false, "id": "uci-18401", "source": "uci_social", "split": "train"}
 {"uci_row": 18402, "text": "Or mera vote PTI k liye", "label": "neu", "n_words": 6, "lang_hint": "mixed", "has_url": false, "id": "uci-18402", "source": "uci_social", "split": "train"}
 {"uci_row": 18403, "text": "khud e vidoe bnae or post o ke", "label": "neu", "n_words": 8, "lang_hint": "urdu", "has_url": false, "id": "uci-18403", "source": "uci_social", "split": "train"}
@@ -17835,7 +17835,7 @@
 {"uci_row": 18644, "text": "No koi zaroorat nahi", "label": "neg", "n_words": 4, "lang_hint": "urdu", "has_url": false, "id": "uci-18644", "source": "uci_social", "split": "train"}
 {"uci_row": 18645, "text": "Quota hona chahye abaadii k hisab se", "label": "neu", "n_words": 7, "lang_hint": "urdu", "has_url": false, "id": "uci-18645", "source": "uci_social", "split": "train"}
 {"uci_row": 18646, "text": "Election ke zarye", "label": "neu", "n_words": 3, "lang_hint": "unknown", "has_url": false, "id": "uci-18646", "source": "uci_social", "split": "train"}
-{"uci_row": 18647, "text": "Election ka zarie ana chaie", "label": "neu", "n_words": 5, "lang_hint": "unknown", "has_url": false, "id": "uci-18647", "source": "uci_social", "split": "train"}
+{"uci_row": 18647, "text": "Election ka zarie ana chaie", "label": "neu", "n_words": 5, "lang_hint": "mixed", "has_url": false, "id": "uci-18647", "source": "uci_social", "split": "train"}
 {"uci_row": 18648, "text": "Kota hona chahye..", "label": "neu", "n_words": 3, "lang_hint": "urdu", "has_url": false, "id": "uci-18648", "source": "uci_social", "split": "train"}
 {"uci_row": 18649, "text": "General Elections Kay Zariye", "label": "neu", "n_words": 4, "lang_hint": "mixed", "has_url": false, "id": "uci-18649", "source": "uci_social", "split": "train"}
 {"uci_row": 18650, "text": "Qadyani ko nai hona Chiay", "label": "neg", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-18650", "source": "uci_social", "split": "train"}
@@ -19145,7 +19145,7 @@
 {"uci_row": 19956, "text": "Bajaye ke apni caste walay areas mei kaam karei.", "label": "neg", "n_words": 9, "lang_hint": "urdu", "has_url": false, "id": "uci-19956", "source": "uci_social", "split": "train"}
 {"uci_row": 19957, "text": "Ab woh imran khan kpk mai karnay de tab na or jo province ki government hoti hai uska kaam hota hai mansoobay start karna", "label": "neu", "n_words": 24, "lang_hint": "urdu", "has_url": false, "id": "uci-19957", "source": "uci_social", "split": "train"}
 {"uci_row": 19958, "text": "Bachon wali batein mat karo", "label": "neg", "n_words": 5, "lang_hint": "urdu", "has_url": false, "id": "uci-19958", "source": "uci_social", "split": "train"}
-{"uci_row": 19959, "text": "Constitution wagera parho phir baat karo", "label": "neg", "n_words": 6, "lang_hint": "urdu", "has_url": false, "id": "uci-19959", "source": "uci_social", "split": "train"}
+{"uci_row": 19959, "text": "Constitution wagera parho phir baat karo", "label": "neg", "n_words": 6, "lang_hint": "mixed", "has_url": false, "id": "uci-19959", "source": "uci_social", "split": "train"}
 {"uci_row": 19960, "text": "Kuch bhi nahi pata bus uski personality pasand hai tumhay jiski waja sey itni mari ja rahi ho .", "label": "neg", "n_words": 18, "lang_hint": "urdu", "has_url": false, "id": "uci-19960", "source": "uci_social", "split": "train"}
 {"uci_row": 19961, "text": "Or jab sab pata ho tab behes karna mujhsey now goo", "label": "neg", "n_words": 11, "lang_hint": "urdu", "has_url": false, "id": "uci-19961", "source": "uci_social", "split": "train"}
 {"uci_row": 19962, "text": "Aapsay baat karne ka koi faidaa nahe. You win.", "label": "neg", "n_words": 9, "lang_hint": "mixed", "has_url": false, "id": "uci-19962", "source": "uci_social", "split": "train"}

@@ -356,7 +356,7 @@ aagayi	آگئی	urdu	agayi	1	0	0	0	0
 aage	آگے	urdu	aagay	1	0	0	0	0
 aage	آگے	urdu	aagey	1	0	0	0	0
 aage	آگے	urdu	agae	0	32	2	0	0
-aage	آگے	urdu	agay	1	38	2	0	0
+aage	آگے	urdu	agay	1	37	3	0	0
 aage	آگے	urdu	age	1	1	0	0	0
 aagein	آگیں	urdu	aage	1	0	0	0	0
 aagein	آگیں	urdu	aagen	1	0	0	0	0
@@ -906,6 +906,7 @@ aankh	آنکھ	urdu	ankh	1	10	0	0	0
 aankhein	آنکھیں	urdu	aankhain	1	0	0	0	0
 aankhein	آنکھیں	urdu	aankhen	1	0	0	0	0
 aankhein	آنکھیں	urdu	ankhen	1	1	0	0	0
+aankhen		urdu	ankhein	0	4	0	0	0
 aankhen		urdu	ankhen	0	8	0	0	0
 aankhon	آنکھوں	urdu	aankhen	1	0	0	0	0
 aankhon	آنکھوں	urdu	aankhin	1	0	0	0	0
@@ -934,7 +935,7 @@ aao	آؤ	urdu	aaoo	1	0	0	0	0
 aao	آؤ	urdu	aau	1	0	0	0	0
 aao	آؤ	urdu	aaw	1	0	0	0	0
 aao	آؤ	urdu	aawo	1	0	0	0	0
-aao	آؤ	urdu	ao	0	60	4	0	0
+aao	آؤ	urdu	ao	0	61	3	0	0
 aao	آؤ	urdu	awo	1	0	0	0	0
 aaoge		urdu	aage	0	3	0	0	0
 aaoge		urdu	aagoe	0	1	0	0	0
@@ -944,7 +945,7 @@ aap	آپ	urdu	aaaaappppp	0	1	0	0	0
 aap	آپ	urdu	aaap	1	0	0	0	0
 aap	آپ	urdu	aapp	1	0	0	0	0
 aap	آپ	urdu	aaup	1	0	0	0	0
-aap	آپ	urdu	ap	1	430	66	0	0
+aap	آپ	urdu	ap	1	428	68	0	0
 aapahunche	آپہنچے	urdu	aaphonchay	1	0	0	0	0
 aapahunche	آپہنچے	urdu	aapohnchay	1	0	0	0	0
 aapahunche	آپہنچے	urdu	aapohnche	1	0	0	0	0
@@ -968,8 +969,8 @@ aapke		urdu	apky	0	16	2	0	0
 aapkee	آپکی	urdu	aapki	1	0	0	0	0
 aapkee	آپکی	urdu	apki	1	0	0	0	0
 aapkee	آپکی	urdu	apky	1	0	0	0	0
-aapki		urdu	apki	0	180	15	0	0
-aapko		urdu	apko	0	201	15	0	0
+aapki		urdu	apki	0	181	14	0	0
+aapko		urdu	apko	0	202	14	0	0
 aapko		urdu	apkooo	0	1	0	0	0
 aapnay	آپنے	urdu	aapne	1	0	0	0	0
 aapnay	آپنے	urdu	apne	1	0	0	0	0
@@ -1451,7 +1452,7 @@ aata	آتا	urdu	aat	0	10	3	0	0
 aata	آتا	urdu	aataa	1	0	0	0	0
 aata	آتا	urdu	aatha	1	0	0	0	0
 aata	آتا	urdu	aatta	0	8	3	0	0
-aata	آتا	urdu	ata	0	173	13	0	0
+aata	آتا	urdu	ata	0	172	14	0	0
 aata	آتا	urdu	ataa	0	3	1	0	0
 aataab	عتاب	urdu	aatab	1	0	0	0	0
 aataab	عتاب	urdu	ataab	1	0	0	0	0
@@ -1476,13 +1477,13 @@ aate	آتے	urdu	aat	0	2	3	0	0
 aate	آتے	urdu	aatay	1	0	0	0	0
 aate	آتے	urdu	aatte	0	4	0	0	0
 aate	آتے	urdu	aatty	0	4	1	0	0
-aate	آتے	urdu	aaty	0	71	31	0	0
+aate	آتے	urdu	aaty	0	72	30	0	0
 aate	آتے	urdu	aatyy	0	1	2	0	0
 aate	آتے	urdu	aay	0	2	1	0	0
 aate	آتے	urdu	aayt	0	8	3	0	0
 aate	آتے	urdu	atay	1	17	0	0	0
 aate	آتے	urdu	ate	1	2	1	0	0
-aate	آتے	urdu	aty	0	3	8	0	0
+aate	آتے	urdu	aty	0	4	7	0	0
 aatein	آتیں	urdu	aatin	1	0	0	0	0
 aatein	آتیں	urdu	aten	1	0	0	0	0
 aath	آٹھ	urdu	aah	0	10	6	0	0
@@ -1503,7 +1504,7 @@ aathwein	آٹھویں	urdu	aathween	1	1	0	0	0
 aathwein	آٹھویں	urdu	aathwen	1	1	0	0	0
 aati	آتی	urdu	aaati	0	1	0	0	0
 aati	آتی	urdu	aaty	1	0	0	0	0
-aati	آتی	urdu	ati	1	63	3	0	0
+aati	آتی	urdu	ati	1	62	4	0	0
 aati	آتی	urdu	atiii	0	1	0	0	0
 aatish	آتش	urdu	atash	1	0	0	0	0
 aatish	آتش	urdu	atesh	1	0	0	0	0
@@ -1612,7 +1613,7 @@ aaya	ایا	urdu	aaa	0	4	1	0	0
 aaya	ایا	urdu	aaiya	1	0	0	0	0
 aaya	ایا	urdu	aay	0	16	9	0	0
 aaya	ایا	urdu	aia	1	0	0	0	0
-aaya	ایا	urdu	aya	1	643	331	0	0
+aaya	ایا	urdu	aya	1	642	332	0	0
 aaya	ایا	urdu	iya	1	0	0	0	0
 aayaan	اعیان	urdu	aayan	1	0	0	0	0
 aayaan	اعیان	urdu	aeyan	1	0	0	0	0
@@ -1687,7 +1688,7 @@ aayi	آئی	urdu	aaiy	0	1	6	0	0
 aayi	آئی	urdu	aay	0	10	5	0	0
 aayi	آئی	urdu	aei	1	0	0	0	0
 aayi	آئی	urdu	ayee	0	4	1	0	0
-aayi	آئی	urdu	ayi	1	207	190	0	0
+aayi	آئی	urdu	ayi	1	208	189	0	0
 aayi	آئی	urdu	eye	1	0	0	0	0
 aayi	آئی	urdu	i	1	0	0	0	0
 aayin	آئیں	urdu	aaain	1	0	0	0	0
@@ -2200,7 +2201,7 @@ acha	اچھا	urdu	acca	0	7	8	0	0
 acha	اچھا	urdu	accah	0	31	16	0	0
 acha	اچھا	urdu	acccha	0	30	17	0	0
 acha	اچھا	urdu	acch	0	50	36	0	0
-acha	اچھا	urdu	accha	1	218	92	0	0
+acha	اچھا	urdu	accha	1	219	91	0	0
 acha	اچھا	urdu	acchha	0	24	15	0	0
 acha	اچھا	urdu	ach	0	30	17	0	0
 acha	اچھا	urdu	achaa	1	10	1	0	0
@@ -2440,7 +2441,7 @@ adaigian	ادائیگیاں	urdu	adaigiyan	1	0	0	0	0
 adaigion	ادائیگیوں	urdu	adaaegiyon	1	0	0	0	0
 adaigion	ادائیگیوں	urdu	adahigion	1	0	0	0	0
 adaigion	ادائیگیوں	urdu	adayegion	1	0	0	0	0
-adakaara	ادکارہ	urdu	adakara	1	0	0	0	0
+adakaara	ادکارہ	urdu	adakara	1	4	0	0	0
 adakaara	ادکارہ	urdu	adkaarah	1	0	0	0	0
 adakaara	ادکارہ	urdu	adkarah	1	0	0	0	0
 adakaara	ادکارہ	urdu	adkirah	1	0	0	0	0
@@ -2706,6 +2707,7 @@ adool	عدول	urdu	aadool	1	0	0	0	0
 adool	عدول	urdu	aadul	1	0	0	0	0
 adool	عدول	urdu	adul	1	0	0	0	0
 adool	عدول	urdu	aduul	1	0	0	0	0
+adopt		english		0	0	0	0	0
 ados	اڑوس	urdu	adose	1	0	0	0	0
 ados	اڑوس	urdu	aros	1	0	0	0	0
 adowlf	اڈولف	urdu	adolf	1	0	0	0	0
@@ -3345,6 +3347,7 @@ agaz		urdu		0	0	0	0	0
 age	ایج	urdu	aje	1	0	0	0	0
 age	ایج	urdu	edge	1	0	0	0	0
 age	ایج	urdu	yeyge	1	0	0	0	0
+agency		english		0	0	0	0	0
 agenda	ایجنڈا	urdu	agendaa	1	0	0	0	0
 agenda	ایجنڈا	urdu	ajenda	1	0	0	0	0
 agenda	ایجنڈا	urdu	ejenda	1	0	0	0	0
@@ -3959,6 +3962,7 @@ aisa	ایسا	urdu	aisaaa	0	1	0	0	0
 aisa	ایسا	urdu	asa	0	43	3	0	0
 aisa	ایسا	urdu	aysa	1	0	0	0	0
 aisa	ایسا	urdu	esa	0	41	2	0	0
+aisa	ایسا	urdu	yesa	0	4	0	0	0
 aisaab	الاعصاب	urdu		0	0	0	0	0
 aisar	ایثار	urdu	aesar	1	0	0	0	0
 aisar	ایثار	urdu	aicar	1	0	0	0	0
@@ -4002,7 +4006,7 @@ aisi	ایسی	urdu	aesi	1	0	0	0	0
 aisi	ایسی	urdu	aesy	1	0	0	0	0
 aisi	ایسی	urdu	aisiye	1	0	0	0	0
 aisi	ایسی	urdu	aisy	1	0	0	0	0
-aisi	ایسی	urdu	asi	0	127	8	0	0
+aisi	ایسی	urdu	asi	0	128	7	0	0
 aisi	ایسی	urdu	aysee	1	0	0	0	0
 aisi	ایسی	urdu	aysi	1	0	0	0	0
 aisi	ایسی	urdu	eiesaai	1	0	0	0	0
@@ -4045,6 +4049,7 @@ aiteqaad	الاعتقاد	urdu		0	0	0	0	0
 aithopiahi	ایتھوپیائی	urdu	ethiopiai	1	0	0	0	0
 aitmad		urdu		0	0	0	0	0
 aitna	اعتناء	urdu		0	0	0	0	0
+aitraf		urdu	aitraaf	0	4	0	0	0
 aivad	ایواڈ	urdu	aiwad	1	0	0	0	0
 aivad	ایواڈ	urdu	awad	1	0	0	0	0
 aiwa	ایوا	urdu	aewa	1	0	0	0	0
@@ -4930,6 +4935,7 @@ alaihuma	علیہما	urdu	alaihma	1	0	0	0	0
 alaihuma	علیہما	urdu	alaihooma	1	0	0	0	0
 alaihuma	علیہما	urdu	alaihumaa	1	0	0	0	0
 alaihuma	علیہما	urdu	aleehma	1	0	0	0	0
+alaikum	علیکم	urdu	alaekum	0	1	0	0	0
 alaikum	علیکم	urdu	alaiqum	1	0	0	0	0
 alaikum	علیکم	urdu	alaiykum	1	0	0	0	0
 alaikum	علیکم	urdu	alaykum	1	0	0	0	0
@@ -8211,6 +8217,7 @@ amooviyon	امویوں	urdu	amooyon	1	0	0	0	0
 amooviyon	امویوں	urdu	amooyoon	1	0	0	0	0
 amooviyon	امویوں	urdu	amoyon	1	0	0	0	0
 amooviyon	امویوں	urdu	amuviyon	1	0	0	0	0
+amount		english		0	0	0	0	0
 amozone	ایمیزون	urdu	amazon	1	0	0	0	0
 ampala	امپالا	urdu		0	0	0	0	0
 ampli	ایمپلی	urdu	amply	1	0	0	0	0
@@ -9027,11 +9034,13 @@ apne	اپنے	urdu	anpe	0	16	4	0	0
 apne	اپنے	urdu	ape	0	5	7	0	0
 apne	اپنے	urdu	apn	0	36	15	0	0
 apne	اپنے	urdu	apnay	1	148	6	0	0
+apne	اپنے	urdu	apnee	0	4	0	0	0
 apne	اپنے	urdu	apnei	1	0	0	0	0
 apne	اپنے	urdu	apney	1	7	0	0	0
 apne	اپنے	urdu	apny	0	4	0	0	0
 apne	اپنے	urdu	appne	0	18	6	0	0
 apne	اپنے	urdu	pane	1	1	0	0	0
+apni	اپنی	urdu	aapni	0	4	0	0	0
 apni	اپنی	urdu	ani	0	11	0	0	0
 apni	اپنی	urdu	anpi	0	17	10	0	0
 apni	اپنی	urdu	apin	0	14	8	0	0
@@ -9484,7 +9493,7 @@ armaa	ارماں	urdu	armaan	1	0	0	0	0
 armaa	ارماں	urdu	arman	1	0	0	0	0
 armaghan	ارمغان	urdu	armagan	1	0	0	0	0
 armaghan	ارمغان	urdu	armaghaa	1	0	0	0	0
-arman	ارمان	urdu	armaan	1	0	0	0	0
+arman	ارمان	urdu	armaan	1	4	0	0	0
 armani	ارمنی	urdu	armaani	1	0	0	0	0
 armani	ارمنی	urdu	armane	1	0	0	0	0
 armenia	آرمینیا	urdu	aarmeenia	1	0	0	0	0
@@ -9602,6 +9611,7 @@ artist	آرٹسٹ	urdu	aretist	1	0	0	0	0
 artist	آرٹسٹ	urdu	artyst	1	0	0	0	0
 artistic	آرٹسٹک	urdu	aartstk	1	0	0	0	0
 artistic	آرٹسٹک	urdu	arteestic	1	0	0	0	0
+artists		english		0	0	0	0	0
 arts	آرٹس	urdu	aarts	1	0	0	0	0
 arts	آرٹس	urdu	arats	1	0	0	0	0
 arunaa	ارونا	urdu	aroonaa	1	0	0	0	0
@@ -10250,7 +10260,8 @@ asree	عصری	urdu	asry	1	0	0	0	0
 asri	اثری	urdu	asari	1	0	0	0	0
 asri	اثری	urdu	asry	1	0	0	0	0
 asry	اسری	urdu	asri	1	0	0	0	0
-assalam		urdu		0	0	0	0	0
+assalam		urdu	aslam	0	9	0	0	0
+assalam		urdu	asslam	0	3	1	0	0
 assamit	الصامت	urdu		0	0	0	0	0
 assembliyan	اسمبلیاں	urdu	asmblyan	1	1	0	0	0
 assembliyan	اسمبلیاں	urdu	assemblean	1	0	0	0	0
@@ -10897,7 +10908,7 @@ aulaad	اولاد	urdu	aulade	1	0	0	0	0
 aulaad	اولاد	urdu	auladi	1	0	0	0	0
 aulaad	اولاد	urdu	avlaad	1	0	0	0	0
 aulaad	اولاد	urdu	awlaad	1	0	0	0	0
-aulad		urdu	olad	0	51	1	0	0
+aulad		urdu	olad	0	52	0	0	0
 aulad		urdu	ulaad	0	8	0	0	0
 aulad		urdu	ulad	0	9	0	0	0
 auladen	اولادیں	urdu	aulaaden	1	0	0	0	0
@@ -10982,14 +10993,15 @@ auqianus	اوقیانوس	urdu	oqianoos	1	1	0	0	0
 auqianusi	اوقیانوسی	urdu	aoqayanusee	1	0	0	0	0
 auqianusi	اوقیانوسی	urdu	aukyaanusi	1	0	0	0	0
 auqianusi	اوقیانوسی	urdu	auqianosi	1	0	0	0	0
+aur	اور	urdu	aour	0	4	0	0	0
 aur	اور	urdu	avar	1	0	0	0	0
 aur	اور	urdu	awar	1	0	0	0	0
 aur	اور	urdu	awr	1	10	0	0	0
 aur	اور	urdu	oar	1	10	0	0	0
-aur	اور	urdu	or	1	3823	1136	0	0
+aur	اور	urdu	or	1	3823	1135	0	0
 aur	اور	urdu	ore	1	0	0	0	0
 aur	اور	urdu	our	1	0	0	0	0
-aur	اور	urdu	ur	0	44	1	0	0
+aur	اور	urdu	ur	0	43	1	0	0
 aura	اورا	urdu	aora	1	0	0	0	0
 aura	اورا	urdu	aoraa	1	0	0	0	0
 aura	اورا	urdu	auraa	1	0	0	0	0
@@ -11228,6 +11240,7 @@ awast	اوست	urdu	osat	1	0	0	0	0
 away		english		0	0	0	0	0
 awaz	اواز	urdu	avaz	1	0	0	0	0
 awaz	اواز	urdu	awaaaaaz	0	1	0	0	0
+awaz	اواز	urdu	awaaz	0	1	0	0	0
 awaz	اواز	urdu	awaj	0	7	0	0	0
 awesome		english	awsome	0	6	0	0	0
 awesome		english	osm	0	13	2	0	0
@@ -11607,7 +11620,7 @@ baacha	باچا	urdu	bachaa	1	0	0	0	0
 baad	بعد	urdu	baa	0	59	30	0	0
 baad	بعد	urdu	baadd	0	172	93	0	0
 baad	بعد	urdu	baade	1	0	0	0	0
-baad	بعد	urdu	bad	1	530	165	0	0
+baad	بعد	urdu	bad	1	531	164	0	0
 baad	بعد	urdu	bada	0	147	88	0	0
 baad	بعد	urdu	bd	1	19	1	0	0
 baad	بعد	urdu	bed	1	0	0	0	0
@@ -11852,6 +11865,7 @@ baap	باپ	urdu	baaap	0	1	0	0	0
 baap	باپ	urdu	bap	1	22	2	0	0
 baap	باپ	urdu	bop	1	0	0	0	0
 baaqi		urdu	baqi	0	76	0	0	0
+baaqi		urdu	bqi	0	4	0	0	0
 baaqiyat	باقیات	urdu	baaqeeyat	1	0	0	0	0
 baaqiyat	باقیات	urdu	baqeat	1	0	0	0	0
 baaqiyat	باقیات	urdu	baqeeyat	1	0	0	0	0
@@ -11863,7 +11877,7 @@ baaquba	بعقوبہ	urdu	baqhubah	1	0	0	0	0
 baaquba	بعقوبہ	urdu	baquba	1	0	0	0	0
 baaquba	بعقوبہ	urdu	baqubah	1	0	0	0	0
 baar	بار	urdu	baari	1	0	0	0	0
-baar	بار	urdu	bar	1	27	4	0	0
+baar	بار	urdu	bar	1	28	3	0	0
 baar	بار	urdu	bare	1	0	0	0	0
 baar	بار	urdu	baree	1	0	0	0	0
 baar	بار	urdu	bari	1	0	0	0	0
@@ -11962,12 +11976,13 @@ baat	بات	urdu	baaat	0	1	0	0	0
 baat	بات	urdu	baatt	0	13	5	0	0
 baat	بات	urdu	bat	1	482	121	0	0
 baat	بات	urdu	bata	0	11	4	0	0
+baat	بات	urdu	batt	0	3	1	0	0
 baat	بات	urdu	bt	1	59	5	0	0
 baat	بات	urdu	bttttt	0	1	0	0	0
 baatein	باتیں	urdu	baaetin	0	3	1	0	0
 baatein	باتیں	urdu	baatain	0	4	1	0	0
 baatein	باتیں	urdu	baateinn	0	3	0	0	0
-baatein	باتیں	urdu	baaten	1	9	0	0	0
+baatein	باتیں	urdu	baaten	1	13	0	0	0
 baatein	باتیں	urdu	baatin	0	6	0	0	0
 baatein	باتیں	urdu	baattein	0	3	2	0	0
 baatein	باتیں	urdu	bataein	0	3	1	0	0
@@ -11989,6 +12004,7 @@ baatinee	باطنی	urdu	baatini	1	0	0	0	0
 baatinee	باطنی	urdu	baatni	1	0	0	0	0
 baatinee	باطنی	urdu	batini	1	0	0	0	0
 baatinee	باطنی	urdu	batni	1	0	0	0	0
+baaton		urdu	baato	0	4	0	0	0
 baaton		urdu	bato	0	6	0	0	0
 baatooni	باتونی	urdu	baatuni	1	0	0	0	0
 baatooni	باتونی	urdu	baatuny	1	0	0	0	0
@@ -12187,6 +12203,7 @@ bachaye	بچائے	urdu	bachayay	1	0	0	0	0
 bachayey	بچھائے	urdu	bachaye	1	0	0	0	0
 bachayey	بچھائے	urdu	bachhaie	1	0	0	0	0
 bachayey	بچھائے	urdu	bichaye	1	0	0	0	0
+bachchan		urdu	bachan	0	4	0	0	0
 bachche	بچے	urdu	bachay	1	3	0	0	0
 bachche	بچے	urdu	bachchay	1	0	0	0	0
 bachche	بچے	urdu	bachchey	1	0	0	0	0
@@ -12200,6 +12217,7 @@ bachchiyon	بچیوں	urdu	bachion	1	0	0	0	0
 bachchiyon	بچیوں	urdu	bachiyon	1	0	0	0	0
 bachchiyon	بچیوں	urdu	bachyon	1	0	0	0	0
 bachchiyon	بچیوں	urdu	bachyun	1	0	0	0	0
+bachchon	بچوں	urdu	baccho	0	4	0	0	0
 bachchon	بچوں	urdu	bachcho	1	1	0	0	0
 bachchon	بچوں	urdu	bachho	1	0	0	0	0
 bachchon	بچوں	urdu	bachhon	1	0	0	0	0
@@ -13246,7 +13264,7 @@ baithaa	بیتہ	urdu	bitah	1	0	0	0	0
 baithak	بیٹھک	urdu	bethak	1	0	0	0	0
 baithak	بیٹھک	urdu	bythak	1	0	0	0	0
 baithe	بیٹھے	urdu	baithay	1	0	0	0	0
-baithe	بیٹھے	urdu	bethay	1	0	0	0	0
+baithe	بیٹھے	urdu	bethay	1	4	0	0	0
 baithe	بیٹھے	urdu	bethe	1	6	1	0	0
 baithe	بیٹھے	urdu	bethy	0	10	0	0	0
 baithi	بیٹھی	urdu	baithy	1	0	0	0	0
@@ -14018,6 +14036,7 @@ banatay	بناتے	urdu	banaatay	1	0	0	0	0
 banatay	بناتے	urdu	banaate	1	1	0	0	0
 banatay	بناتے	urdu	banate	1	1	0	0	0
 banate		urdu	banaty	0	7	0	0	0
+banate		urdu	bnate	0	4	0	0	0
 banate		urdu	bnaty	0	8	0	0	0
 banaunga		urdu	banauga	0	1	1	0	0
 banaunga		urdu	banaugna	0	1	0	0	0
@@ -14051,7 +14070,7 @@ banaya	بنایا	urdu	banay	0	14	9	0	0
 banaya	بنایا	urdu	banayaa	1	0	0	0	0
 banaya	بنایا	urdu	banayya	0	26	5	0	0
 banaya	بنایا	urdu	bannaya	0	24	9	0	0
-banaya	بنایا	urdu	banya	0	51	27	0	0
+banaya	بنایا	urdu	banya	0	55	27	0	0
 banaya	بنایا	urdu	baya	0	26	14	0	0
 banaya	بنایا	urdu	bnaa	0	25	16	0	0
 banaya	بنایا	urdu	bnaay	0	27	13	0	0
@@ -15375,9 +15394,10 @@ bataya	بتایا	urdu	batya	0	1	1	0	0
 bataya	بتایا	urdu	batyaa	0	1	0	0	0
 bataya	بتایا	urdu	btaaya	0	1	1	0	0
 bataya	بتایا	urdu	btaya	0	11	1	0	0
+bataya	بتایا	urdu	btya	0	4	0	0	0
 bataye		urdu	btaye	0	7	0	0	0
 batayi		urdu	baatyi	0	3	1	0	0
-batayi		urdu	batai	0	2	0	0	0
+batayi		urdu	batai	0	6	0	0	0
 batayi		urdu	bataiy	0	2	0	0	0
 batayi		urdu	batay	0	4	2	0	0
 batayi		urdu	batayyi	0	1	1	0	0
@@ -15761,6 +15781,7 @@ bebar	بیبر	urdu	bebaar	1	0	0	0	0
 bebar	بیبر	urdu	bibar	1	0	0	0	0
 bebar	بیبر	urdu	bieber	1	0	0	0	0
 because		english	bcz	0	8	1	0	0
+bech		urdu	baich	0	4	0	0	0
 bech		urdu	bch	0	12	1	0	0
 bech		urdu	becch	0	5	0	0	0
 bech		urdu	bechh	0	4	0	0	0
@@ -15919,6 +15940,7 @@ beganah	بیگانہ	urdu	begana	1	0	0	0	0
 beganah	بیگانہ	urdu	biganah	1	0	0	0	0
 begar	بیگار	urdu	begaar	1	0	0	0	0
 begar	بیگار	urdu	bigar	1	0	0	0	0
+beghairat		urdu	beghairt	0	4	0	0	0
 begon	بیگوں	urdu	bagon	1	0	0	0	0
 begon	بیگوں	urdu	beegoon	1	0	0	0	0
 begon	بیگوں	urdu	bigon	1	0	0	0	0
@@ -15955,11 +15977,14 @@ behen		urdu	been	0	4	7	0	0
 behen		urdu	behe	0	7	3	0	0
 behen		urdu	behenn	0	6	5	0	0
 behen		urdu	behhen	0	6	3	0	0
+behen		urdu	behin	0	4	0	0	0
 behen		urdu	behn	0	14	3	0	0
 behen		urdu	behne	0	5	3	0	0
 behen		urdu	bhan	0	7	0	0	0
 behen		urdu	bhen	0	24	8	0	0
 behen		urdu	bhn	0	379	148	0	0
+behenon		urdu	behno	0	2	2	0	0
+behenon		urdu	bheno	0	4	0	0	0
 beher	بہر	urdu	bahar	1	1	1	0	0
 beher	بہر	urdu	bahare	1	0	0	0	0
 beher	بہر	urdu	bahri	1	0	0	0	0
@@ -16002,7 +16027,7 @@ behshat	بہشت	urdu	bahshat	1	0	0	0	0
 behshat	بہشت	urdu	bihshat	1	0	0	0	0
 behshat	بہشت	urdu	bohshat	1	0	0	0	0
 behtar	بہتر	urdu	bahtar	1	0	0	0	0
-behtar	بہتر	urdu	bahter	0	57	4	0	0
+behtar	بہتر	urdu	bahter	0	58	3	0	0
 behtar	بہتر	urdu	behater	1	0	0	0	0
 behtar	بہتر	urdu	behather	1	0	0	0	0
 behtar	بہتر	urdu	behhtar	0	1	0	0	0
@@ -16371,7 +16396,7 @@ betian	بیٹیاں	urdu	betiyan	1	1	0	0	0
 betion	بیٹیوں	urdu	baition	1	0	0	0	0
 betion	بیٹیوں	urdu	beteon	1	0	0	0	0
 betion	بیٹیوں	urdu	betiyon	1	0	0	0	0
-betiyon		urdu	betiyo	0	5	0	0	0
+betiyon		urdu	betiyo	0	4	1	0	0
 beto	بیٹو	urdu	betu	1	0	0	0	0
 beton	بیٹوں	urdu	betun	1	0	0	0	0
 betrion	بیٹریوں	urdu	betreon	1	0	0	0	0
@@ -16913,7 +16938,7 @@ bhenchod		urdu	bhenchooood	0	1	0	0	0
 bhent	بھینٹ	urdu	bhaint	1	0	0	0	0
 bhent	بھینٹ	urdu	bheynt	1	0	0	0	0
 bhent	بھینٹ	urdu	bhint	1	0	0	0	0
-bhi	بھی	urdu	b	0	869	43	0	0
+bhi	بھی	urdu	b	0	868	44	0	0
 bhi	بھی	urdu	bahee	1	0	0	0	0
 bhi	بھی	urdu	bahi	1	0	0	0	0
 bhi	بھی	urdu	bahii	1	0	0	0	0
@@ -16922,9 +16947,10 @@ bhi	بھی	urdu	bh	0	24	4	0	0
 bhi	بھی	urdu	bhe	0	74	7	0	0
 bhi	بھی	urdu	bhee	1	45	1	0	0
 bhi	بھی	urdu	bheee	0	2	0	0	0
+bhi	بھی	urdu	bhii	0	4	0	0	0
 bhi	بھی	urdu	bhiii	0	3	0	0	0
 bhi	بھی	urdu	bhy	1	0	0	0	0
-bhi	بھی	urdu	bi	1	323	475	0	0
+bhi	بھی	urdu	bi	1	324	474	0	0
 bhi	بھی	urdu	v	0	88	0	0	0
 bhi	بھی	urdu	vi	0	11	0	0	0
 bhid	بھڑ	urdu	bhad	1	0	0	0	0
@@ -16940,6 +16966,7 @@ bhijwaya	بھجوایا	urdu	bhujwaya	1	0	0	0	0
 bhikaran	بھکارن	urdu	bhakaran	1	0	0	0	0
 bhikaran	بھکارن	urdu	bhikaaran	1	0	0	0	0
 bhikari		urdu	bhekari	0	4	1	0	0
+bhikari		urdu	bikhari	0	4	0	0	0
 bhikshuon	بھکشوؤں	urdu		0	0	0	0	0
 bhil	بھیل	urdu	bhail	1	0	0	0	0
 bhil	بھیل	urdu	bhel	1	0	0	0	0
@@ -17106,6 +17133,7 @@ bigadti	بگڑتی	urdu	bagadti	1	0	0	0	0
 bigadti	بگڑتی	urdu	bigadty	1	0	0	0	0
 bigda	بگڑا	urdu	bagda	1	0	0	0	0
 bigda	بگڑا	urdu	bigdaa	1	0	0	0	0
+biggest		english		0	0	0	0	0
 biia	بیا	urdu		0	0	0	0	0
 bijapuri	بیجاپوری	urdu	bejapuri	1	0	0	0	0
 bijapuri	بیجاپوری	urdu	bijapori	1	0	0	0	0
@@ -17406,6 +17434,7 @@ blender	بلینڈر	urdu	balenar	1	0	0	0	0
 blender	بلینڈر	urdu	balindar	1	0	0	0	0
 blender	بلینڈر	urdu	balinder	1	0	0	0	0
 bless		english		0	0	0	0	0
+blessed		english		0	0	0	0	0
 blluff	بلف	urdu	bluf	1	0	0	0	0
 blluff	بلف	urdu	bluff	1	0	0	0	0
 block		english		0	0	0	0	0
@@ -17509,7 +17538,7 @@ bohari	بوہری	urdu	buhari	1	0	0	0	0
 bohat	بہت	urdu	bahat	1	0	0	0	0
 bohat	بہت	urdu	bahoot	1	5	0	0	0
 bohat	بہت	urdu	bahot	1	43	5	0	0
-bohat	بہت	urdu	bahut	1	314	44	0	0
+bohat	بہت	urdu	bahut	1	313	45	0	0
 bohat	بہت	urdu	bahuttt	0	1	0	0	0
 bohat	بہت	urdu	behat	1	0	0	0	0
 bohat	بہت	urdu	behath	1	0	0	0	0
@@ -17549,7 +17578,7 @@ bohat	بہت	urdu	bohhht	0	1	0	0	0
 bohat	بہت	urdu	bohht	0	14	15	0	0
 bohat	بہت	urdu	boho	0	7	4	0	0
 bohat	بہت	urdu	bohooot	0	1	0	0	0
-bohat	بہت	urdu	bohot	1	595	112	0	0
+bohat	بہت	urdu	bohot	1	593	114	0	0
 bohat	بہت	urdu	bohott	0	14	5	0	0
 bohat	بہت	urdu	bohottttt	0	1	0	0	0
 bohat	بہت	urdu	boht	1	213	141	0	0
@@ -17768,6 +17797,7 @@ boria	بوریا	urdu	boriyaa	1	0	0	0	0
 boria	بوریا	urdu	borya	1	0	0	0	0
 boria	بوریا	urdu	boryaa	1	0	0	0	0
 borial		urdu		0	0	0	0	0
+boring		english		0	0	0	0	0
 borion	بوریوں	urdu	boriyoon	1	0	0	0	0
 borion	بوریوں	urdu	boryo	1	0	0	0	0
 borion	بوریوں	urdu	boryoon	1	0	0	0	0
@@ -17862,6 +17892,7 @@ boya	بویہ	urdu	buia	1	0	0	0	0
 boycot	بائیکاٹ	urdu	boicot	1	0	0	0	0
 boycot	بائیکاٹ	urdu	boicott	1	0	0	0	0
 boycot	بائیکاٹ	urdu	boycott	1	0	0	0	0
+boycott		english		0	0	0	0	0
 boys	بوائز	urdu	boyz	1	0	0	0	0
 bra	برہ	urdu	brah	1	0	0	0	0
 braa	براں	urdu	braan	1	0	0	0	0
@@ -18176,6 +18207,7 @@ bulbulay	بلبلے	urdu	bulbuley	1	0	0	0	0
 bulbulon	بلبلوں	urdu	bulbuloun	1	0	0	0	0
 bulldog	بلڈاگ	urdu		0	0	0	0	0
 bulldozer	بلڈوزر	urdu	buldozer	1	0	0	0	0
+bullshit		english		0	0	0	0	0
 bulwaya	بلوایا	urdu	balwaayaa	1	0	0	0	0
 bulwaya	بلوایا	urdu	bulvaayaa	1	0	0	0	0
 bulwaya	بلوایا	urdu	bulvaya	1	0	0	0	0
@@ -18528,6 +18560,7 @@ candda	کنڑا	urdu	qanraa	1	0	0	0	0
 candh	کند	urdu	codh	1	0	0	0	0
 candh	کند	urdu	kand	1	0	0	0	0
 candh	کند	urdu	kund	1	1	0	0	0
+candidate		english		0	0	0	0	0
 candle	کینڈل	urdu	kendal	1	0	0	0	0
 candy	کنڈی	urdu	condi	1	0	0	0	0
 candy	کنڈی	urdu	cundi	1	0	0	0	0
@@ -18776,6 +18809,7 @@ catalog	کیٹلاگ	urdu	katalog	1	0	0	0	0
 catcher	کیچر	urdu	catchur	1	0	0	0	0
 catcher	کیچر	urdu	katcher	1	0	0	0	0
 catcher	کیچر	urdu	keecher	1	0	0	0	0
+category		english		0	0	0	0	0
 cathaline	کیتھلین	urdu	cathline	1	0	0	0	0
 cathaline	کیتھلین	urdu	kathleen	1	0	0	0	0
 cathaline	کیتھلین	urdu	kithaleen	1	0	0	0	0
@@ -19201,7 +19235,7 @@ chahi	چاہی	urdu	chaahi	1	0	0	0	0
 chahi	چاہی	urdu	chaahy	1	0	0	0	0
 chahi	چاہی	urdu	chahee	1	0	0	0	0
 chahi	چاہی	urdu	chahy	1	0	0	0	0
-chahiye	چاہیے	urdu	cahiye	0	14	14	0	0
+chahiye	چاہیے	urdu	cahiye	0	18	14	0	0
 chahiye	چاہیے	urdu	cahye	0	9	7	0	0
 chahiye	چاہیے	urdu	caiye	0	5	8	0	0
 chahiye	چاہیے	urdu	chaahie	1	0	0	0	0
@@ -19216,7 +19250,7 @@ chahiye	چاہیے	urdu	chahiay	1	8	1	0	0
 chahiye	چاہیے	urdu	chahie	1	14	4	0	0
 chahiye	چاہیے	urdu	chahiea	1	0	0	0	0
 chahiye	چاہیے	urdu	chahiey	1	5	5	0	0
-chahiye	چاہیے	urdu	chahiy	0	16	12	0	0
+chahiye	چاہیے	urdu	chahiy	0	20	12	0	0
 chahiye	چاہیے	urdu	chahiya	0	8	0	0	0
 chahiye	چاہیے	urdu	chahiyye	0	8	7	0	0
 chahiye	چاہیے	urdu	chahtay	1	0	0	0	0
@@ -19225,6 +19259,7 @@ chahiye	چاہیے	urdu	chahyay	1	0	0	0	0
 chahiye	چاہیے	urdu	chahye	1	316	173	0	0
 chahiye	چاہیے	urdu	chahyie	0	6	7	0	0
 chahiye	چاہیے	urdu	chahyye	0	17	12	0	0
+chahiye	چاہیے	urdu	chaie	0	4	13	0	0
 chahiye	چاہیے	urdu	chaiey	0	10	6	0	0
 chahiye	چاہیے	urdu	chaihye	0	5	6	0	0
 chahiye	چاہیے	urdu	chaiy	0	28	18	0	0
@@ -19239,9 +19274,11 @@ chahiye	چاہیے	urdu	chhahye	0	21	8	0	0
 chahiye	چاہیے	urdu	chhaiye	0	42	19	0	0
 chahiye	چاہیے	urdu	chhiye	0	20	15	0	0
 chahiye	چاہیے	urdu	chhye	0	33	21	0	0
+chahiye	چاہیے	urdu	chia	0	3	1	0	0
 chahiye	چاہیے	urdu	chiaye	0	11	8	0	0
 chahiye	چاہیے	urdu	chiye	0	30	13	0	0
 chahiye	چاہیے	urdu	chye	0	10	0	0	0
+chahiye	چاہیے	urdu	chyee	0	1	0	0	0
 chahiyen	چاہئیں	urdu	chahiean	1	0	0	0	0
 chahiyen	چاہئیں	urdu	chahieyn	1	0	0	0	0
 chahiyen	چاہئیں	urdu	chahiye	1	0	0	0	0
@@ -20303,7 +20340,7 @@ chawal	چاول	urdu	chawall	0	9	5	0	0
 chawal	چاول	urdu	chawl	0	11	9	0	0
 chawal	چاول	urdu	chawla	0	5	0	0	0
 chawal	چاول	urdu	chwaal	0	6	5	0	0
-chawal	چاول	urdu	chwal	0	14	6	0	0
+chawal	چاول	urdu	chwal	0	18	6	0	0
 chawalees	چوالیس	urdu	chawalis	1	0	0	0	0
 chawalees	چوالیس	urdu	chawwalees	1	0	0	0	0
 chawalees	چوالیس	urdu	choalies	1	0	0	0	0
@@ -20423,7 +20460,7 @@ cheena	چھینہ	urdu	chheenah	1	0	0	0	0
 cheeni	چینی	urdu	cheani	1	0	0	0	0
 cheeni	چینی	urdu	cheen	1	1	0	0	0
 cheeni	چینی	urdu	cheenee	1	0	0	0	0
-cheeni	چینی	urdu	cheni	1	7	1	0	0
+cheeni	چینی	urdu	cheni	1	8	0	0	0
 cheeni	چینی	urdu	chinee	1	1	0	0	0
 cheeni	چینی	urdu	chinese	0	1	0	0	0
 cheeni	چینی	urdu	chini	1	4	0	0	0
@@ -20481,7 +20518,7 @@ cheezein	چیزیں	urdu	chezain	0	11	0	0	0
 cheezein	چیزیں	urdu	chezeein	0	1	1	0	0
 cheezein	چیزیں	urdu	chezein	0	4	3	0	0
 cheezein	چیزیں	urdu	chezen	1	0	0	0	0
-cheezein	چیزیں	urdu	chizen	1	1	0	0	0
+cheezein	چیزیں	urdu	chizen	1	4	1	0	0
 cheezein	چیزیں	urdu	chizian	1	0	0	0	0
 cheezon	چیزوں	urdu	cheejoon	1	0	0	0	0
 cheezon	چیزوں	urdu	cheezoon	1	0	0	0	0
@@ -20710,6 +20747,7 @@ chhodi	چھوڑی	urdu	chhody	1	0	0	0	0
 chhodi	چھوڑی	urdu	chori	1	0	0	0	0
 chhodna	چھوڑنا	urdu	chhudna	1	0	0	0	0
 chhodne	چھوڑنے	urdu	chhudnay	1	0	0	0	0
+chhodne	چھوڑنے	urdu	chodny	0	1	0	0	0
 chhodon	چھوڑوں	urdu	chhodoon	1	0	0	0	0
 chhodon	چھوڑوں	urdu	chhodun	1	0	0	0	0
 chhodta	چھوڑتا	urdu		0	0	0	0	0
@@ -20744,7 +20782,7 @@ chhorna		urdu	chorna	0	5	0	0	0
 chhorni		urdu	chorni	0	4	1	0	0
 chhoro		urdu	choooorooooo	0	1	0	0	0
 chhoro		urdu	chooorrroooo	0	1	0	0	0
-chhoro		urdu	choro	0	53	3	0	0
+chhoro		urdu	choro	0	52	4	0	0
 chhoro		urdu	chorooo	0	3	0	0	0
 chhoro		urdu	chorooooo	0	1	0	0	0
 chhot	چھوٹ	urdu	chhoot	1	0	0	0	0
@@ -20784,6 +20822,7 @@ chhupa	چھپا	urdu	chhapa	1	1	0	0	0
 chhupa	چھپا	urdu	chuhupa	1	0	0	0	0
 chhupa	چھپا	urdu	chupaa	1	0	0	0	0
 chhupana	چھپانا	urdu		0	0	0	0	0
+chhuta		urdu	chuta	0	3	1	0	0
 chhutma	چھٹما	urdu		0	0	0	0	0
 chi	چی	urdu	che	1	0	0	0	0
 chi	چی	urdu	chee	1	0	0	0	0
@@ -21026,13 +21065,14 @@ chor	چور	urdu	chooooooor	0	1	0	0	0
 chor	چور	urdu	choooooor	0	3	0	0	0
 chor	چور	urdu	choooooorrrrrr	0	1	0	0	0
 chor	چور	urdu	chooooorrrrr	0	1	0	0	0
-chor	چور	urdu	chooor	0	9	0	0	0
+chor	چور	urdu	chooor	0	8	1	0	0
 chor	چور	urdu	chooorrr	0	1	0	0	0
 chor	چور	urdu	choor	1	0	0	0	0
 chor	چور	urdu	choorrr	0	1	0	0	0
 chor	چور	urdu	chorrr	0	5	0	0	0
 chor	چور	urdu	chorrrr	0	1	0	0	0
 chor	چور	urdu	chorrrrr	0	1	0	0	0
+chor	چور	urdu	chur	0	4	0	0	0
 chora	چوڑا	urdu	chodda	1	0	0	0	0
 chora	چوڑا	urdu	chuodaa	1	0	0	0	0
 chora	چوڑا	urdu	chura	1	0	0	0	0
@@ -21210,6 +21250,8 @@ chutia		urdu		0	0	0	0	0
 chutiya		urdu	chotiya	0	5	1	0	0
 chutiya		urdu	chutiiyaaa	0	1	0	0	0
 chutiya		urdu	chutiyaaa	0	1	0	0	0
+chutiya		urdu	chutya	0	4	0	0	0
+chutiya		urdu	chutyaas	0	1	0	0	0
 chutiye		urdu		0	0	0	0	0
 chutkara	چھٹکارا	urdu	chhatkara	1	0	0	0	0
 chutkara	چھٹکارا	urdu	chhutkara	1	0	0	0	0
@@ -21495,6 +21537,7 @@ colateral	کولیٹرل	urdu	collateral	1	0	0	0	0
 colateral	کولیٹرل	urdu	kolateral	1	0	0	0	0
 coleen	کولین	urdu	colin	1	0	0	0	0
 coleen	کولین	urdu	kolin	1	0	0	0	0
+collection		english		0	0	0	0	0
 collector	کلکٹر	urdu	kallekter	1	0	0	0	0
 collega	کلیجا	urdu	kollega	1	0	0	0	0
 college	کالج	urdu	kollej	1	0	0	0	0
@@ -21666,6 +21709,7 @@ conbah	کنبہ	urdu	kumbah	1	0	0	0	0
 conbah	کنبہ	urdu	kunba	1	0	0	0	0
 conbea	کنبے	urdu	conbey	1	0	0	0	0
 conbea	کنبے	urdu	kunbe	1	1	0	0	0
+concept		english		0	0	0	0	0
 concert	کنسرٹ	urdu	conceert	1	0	0	0	0
 concert	کنسرٹ	urdu	conncert	1	0	0	0	0
 concrete	کنکریٹ	urdu	konkrit	1	0	0	0	0
@@ -21681,6 +21725,7 @@ condeyaroo	کنڈیارو	urdu	cundiyaro	1	0	0	0	0
 condeyaroo	کنڈیارو	urdu	kandiyaro	1	0	0	0	0
 condeyaroo	کنڈیارو	urdu	kundiyaro	1	0	0	0	0
 condeyaroo	کنڈیارو	urdu	qandiyaro	1	0	0	0	0
+condition		english		0	0	0	0	0
 conditions	conditions	urdu		0	0	0	0	0
 condom	کنڈوم	urdu	kondom	1	0	0	0	0
 conference	کانفرنس	urdu	conferens	1	0	0	0	0
@@ -21733,6 +21778,7 @@ conslet	قونصلیٹ	urdu	qaunsalait	1	0	0	0	0
 conslet	قونصلیٹ	urdu	qonslet	1	0	0	0	0
 console	کنسول	urdu	kansol	1	0	0	0	0
 console	کنسول	urdu	kansole	1	0	0	0	0
+constitution		english		0	0	0	0	0
 consulate	کونسلیٹ	urdu	konslait	1	0	0	0	0
 consultant	کنسلٹنٹ	urdu	consultent	1	0	0	0	0
 consultant	کنسلٹنٹ	urdu	kansalttantt	1	0	0	0	0
@@ -21741,6 +21787,8 @@ content	کونٹینٹ	urdu	kontinent	1	0	0	0	0
 continental	کانٹینینٹل	urdu	cantinantal	1	0	0	0	0
 continental	کانٹینینٹل	urdu	continital	1	0	0	0	0
 continental	کانٹینینٹل	urdu	kontinental	1	0	0	0	0
+continue		english		0	0	0	0	0
+contract		english		0	0	0	0	0
 control	کنٹرول	urdu	controol	1	0	0	0	0
 control	کنٹرول	urdu	contrrol	1	0	0	0	0
 control	کنٹرول	urdu	kantarol	1	0	0	0	0
@@ -23349,6 +23397,7 @@ daraayat	درایت	urdu	daraet	1	0	0	0	0
 daraayat	درایت	urdu	darayet	1	0	0	0	0
 daraayat	درایت	urdu	draeyat	1	0	0	0	0
 daraayat	درایت	urdu	draiyat	1	0	0	0	0
+daraaz		urdu	draz	0	4	0	0	0
 daraazse	درازسے	urdu	daraazsay	1	0	0	0	0
 daraazse	درازسے	urdu	daraazsey	1	0	0	0	0
 daraazse	درازسے	urdu	darazsae	1	0	0	0	0
@@ -23620,6 +23669,7 @@ darke	دارکے	urdu	daarke	1	0	0	0	0
 darke	دارکے	urdu	darky	1	0	0	0	0
 darkhor	درخور	urdu	darqhor	1	0	0	0	0
 darkhwast	درخواست	urdu	darkhausth	1	0	0	0	0
+darkhwast	درخواست	urdu	darkhawast	0	3	0	0	0
 darkhwast	درخواست	urdu	darkhawsth	1	0	0	0	0
 darkhwast	درخواست	urdu	darkhuaast	1	0	0	0	0
 darkhwast	درخواست	urdu	darkhuast	1	0	0	0	0
@@ -23688,7 +23738,7 @@ darparda	درپردہ	urdu	darpardah	1	0	0	0	0
 darpay	درپے	urdu	darpe	1	0	0	0	0
 darpay	درپے	urdu	darpey	1	0	0	0	0
 darpay	درپے	urdu	dharpe	1	0	0	0	0
-darpesh	درپیش	urdu	darpaish	1	0	0	0	0
+darpesh	درپیش	urdu	darpaish	1	4	0	0	0
 darpesh	درپیش	urdu	darpeshh	1	0	0	0	0
 darpesh	درپیش	urdu	dharpesh	1	0	0	0	0
 darr	ڈر	urdu	dar	1	3	2	0	0
@@ -24455,8 +24505,8 @@ ddiyaa	ڈیا	urdu	dia	1	0	0	0	0
 ddiyaa	ڈیا	urdu	diaa	1	0	0	0	0
 ddiyaa	ڈیا	urdu	diya	1	0	0	0	0
 ddiyaa	ڈیا	urdu	diyaa	1	0	0	0	0
-de	دے	urdu	day	1	106	6	0	0
-de	دے	urdu	dy	0	493	30	0	0
+de	دے	urdu	day	1	107	5	0	0
+de	دے	urdu	dy	0	492	31	0	0
 de	دے	urdu	dye	1	0	0	0	0
 de	دے	urdu	dyyyy	0	1	0	0	0
 de	دے	urdu	they	1	0	0	0	0
@@ -24556,6 +24606,7 @@ deedah	دیدہ	urdu	dedah	1	0	0	0	0
 deedah	دیدہ	urdu	didaah	1	0	0	0	0
 deedah	دیدہ	urdu	didah	1	0	0	0	0
 deedan	دیدن	urdu	didan	1	0	0	0	0
+deedar	دیدار	urdu	dedar	0	4	0	0	0
 deedar	دیدار	urdu	deedaar	1	0	0	0	0
 deedar	دیدار	urdu	didar	1	0	0	0	0
 deedat	دیدات	urdu		0	0	0	0	0
@@ -24725,8 +24776,9 @@ dehshatgardi	دہشگردی	urdu	dahashgardi	1	0	0	0	0
 dehshatgardi	دہشگردی	urdu	deheshgardi	1	0	0	0	0
 dehshatnak	دھشتناک	urdu		0	0	0	0	0
 dein		urdu	daen	0	20	1	0	0
-dein		urdu	dain	0	66	5	0	0
+dein		urdu	dain	0	68	3	0	0
 dein		urdu	den	0	30	2	0	0
+dein		urdu	dny	0	3	1	0	0
 dein		urdu	dyn	0	11	0	0	0
 dejiyay	دیجیئے	urdu	deejiye	1	0	0	0	0
 dejiyay	دیجیئے	urdu	dijiye	1	1	0	0	0
@@ -24739,7 +24791,8 @@ dek	دیک	urdu	dik	1	0	0	0	0
 dekar	دیکر	urdu	daikar	1	0	0	0	0
 dekar	دیکر	urdu	daykar	1	0	0	0	0
 dekar	دیکر	urdu	dikar	1	0	0	0	0
-dekh	دیکھ	urdu	daikh	0	185	14	0	0
+dekh	دیکھ	urdu	daikh	0	186	13	0	0
+dekh	دیکھ	urdu	deakh	0	4	0	0	0
 dekh	دیکھ	urdu	deekh	1	0	0	0	0
 dekh	دیکھ	urdu	deh	0	8	0	0	0
 dekh	دیکھ	urdu	dehk	0	13	8	0	0
@@ -24911,7 +24964,7 @@ den	دیں	urdu	deen	1	5	1	0	0
 den	دیں	urdu	dein	1	3	0	0	0
 den	دیں	urdu	din	1	0	0	0	0
 den	دیں	urdu	dyn	1	0	0	0	0
-dena	دینا	urdu	daina	1	82	4	0	0
+dena	دینا	urdu	daina	1	80	6	0	0
 dena	دینا	urdu	dayna	1	0	0	0	0
 dena	دینا	urdu	dea	0	6	9	0	0
 dena	دینا	urdu	dean	0	6	18	0	0
@@ -25081,6 +25134,7 @@ deta	دیتا	urdu	deeta	1	0	0	0	0
 deta	دیتا	urdu	detaa	1	0	0	0	0
 deta	دیتا	urdu	dita	1	0	0	0	0
 deta	دیتا	urdu	dyta	1	0	0	0	0
+detail		english		0	0	0	0	0
 dete	دیتے	urdu	daitay	1	0	0	0	0
 dete	دیتے	urdu	daty	0	17	0	0	0
 dete	دیتے	urdu	deete	1	0	0	0	0
@@ -25603,6 +25657,7 @@ dilasah	دلاسہ	urdu	dilasa	1	0	0	0	0
 dilasah	دلاسہ	urdu	dilaseh	1	0	0	0	0
 dilash	دلش	urdu		0	0	0	0	0
 dilata	دلاتا	urdu	dalata	1	0	0	0	0
+dilata	دلاتا	urdu	delaata	0	2	2	0	0
 dilata	دلاتا	urdu	dilaata	1	0	0	0	0
 dilati	دلاتی	urdu	dalate	1	0	0	0	0
 dilati	دلاتی	urdu	dalati	1	0	0	0	0
@@ -25811,7 +25866,7 @@ diya	دیا	urdu	daya	1	0	0	0	0
 diya	دیا	urdu	dayaa	1	0	0	0	0
 diya	دیا	urdu	dea	0	4	0	0	0
 diya	دیا	urdu	deia	1	0	0	0	0
-diya	دیا	urdu	deya	1	158	9	0	0
+diya	دیا	urdu	deya	1	159	8	0	0
 diya	دیا	urdu	deyaa	1	0	0	0	0
 diya	دیا	urdu	dia	1	35	25	0	0
 diya	دیا	urdu	diay	0	38	35	0	0
@@ -25921,7 +25976,7 @@ docs	ڈاکس	urdu	daks	1	0	0	0	0
 docs	ڈاکس	urdu	docks	1	0	0	0	0
 docs	ڈاکس	urdu	dokas	1	0	0	0	0
 docs	ڈاکس	urdu	doks	1	0	0	0	0
-doctor	ڈاکتر	urdu		0	0	0	0	0
+doctor	ڈاکتر	urdu	docter	0	4	0	0	0
 doctorate	ڈاکٹریٹ	urdu		0	0	0	0	0
 document	ڈاکیومنٹ	english	ddaakiyument	1	0	0	0	0
 documentary	ڈاکیومنٹری	urdu	ddaakiyumentaree	1	0	0	0	0
@@ -25959,6 +26014,7 @@ dograh	ڈوگرہ	urdu	dugrah	1	0	0	0	0
 dogri	ڈوگری	urdu		0	0	0	0	0
 dogron	ڈوگروں	urdu	dogroun	1	0	0	0	0
 dogron	ڈوگروں	urdu	dogrun	1	0	0	0	0
+dogs		english		0	0	0	0	0
 doha	دوحہ	urdu	dohah	1	0	0	0	0
 dohaa	دوہا	urdu	doha	1	0	0	0	0
 dohaa	دوہا	urdu	duha	1	0	0	0	0
@@ -26164,8 +26220,8 @@ doosre	دوسرے	urdu	doosr	0	1	0	0	0
 doosre	دوسرے	urdu	doosray	1	4	1	0	0
 doosre	دوسرے	urdu	doosrey	1	0	0	0	0
 doosre	دوسرے	urdu	dosore	0	2	0	0	0
-doosre	دوسرے	urdu	dosray	1	4	4	0	0
-doosre	دوسرے	urdu	dosre	1	16	3	0	0
+doosre	دوسرے	urdu	dosray	1	8	4	0	0
+doosre	دوسرے	urdu	dosre	1	17	2	0	0
 doosre	دوسرے	urdu	dosry	0	6	0	0	0
 doosre	دوسرے	urdu	dusray	1	0	0	0	0
 doosre	دوسرے	urdu	dusre	1	5	3	0	0
@@ -26179,6 +26235,7 @@ doosri	دوسری	urdu	dusre	1	0	0	0	0
 doosri	دوسری	urdu	dusree	1	0	0	0	0
 doosri	دوسری	urdu	dusri	1	19	4	0	0
 doosri	دوسری	urdu	dusry	1	0	0	0	0
+doosron		urdu	dosro	0	4	0	0	0
 doosron		urdu	dosron	0	13	1	0	0
 dopahar	دوپہر	urdu	doaphar	0	13	5	0	0
 dopahar	دوپہر	urdu	dohar	0	25	11	0	0
@@ -26305,7 +26362,7 @@ down	ڈاؤن	english	dawn	1	0	0	0	0
 downing	ڈاؤننگ	urdu	ddaoning	1	0	0	0	0
 downing	ڈاؤننگ	urdu	dovning	1	0	0	0	0
 downing	ڈاؤننگ	urdu	downning	1	0	0	0	0
-download		english		0	0	0	0	0
+download		english	diwnload	0	1	0	0	0
 doyi	ڈوئی	urdu	doi	1	0	0	0	0
 doyi	ڈوئی	urdu	doye	1	0	0	0	0
 doyi	ڈوئی	urdu	duyy	1	0	0	0	0
@@ -26540,7 +26597,7 @@ duni	دونی	urdu	duuni	1	0	0	0	0
 duni	دونی	urdu	duunii	1	0	0	0	0
 dunia		urdu		0	0	0	0	0
 duniya	دنیا	urdu	duneya	1	0	0	0	0
-duniya	دنیا	urdu	dunia	1	30	2	0	0
+duniya	دنیا	urdu	dunia	1	31	1	0	0
 duniya	دنیا	urdu	duniyaa	1	0	0	0	0
 duniya	دنیا	urdu	dunya	1	53	6	0	0
 duniyabhar	دنیابھر	urdu	duniyaabhar	1	0	0	0	0
@@ -26583,6 +26640,7 @@ dupatta	دوپٹہ	urdu	dopata	1	0	0	0	0
 dupatta	دوپٹہ	urdu	dopatah	1	0	0	0	0
 dupatta	دوپٹہ	urdu	dopatta	1	0	0	0	0
 dupatta	دوپٹہ	urdu	dopattah	1	0	0	0	0
+dupatta	دوپٹہ	urdu	dupata	0	4	0	0	0
 dupatta	دوپٹہ	urdu	dupatah	1	0	0	0	0
 dupatta	دوپٹہ	urdu	dupateh	1	0	0	0	0
 dur	دور	urdu	daor	1	0	0	0	0
@@ -26695,10 +26753,12 @@ eagle	ایگل	urdu	eegle	1	0	0	0	0
 earmock	یرموک	urdu	earmok	1	0	0	0	0
 earmock	یرموک	urdu	yarmook	1	0	0	0	0
 earmock	یرموک	urdu	yarmuk	1	0	0	0	0
+earn		english		0	0	0	0	0
 earnest	ارنیسٹ	urdu	arnest	1	0	0	0	0
 earnest	ارنیسٹ	urdu	arnisat	1	0	0	0	0
 earnest	ارنیسٹ	urdu	arnist	1	0	0	0	0
 earning		english		0	0	0	0	0
+easily		english		0	0	0	0	0
 east	ایسٹ	urdu	easte	1	0	0	0	0
 east	ایسٹ	urdu	yeast	1	0	0	0	0
 easter	ایسٹر	urdu	aaster	1	0	0	0	0
@@ -26765,6 +26825,7 @@ edi	ایڑی	urdu	eedi	1	0	0	0	0
 edi	ایڑی	urdu	eri	1	0	0	0	0
 edinburgh	ایڈنبرا	urdu	adenbra	1	0	0	0	0
 edison	ایڈسن	urdu	addison	1	0	0	0	0
+edit		english		0	0	0	0	0
 editaron	ایڈیٹروں	urdu	editaroon	1	0	0	0	0
 editaron	ایڈیٹروں	urdu	editeron	1	0	0	0	0
 editaron	ایڈیٹروں	urdu	editoron	1	0	0	0	0
@@ -26917,7 +26978,7 @@ eju	ایجو	urdu	edu	1	0	0	0	0
 eju	ایجو	urdu	eyju	1	0	0	0	0
 ek	اک	urdu	aaak	0	1	0	0	0
 ek	اک	urdu	ak	1	2	2	0	0
-ek	اک	urdu	eik	0	10	1	0	0
+ek	اک	urdu	eik	0	11	0	0	0
 ek	اک	urdu	ekk	1	5	1	0	0
 ek	اک	urdu	ik	1	2	0	0	0
 eka	یکا	urdu	yaka	1	0	0	0	0
@@ -27266,10 +27327,12 @@ ewas	عوص	urdu	ausa	1	0	0	0	0
 ewas	عوص	urdu	avsa	1	0	0	0	0
 ewas	عوص	urdu	iwas	1	0	0	0	0
 ex		english		0	0	0	0	0
+exact		english		0	0	0	0	0
 exactly		english		0	0	0	0	0
 exam		english		0	0	0	0	0
 excel	ایکسل	urdu		0	0	0	0	0
 excellent		english		0	0	0	0	0
+except		english		0	0	0	0	0
 exchange	ایکسچینج	english	ekschenj	1	0	0	0	0
 exchanges	ایکسچینجز	urdu		0	0	0	0	0
 excited		english		0	0	0	0	0
@@ -27843,6 +27906,7 @@ faltu		urdu		0	0	0	0	0
 fama	فما	urdu	famaa	1	0	0	0	0
 fama	فما	urdu	phamaa	1	0	0	0	0
 faman	فمن	urdu	phaman	1	0	0	0	0
+fame		english		0	0	0	0	0
 families		english		0	0	0	0	0
 familion	فیملیوں	urdu	familiyon	1	0	0	0	0
 familion	فیملیوں	urdu	femlion	1	0	0	0	0
@@ -28121,6 +28185,7 @@ fardah	فردہ	urdu	farda	1	0	0	0	0
 fardah	فردہ	urdu	fardha	1	0	0	0	0
 fardah	فردہ	urdu	frdo	1	0	0	0	0
 fardah	فردہ	urdu	phardah	1	0	0	0	0
+fare		english		0	0	0	0	0
 fareadiya	فریدیہ	urdu	fareedia	1	0	0	0	0
 fareadiya	فریدیہ	urdu	fareediya	1	0	0	0	0
 fareadiya	فریدیہ	urdu	fridio	1	0	0	0	0
@@ -28234,6 +28299,7 @@ farkhi	فرخی	urdu	farrukhi	1	0	0	0	0
 farkhi	فرخی	urdu	farukhi	1	0	0	0	0
 farkhi	فرخی	urdu	frki	1	0	0	0	0
 farma	فرما	urdu	farmaa	1	0	0	0	0
+farma	فرما	urdu	ferma	0	4	0	0	0
 farma	فرما	urdu	firma	1	0	0	0	0
 farma	فرما	urdu	firmma	1	0	0	0	0
 farma	فرما	urdu	firrma	1	0	0	0	0
@@ -28628,6 +28694,7 @@ fatemath	فاطمۃ	urdu	fatmata	1	0	0	0	0
 fatemath	فاطمۃ	urdu	fteemtah	1	0	0	0	0
 fates	فیٹس	urdu	feats	1	0	0	0	0
 fates	فیٹس	urdu	feets	1	0	0	0	0
+father		english		0	0	0	0	0
 fatih		urdu		0	0	0	0	0
 fatiha	فاتحہ	urdu	faathaa	1	0	0	0	0
 fatiha	فاتحہ	urdu	faatiha	1	1	0	0	0
@@ -29237,6 +29304,7 @@ fithratan	فطرتا	urdu	fvrtan	1	0	0	0	0
 fitna	فتنہ	urdu	fatna	1	0	0	0	0
 fitna	فتنہ	urdu	fitnah	1	0	0	0	0
 fitna	فتنہ	urdu	phatna	1	0	0	0	0
+fitness		english		0	0	0	0	0
 fitnon	فتنوں	urdu	fatnaun	1	0	0	0	0
 fitnon	فتنوں	urdu	phatnaun	1	0	0	0	0
 fitrat	فطرت	urdu	fatrat	1	0	0	0	0
@@ -29704,7 +29772,7 @@ gaamzan	گامزن	urdu		0	0	0	0	0
 gaan	غان	urdu	gan	1	0	0	0	0
 gaan	غان	urdu	ghaan	1	0	0	0	0
 gaan	غان	urdu	ghan	1	0	0	0	0
-gaana	گانہ	urdu	gana	1	84	10	0	0
+gaana	گانہ	urdu	gana	1	83	11	0	0
 gaana	گانہ	urdu	ganah	1	0	0	0	0
 gaana	گانہ	urdu	ganuh	1	0	0	0	0
 gaanchey	گانچھے	urdu	gaanchhe	1	0	0	0	0
@@ -30176,7 +30244,7 @@ galan	گلاں	urdu	galaan	1	0	0	0	0
 galan	گلاں	urdu	gulan	1	0	0	0	0
 galat	غلط	urdu	galt	1	0	0	0	0
 galat	غلط	urdu	galut	1	0	0	0	0
-galat	غلط	urdu	ghalat	1	2	1	0	0
+galat	غلط	urdu	ghalat	1	6	1	0	0
 galat	غلط	urdu	ghalt	1	0	0	0	0
 galat	غلط	urdu	ghalut	1	0	0	0	0
 galat	غلط	urdu	ghlt	0	9	0	0	0
@@ -30823,13 +30891,14 @@ gayer	غائر	urdu	ghayar	1	0	0	0	0
 gayer	غائر	urdu	ghayer	1	0	0	0	0
 gayi	گئی	urdu	gae	1	4	1	0	0
 gayi	گئی	urdu	gaeey	1	0	0	0	0
-gayi	گئی	urdu	gai	1	578	158	0	0
+gayi	گئی	urdu	gai	1	580	156	0	0
 gayi	گئی	urdu	gaiii	0	2	0	0	0
 gayi	گئی	urdu	gaiy	1	12	6	0	0
 gayi	گئی	urdu	gay	0	12	6	0	0
 gayi	گئی	urdu	gaye	1	0	0	0	0
 gayi	گئی	urdu	gayee	1	4	0	0	0
 gayi	گئی	urdu	gayyi	0	20	9	0	0
+gayi	گئی	urdu	gie	0	4	0	0	0
 gayi	گئی	urdu	gyi	1	320	157	0	0
 gayin	گئیں	urdu	gaayein	1	0	0	0	0
 gayin	گئیں	urdu	gaein	1	11	0	0	0
@@ -31321,7 +31390,7 @@ ghanton	گھنٹوں	urdu	gahnatoon	1	0	0	0	0
 ghanwi	غنوی	urdu	ghanvi	1	0	0	0	0
 ghanwi	غنوی	urdu	ghanwa	1	0	0	0	0
 ghao	گھاؤ	urdu	ghau	1	0	0	0	0
-ghar	گھر	urdu	gahr	0	18	21	0	0
+ghar	گھر	urdu	gahr	0	22	21	0	0
 ghar	گھر	urdu	gar	0	14	7	0	0
 ghar	گھر	urdu	gha	0	14	11	0	0
 ghar	گھر	urdu	gharr	0	23	10	0	0
@@ -31472,8 +31541,9 @@ ghaz	غز	urdu	ghez	1	0	0	0	0
 ghaza	غزا	urdu	gaza	1	0	0	0	0
 ghaza	غزا	urdu	ghaja	1	0	0	0	0
 ghazaal	غزال	urdu		0	0	0	0	0
-ghazab	غضب	urdu	gajab	1	13	3	0	0
+ghazab	غضب	urdu	gajab	1	14	2	0	0
 ghazab	غضب	urdu	gazab	1	0	0	0	0
+ghazab	غضب	urdu	gjb	0	4	0	0	0
 ghazabnaak	غضبناک	urdu		0	0	0	0	0
 ghazah	غزہ	urdu	gajah	1	0	0	0	0
 ghazah	غزہ	urdu	gaza	1	0	0	0	0
@@ -31615,7 +31685,7 @@ ghoomta	گھومتا	urdu	gahumta	1	0	0	0	0
 ghoomta	گھومتا	urdu	ghumata	1	0	0	0	0
 ghoomti	گھومتی	urdu	gahumtee	1	0	0	0	0
 ghoomti	گھومتی	urdu	gahumti	1	0	0	0	0
-ghoomti	گھومتی	urdu	ghomti	1	0	0	0	0
+ghoomti	گھومتی	urdu	ghomti	1	4	0	0	0
 ghoomti	گھومتی	urdu	ghumati	1	0	0	0	0
 ghoomti	گھومتی	urdu	ghumaty	1	0	0	0	0
 ghoomti	گھومتی	urdu	ghumti	1	0	0	0	0
@@ -31639,6 +31709,7 @@ ghotaalah	گھوٹالہ	urdu	ghotalh	1	0	0	0	0
 ghotaki	گھوٹکی	urdu	ghotkee	1	0	0	0	0
 ghotaki	گھوٹکی	urdu	gohtaki	1	0	0	0	0
 ghotaki	گھوٹکی	urdu	gohtaqee	1	0	0	0	0
+ghour		urdu	gour	0	4	0	0	0
 ghubar	غبار	urdu	gabar	1	0	0	0	0
 ghubar	غبار	urdu	ghabar	1	0	0	0	0
 ghubar	غبار	urdu	ghubaar	1	0	0	0	0
@@ -32042,6 +32113,7 @@ golian	گولیاں	urdu	golyan	1	0	0	0	0
 goliun	گولیوں	urdu	goliyo	1	0	0	0	0
 goliun	گولیوں	urdu	goliyon	1	0	0	0	0
 goliun	گولیوں	urdu	golyun	1	0	0	0	0
+goliyan		urdu		0	0	0	0	0
 golkonda	گولکنڈا	urdu	golconda	1	0	0	0	0
 golkonda	گولکنڈا	urdu	gulkandaa	1	0	0	0	0
 gomad	گومڑ	urdu	gomar	1	0	0	0	0
@@ -32062,7 +32134,7 @@ gong	گونگ	urdu	gunag	1	0	0	0	0
 goo	گوو	urdu	go	1	0	0	0	0
 goo	گوو	urdu	gou	1	0	0	0	0
 goo	گوو	urdu	gow	1	0	0	0	0
-good		english		0	0	0	0	0
+good		english	gud	0	4	0	0	0
 google	گوگل	urdu	gugal	1	0	0	0	0
 googly	گوگلی	urdu	googley	1	0	0	0	0
 googly	گوگلی	urdu	googli	1	0	0	0	0
@@ -32253,6 +32325,7 @@ greater	گریٹر	urdu	greature	1	0	0	0	0
 greater	گریٹر	urdu	greeter	1	0	0	0	0
 greater	گریٹر	urdu	greetur	1	0	0	0	0
 greater	گریٹر	urdu	greter	1	0	0	0	0
+greatest		english		0	0	0	0	0
 greece	گریس	urdu	grace	1	0	0	0	0
 greece	گریس	urdu	graece	1	0	0	0	0
 greece	گریس	urdu	graice	1	0	0	0	0
@@ -32460,6 +32533,7 @@ gunahon	گناہوں	urdu	ganahon	1	0	0	0	0
 gunahon	گناہوں	urdu	gunaahon	1	0	0	0	0
 gunahon	گناہوں	urdu	gunaahoon	1	0	0	0	0
 gunahon	گناہوں	urdu	gunaho	1	0	0	0	0
+gunda		urdu	ghunda	0	4	0	0	0
 gung	گنگ	urdu	gang	1	0	0	0	0
 gung	گنگ	urdu	king	1	0	0	0	0
 gungunane	گنگنانے	urdu	goongunaney	1	0	0	0	0
@@ -32584,6 +32658,7 @@ guttar	گٹر	urdu	gatar	1	0	0	0	0
 guttar	گٹر	urdu	guter	1	0	0	0	0
 guttar	گٹر	urdu	gutter	1	0	0	0	0
 guwahati	گوہاٹی	urdu		0	0	0	0	0
+guy		english		0	0	0	0	0
 guys		english		0	0	0	0	0
 guzaar	گزار	urdu	gujar	1	0	0	0	0
 guzaar	گزار	urdu	guzar	1	3	0	0	0
@@ -32750,6 +32825,9 @@ haafiza	حافظا	urdu	hafiza	1	0	0	0	0
 haafiza	حافظا	urdu	hafza	1	0	0	0	0
 haafiza	حافظا	urdu	hafzaa	1	0	0	0	0
 haahah		urdu		0	0	0	0	0
+haai	ھائی	urdu	haie	1	0	0	0	0
+haai	ھائی	urdu	hayi	1	0	0	0	0
+haai	ھائی	urdu	hi	1	0	0	0	0
 haail	حائل	urdu	haael	1	0	0	0	0
 haail	حائل	urdu	haayel	1	1	0	0	0
 haail	حائل	urdu	haayil	1	0	0	0	0
@@ -33292,7 +33370,7 @@ hai	ہے	urdu	haiiii	0	1	1	0	0
 hai	ہے	urdu	hay	1	61	8	0	0
 hai	ہے	urdu	hayyy	0	5	0	0	0
 hai	ہے	urdu	hayyyyyy	0	1	0	0	0
-hai	ہے	urdu	he	1	1982	972	0	0
+hai	ہے	urdu	he	1	1985	973	0	0
 hai	ہے	urdu	hea	0	12	0	0	0
 hai	ہے	urdu	hei	0	23	0	0	0
 hai	ہے	urdu	hhh	0	3	0	0	0
@@ -33347,21 +33425,22 @@ haim	ہیم	urdu	hayem	1	0	0	0	0
 haim	ہیم	urdu	hayme	1	0	0	0	0
 hain	ہیں	urdu	haen	1	0	0	0	0
 hain	ہیں	urdu	hai	0	16	17	0	0
+hain	ہیں	urdu	haiin	0	4	0	0	0
 hain	ہیں	urdu	haina	1	0	0	0	0
 hain	ہیں	urdu	haini	1	0	0	0	0
 hain	ہیں	urdu	hainn	0	53	24	0	0
 hain	ہیں	urdu	hainnnnn	0	1	0	0	0
-hain	ہیں	urdu	han	0	1490	103	0	0
+hain	ہیں	urdu	han	0	1492	101	0	0
 hain	ہیں	urdu	hani	0	16	16	0	0
 hain	ہیں	urdu	hayn	0	5	0	0	0
 hain	ہیں	urdu	heen	1	0	0	0	0
 hain	ہیں	urdu	hei	0	17	20	0	0
 hain	ہیں	urdu	hein	1	368	211	0	0
 hain	ہیں	urdu	heinn	0	63	51	0	0
-hain	ہیں	urdu	hen	1	322	75	0	0
+hain	ہیں	urdu	hen	1	323	74	0	0
 hain	ہیں	urdu	heni	0	30	22	0	0
 hain	ہیں	urdu	hian	1	30	14	0	0
-hain	ہیں	urdu	hien	1	28	21	0	0
+hain	ہیں	urdu	hien	1	32	21	0	0
 hain	ہیں	urdu	hin	1	87	65	0	0
 hain	ہیں	urdu	hn	1	657	434	0	0
 hain	ہیں	urdu	hnnn	0	1	0	0	0
@@ -33524,6 +33603,7 @@ haji	حاجی	urdu	haajii	1	0	0	0	0
 haji	حاجی	urdu	hadji	1	0	0	0	0
 haji	حاجی	urdu	hajee	1	0	0	0	0
 haji	حاجی	urdu	hajii	1	0	0	0	0
+haji	حاجی	urdu	hajji	0	4	0	0	0
 hajiyon	حاجیوں	urdu	haajiiyon	1	0	0	0	0
 hajiyon	حاجیوں	urdu	haajiyon	1	0	0	0	0
 hajiyon	حاجیوں	urdu	hajiiyon	1	0	0	0	0
@@ -33905,6 +33985,7 @@ haman	ہماں	urdu	hamaan	1	0	0	0	0
 hamara		urdu		0	0	0	0	0
 hamare		urdu	hamaray	0	47	2	0	0
 hamare		urdu	hamary	0	1	0	0	0
+hamare		urdu	hamry	0	2	0	0	0
 hamare		urdu	hmary	0	21	0	0	0
 hamare		urdu	hmry	0	4	0	0	0
 hamare		urdu	humare	0	1	0	0	0
@@ -34000,6 +34081,7 @@ hamein	ہمیں	urdu	hamey	1	0	0	0	0
 hamein	ہمیں	urdu	hamin	1	0	0	0	0
 hamein	ہمیں	urdu	hamy	0	6	2	0	0
 hamein	ہمیں	urdu	hmain	0	10	1	0	0
+hamein	ہمیں	urdu	hme	0	4	0	0	0
 hamein	ہمیں	urdu	hmen	1	5	1	0	0
 hamein	ہمیں	urdu	hmy	0	9	0	0	0
 hamein	ہمیں	urdu	hmyyy	0	1	0	0	0
@@ -35394,9 +35476,9 @@ hazrah	حاضرہ	urdu	hazirah	1	0	0	0	0
 hazrah	حاضرہ	urdu	hazra	1	0	0	0	0
 hazrat	حضرت	urdu	hajarat	1	0	0	0	0
 hazrat	حضرت	urdu	hajrat	1	0	0	0	0
-hazrat	حضرت	urdu	hazarat	1	0	0	0	0
+hazrat	حضرت	urdu	hazarat	1	4	0	0	0
 hazrat	حضرت	urdu	hazarath	1	0	0	0	0
-hazrat	حضرت	urdu	hazart	1	1	0	0	0
+hazrat	حضرت	urdu	hazart	1	5	0	0	0
 hazrat	حضرت	urdu	hazartee	1	0	0	0	0
 hazrat	حضرت	urdu	hazarti	1	0	0	0	0
 hazrat	حضرت	urdu	hazrati	1	0	0	0	0
@@ -35437,10 +35519,13 @@ heals	ہیلس	urdu	heels	1	0	0	0	0
 heals	ہیلس	urdu	hills	1	0	0	0	0
 health	ہیلتھ	urdu	hellth	1	0	0	0	0
 health	ہیلتھ	urdu	helth	1	0	0	0	0
+healthy		english		0	0	0	0	0
+heard		english		0	0	0	0	0
 heart	ہارٹ	english	hart	1	0	0	0	0
 heart	ہارٹ	english	hurt	1	0	0	0	0
 heartbreaking		english		0	0	0	0	0
 hearts		english		0	0	0	0	0
+heat		english		0	0	0	0	0
 heater	ہیٹر	urdu	hater	1	0	0	0	0
 heater	ہیٹر	urdu	heeter	1	0	0	0	0
 heater	ہیٹر	urdu	heter	1	0	0	0	0
@@ -35573,7 +35658,7 @@ hey	حے	english	hy	1	0	0	0	0
 heyaataati	حیاتیاتی	urdu	hiyaatiyaati	1	1	0	0	0
 hhahhahahahhaha		urdu		0	0	0	0	0
 hhhhhaaa		urdu		0	0	0	0	0
-hi	ہی	urdu	he	1	565	35	0	0
+hi	ہی	urdu	he	1	562	34	0	0
 hi	ہی	urdu	hee	1	2	3	0	0
 hi	ہی	urdu	hii	0	14	0	0	0
 hiba	ہبہ	urdu	haba	1	0	0	0	0
@@ -35996,6 +36081,7 @@ home	ہوم	urdu	hom	1	0	0	0	0
 home	ہوم	urdu	homm	1	0	0	0	0
 home	ہوم	urdu	hoom	1	0	0	0	0
 home	ہوم	urdu	whom	1	0	0	0	0
+homeo	ہومیو	urdu		0	0	0	0	0
 homeopathic	ہومیوپیتھک	urdu		0	0	0	0	0
 homer	ہومر	urdu	hammer	1	0	0	0	0
 homer	ہومر	urdu	homar	1	0	0	0	0
@@ -36049,7 +36135,7 @@ hoon	ہوں	urdu	hono	0	81	70	0	0
 hoon	ہوں	urdu	hoo	0	75	22	0	0
 hoon	ہوں	urdu	hoonn	0	82	46	0	0
 hoon	ہوں	urdu	hu	1	931	643	0	0
-hoon	ہوں	urdu	hun	1	1396	722	0	0
+hoon	ہوں	urdu	hun	1	1398	720	0	0
 hoon	ہوں	urdu	huuun	0	1	0	0	0
 hoon	ہوں	urdu	hyn	1	0	0	0	0
 hoor	ہور	urdu	hor	1	0	0	0	0
@@ -36204,6 +36290,7 @@ hua	ہوا	urdu	hava	1	0	0	0	0
 hua	ہوا	urdu	hawa	1	2	1	0	0
 hua	ہوا	urdu	hawaa	1	0	0	0	0
 hua	ہوا	urdu	hoa	1	6	0	0	0
+hua	ہوا	urdu	howa	0	4	0	0	0
 hua	ہوا	urdu	hu	0	3	5	0	0
 hua	ہوا	urdu	huaa	1	0	0	0	0
 hua	ہوا	urdu	huva	1	0	0	0	0
@@ -37031,7 +37118,7 @@ imdad		urdu		0	0	0	0	0
 imf		urdu		0	0	0	0	0
 imkaan	امکان	urdu	amkaan	1	0	0	0	0
 imkaan	امکان	urdu	amkan	1	0	0	0	0
-imkaan	امکان	urdu	imkan	1	0	0	0	0
+imkaan	امکان	urdu	imkan	1	4	0	0	0
 imkanat	امکانات	urdu	amkanat	1	0	0	0	0
 imkanat	امکانات	urdu	imkanaath	1	0	0	0	0
 imkanat	امکانات	urdu	imkanath	1	0	0	0	0
@@ -37116,6 +37203,7 @@ inch	انچ	urdu	anch	1	0	0	0	0
 inch	انچ	urdu	incch	1	0	0	0	0
 inch	انچ	urdu	innch	1	0	0	0	0
 income	انکم	urdu	inkam	1	0	0	0	0
+increase		english		0	0	0	0	0
 indah	عندہ	urdu	anda	1	0	0	0	0
 indah	عندہ	urdu	andah	1	0	0	0	0
 indah	عندہ	urdu	endah	1	0	0	0	0
@@ -37308,7 +37396,7 @@ insaaf	انصاف	urdu	insaaaf	0	1	0	0	0
 insaan	انسان	urdu	ansaan	1	0	0	0	0
 insaan	انسان	urdu	ansan	1	0	0	0	0
 insaan	انسان	urdu	ensaan	1	7	0	0	0
-insaan	انسان	urdu	ensan	1	0	0	0	0
+insaan	انسان	urdu	ensan	1	4	0	0	0
 insaan	انسان	urdu	insaaan	0	1	0	0	0
 insaan	انسان	urdu	insan	1	14	4	0	0
 insaani	انسانی	urdu	ansaani	1	0	0	0	0
@@ -37335,7 +37423,7 @@ insha	انشاء	urdu	inshaa	1	0	0	0	0
 insha	انشاء	urdu	inshah	1	0	0	0	0
 inshaan	انشان	urdu	anshan	1	0	0	0	0
 inshaan	انشان	urdu	inshan	1	0	0	0	0
-inshallah	ان شاء اللہ	urdu	insallah	0	108	10	0	0
+inshallah	ان شاء اللہ	urdu	insallah	0	109	9	0	0
 inshallah	ان شاء اللہ	urdu	insha'allah	0	7	2	0	0
 inshallah	ان شاء اللہ	urdu	inshaaallah	0	2	0	0	0
 inshallah	ان شاء اللہ	urdu	inshaalah	1	0	0	0	0
@@ -38138,9 +38226,9 @@ itne	اتنے	urdu	itany	1	0	0	0	0
 itne	اتنے	urdu	itnaaaaaaaayyyyy	0	1	0	0	0
 itne	اتنے	urdu	itnay	1	0	0	0	0
 itne	اتنے	urdu	itneeee	0	1	0	0	0
-itne	اتنے	urdu	itny	0	43	1	0	0
-itni	اتنی	urdu	atni	1	0	0	0	0
-itni	اتنی	urdu	etni	1	0	0	0	0
+itne	اتنے	urdu	itny	0	42	2	0	0
+itni	اتنی	urdu	atni	1	4	0	0	0
+itni	اتنی	urdu	etni	1	4	0	0	0
 itni	اتنی	urdu	inti	0	1	0	0	0
 itni	اتنی	urdu	itanee	1	0	0	0	0
 itni	اتنی	urdu	itani	1	0	0	0	0
@@ -38351,7 +38439,7 @@ jaame	جامع	urdu	jamau	1	0	0	0	0
 jaame	جامع	urdu	jame	1	1	0	0	0
 jaame	جامع	urdu	jamua	1	0	0	0	0
 jaan	جان	urdu	jaani	1	0	0	0	0
-jaan	جان	urdu	jan	1	166	11	0	0
+jaan	جان	urdu	jan	1	165	12	0	0
 jaan	جان	urdu	jani	1	0	0	0	0
 jaan	جان	urdu	john	1	1	1	0	0
 jaan	جان	urdu	jon	1	0	0	0	0
@@ -38706,8 +38794,8 @@ jagaalee	جگالی	urdu	jagali	1	0	0	0	0
 jagaalee	جگالی	urdu	jugali	1	0	0	0	0
 jagaayaa	جگایا	urdu	jagaia	1	0	0	0	0
 jagaayaa	جگایا	urdu	jagaya	1	0	0	0	0
-jagah	جگہ	urdu	jaga	1	63	2	0	0
-jagah	جگہ	urdu	jagha	1	19	2	0	0
+jagah	جگہ	urdu	jaga	1	64	1	0	0
+jagah	جگہ	urdu	jagha	1	20	1	0	0
 jagah	جگہ	urdu	jaghen	1	1	0	0	0
 jagahain	جگہیں	urdu	jaghain	1	0	0	0	0
 jagahain	جگہیں	urdu	jaghen	1	0	0	0	0
@@ -40578,6 +40666,7 @@ jhoonk	جونک	urdu	jonk	1	0	0	0	0
 jhoonk	جونک	urdu	junk	1	0	0	0	0
 jhoot	جھوٹ	urdu	jhooth	0	6	0	0	0
 jhoot	جھوٹ	urdu	jhut	1	0	0	0	0
+jhoot	جھوٹ	urdu	jooth	0	4	0	0	0
 jhoota	جھوٹا	urdu	jhoooota	0	1	0	0	0
 jhoota	جھوٹا	urdu	jhota	1	35	3	0	0
 jhoota	جھوٹا	urdu	jhuta	1	0	0	0	0
@@ -40988,7 +41077,7 @@ joote		urdu	jotay	0	30	17	0	0
 joote		urdu	jotayy	0	3	0	0	0
 joote		urdu	jote	0	6	0	0	0
 joote		urdu	jottay	0	5	2	0	0
-joote		urdu	joty	0	3	2	0	0
+joote		urdu	joty	0	7	2	0	0
 joote		urdu	jotya	0	2	0	0	0
 joote		urdu	jtay	0	1	3	0	0
 joote		urdu	jtoay	0	5	1	0	0
@@ -41134,7 +41223,7 @@ julius	جولیس	urdu	julias	1	0	0	0	0
 julius	جولیس	urdu	julis	1	0	0	0	0
 julius	جولیس	urdu	juliyas	1	0	0	0	0
 jullandhuri		name		0	0	0	0	0
-juloos	جلوس	urdu	jaloos	1	0	0	0	0
+juloos	جلوس	urdu	jaloos	1	4	0	0	0
 juloos	جلوس	urdu	julus	1	0	0	0	0
 july	جولائی	urdu	juli	1	0	0	0	0
 july	جولائی	urdu	jully	1	0	0	0	0
@@ -41415,6 +41504,7 @@ kaarwaiyon	کارروائیوں	urdu	karwaiyon	1	0	0	0	0
 kaasaboot	کاثبوت	urdu	kasabut	1	0	0	0	0
 kaasaboot	کاثبوت	urdu	kasboot	1	0	0	0	0
 kaasaboot	کاثبوت	urdu	kasbut	1	0	0	0	0
+kaash	کاش	urdu	kaas	0	3	1	0	0
 kaash	کاش	urdu	kash	1	52	6	0	0
 kaash	کاش	urdu	qaash	1	0	0	0	0
 kaashi	کاشی	urdu	kashee	1	0	0	0	0
@@ -41595,6 +41685,7 @@ kachochah	کچھوچھہ	urdu	kachucha	1	0	0	0	0
 kachochah	کچھوچھہ	urdu	kachuchah	1	0	0	0	0
 kachra	کچرا	urdu	kachara	1	0	0	0	0
 kachra	کچرا	urdu	kacharaa	1	0	0	0	0
+kachre		urdu	kachray	0	4	0	0	0
 kachuyan	کاپیاں	urdu	kaphyaan	1	0	0	0	0
 kachuyan	کاپیاں	urdu	kaphyan	1	0	0	0	0
 kachuyan	کاپیاں	urdu	kapian	1	0	0	0	0
@@ -42170,7 +42261,7 @@ kaise	کیسے	urdu	kesayy	0	1	0	0	0
 kaise	کیسے	urdu	kese	1	13	23	0	0
 kaise	کیسے	urdu	kesey	1	0	0	0	0
 kaise	کیسے	urdu	kessay	0	2	1	0	0
-kaise	کیسے	urdu	kesy	0	37	3	0	0
+kaise	کیسے	urdu	kesy	0	36	4	0	0
 kaise	کیسے	urdu	kesya	0	3	2	0	0
 kaise	کیسے	urdu	kise	0	12	6	0	0
 kaise	کیسے	urdu	kisey	1	0	0	0	0
@@ -42800,7 +42891,7 @@ kaptani	کپتانی	urdu	cuptaani	1	0	0	0	0
 kaptani	کپتانی	urdu	kaptaani	1	0	0	0	0
 kaptin	کپٹین	urdu	captain	1	0	0	0	0
 kar	کر	urdu	kara	0	1	0	0	0
-kar	کر	urdu	ker	1	133	5	0	0
+kar	کر	urdu	ker	1	134	4	0	0
 kar	کر	urdu	kir	1	0	0	0	0
 kar	کر	urdu	kr	1	1341	910	0	0
 kar	کر	urdu	kra	0	1	0	0	0
@@ -42990,8 +43081,9 @@ kare	کرے	urdu	karey	1	0	0	0	0
 kare	کرے	urdu	karre	1	2	0	0	0
 kare	کرے	urdu	keray	0	6	0	0	0
 kare	کرے	urdu	kere	1	4	0	0	0
+kare	کرے	urdu	kery	0	3	1	0	0
 kare	کرے	urdu	kre	0	76	2	0	0
-kare	کرے	urdu	kry	0	188	15	0	0
+kare	کرے	urdu	kry	0	189	14	0	0
 kare	کرے	urdu	kryyy	0	2	0	0	0
 kare	کرے	urdu	kryyyy	0	3	0	0	0
 kareem	کریم	urdu	cream	1	0	0	0	0
@@ -43027,7 +43119,7 @@ karein	کریں	urdu	karain	1	3	0	0	0
 karein	کریں	urdu	kareen	1	0	0	0	0
 karein	کریں	urdu	karei	1	1	0	0	0
 karein	کریں	urdu	kareiyn	1	0	0	0	0
-karein	کریں	urdu	karen	1	78	7	0	0
+karein	کریں	urdu	karen	1	79	6	0	0
 karein	کریں	urdu	karien	0	1	0	0	0
 karein	کریں	urdu	karin	0	2	0	0	0
 karein	کریں	urdu	krain	0	11	0	0	0
@@ -43212,7 +43304,7 @@ karne	کرنے	urdu	kren	0	8	7	0	0
 karne	کرنے	urdu	krn	0	40	11	0	0
 karne	کرنے	urdu	krne	0	228	61	0	0
 karne	کرنے	urdu	krnne	0	20	1	0	0
-karne	کرنے	urdu	krny	0	79	1	0	0
+karne	کرنے	urdu	krny	0	80	0	0	0
 karne	کرنے	urdu	krrne	0	19	4	0	0
 karnein	کرنیں	urdu	karnin	1	0	0	0	0
 karnein	کرنیں	urdu	kirnain	1	0	0	0	0
@@ -43234,7 +43326,7 @@ karo	کرو	urdu	karu	1	0	0	0	0
 karo	کرو	urdu	karv	1	0	0	0	0
 karo	کرو	urdu	kero	0	8	0	0	0
 karo	کرو	urdu	krao	0	2	1	0	0
-karo	کرو	urdu	kro	1	104	132	0	0
+karo	کرو	urdu	kro	1	103	133	0	0
 karo	کرو	urdu	kroo	0	7	0	0	0
 karobar		urdu		0	0	0	0	0
 karobari	کاروباری	urdu		0	0	0	0	0
@@ -43322,6 +43414,7 @@ karte	کرتے	urdu	kartai	1	0	0	0	0
 karte	کرتے	urdu	kartay	1	161	4	0	0
 karte	کرتے	urdu	kartey	1	0	0	0	0
 karte	کرتے	urdu	kerte	0	7	0	0	0
+karte	کرتے	urdu	kerty	0	4	0	0	0
 karte	کرتے	urdu	krate	0	1	1	0	0
 karte	کرتے	urdu	kre	0	1	6	0	0
 karte	کرتے	urdu	krrte	0	1	6	0	0
@@ -43354,10 +43447,12 @@ karun	کروں	urdu	karoon	1	0	0	0	0
 karun	کروں	urdu	karu	1	0	0	0	0
 karunga		urdu	karnga	0	1	1	0	0
 karunga		urdu	karnuga	0	1	0	0	0
+karunga		urdu	karonga	0	4	1	0	0
 karunga		urdu	karrunga	0	3	0	0	0
 karunga		urdu	karungga	0	1	0	0	0
 karunga		urdu	kaurnga	0	1	0	0	0
 karunga		urdu	krunga	0	1	0	0	0
+karungi		urdu	karongi	0	3	0	0	0
 karwa	کروا	urdu	karva	1	0	0	0	0
 karwa	کروا	urdu	karvaa	1	0	0	0	0
 karwa	کروا	urdu	karwaa	1	0	0	0	0
@@ -43371,6 +43466,7 @@ karwadiya	کروادیا	urdu	karvadiya	1	0	0	0	0
 karwaei	کروائیں	urdu	karwayein	1	0	0	0	0
 karwaei	کروائیں	urdu	karwayen	1	0	0	0	0
 karwaei	کروائیں	urdu	karwayin	1	0	0	0	0
+karwaein		urdu	karwain	0	4	0	0	0
 karwai	کارروائی	urdu	kaarrawai	1	1	0	0	0
 karwai	کارروائی	urdu	kaarrawayi	1	0	0	0	0
 karwai	کارروائی	urdu	karawayi	1	0	0	0	0
@@ -43792,7 +43888,7 @@ kaukabi	کوکبی	urdu	kokabee	1	0	0	0	0
 kaukabi	کوکبی	urdu	kokabi	1	0	0	0	0
 kaukabi	کوکبی	urdu	kokbee	1	0	0	0	0
 kaun	کون	urdu	kn	0	2	1	0	0
-kaun	کون	urdu	kon	1	326	29	0	0
+kaun	کون	urdu	kon	1	327	28	0	0
 kaun	کون	urdu	koun	1	0	0	0	0
 kauncheen	کونچیں	urdu	kaunchen	1	0	0	0	0
 kauncheen	کونچیں	urdu	konchain	1	0	0	0	0
@@ -43895,7 +43991,7 @@ kazmi	کاظمی	urdu	kazimi	1	0	0	0	0
 kazmi	کاظمی	urdu	kazimy	1	0	0	0	0
 kazmi	کاظمی	urdu	kazmy	1	0	0	0	0
 kazmi	کاظمی	urdu	qazami	1	0	0	0	0
-ke	کے	urdu	k	1	51	20	0	0
+ke	کے	urdu	k	1	52	19	0	0
 ke	کے	urdu	ka	1	1	2	0	0
 ke	کے	urdu	kae	1	23	2	0	0
 ke	کے	urdu	kaeee	0	1	0	0	0
@@ -43908,7 +44004,7 @@ ke	کے	urdu	khey	1	0	0	0	0
 ke	کے	urdu	ki	1	86	39	0	0
 ke	کے	urdu	kih	1	0	0	0	0
 ke	کے	urdu	kiya	1	0	0	0	0
-ke	کے	urdu	ky	1	3008	126	0	0
+ke	کے	urdu	ky	1	3006	128	0	0
 ke	کے	urdu	qah	1	0	0	0	0
 kebab		urdu	kbab	0	27	15	0	0
 kebab		urdu	kbeab	0	9	8	0	0
@@ -44048,6 +44144,7 @@ kehte	کہتے	urdu	kehtay	1	0	0	0	0
 kehte	کہتے	urdu	kehty	0	26	0	0	0
 kehte	کہتے	urdu	khatay	1	0	0	0	0
 kehte	کہتے	urdu	khate	1	0	0	0	0
+kehte	کہتے	urdu	khti	0	4	0	0	0
 kehte	کہتے	urdu	khty	0	6	0	0	0
 kehte	کہتے	urdu	kihathey	1	0	0	0	0
 kehtey	کھتے	urdu	khatay	1	0	0	0	0
@@ -45857,6 +45954,7 @@ khauf	خوف	urdu	khouf	1	9	1	0	0
 khauf	خوف	urdu	khouff	1	0	0	0	0
 khauf	خوف	urdu	khowff	1	0	0	0	0
 khauf	خوف	urdu	khuf	1	0	0	0	0
+khaufnak		urdu	khofnak	0	4	0	0	0
 khaufzada	خوفزدہ	urdu	khaufzadah	1	1	0	0	0
 khaufzada	خوفزدہ	urdu	khofzada	1	0	0	0	0
 khaufzada	خوفزدہ	urdu	khoofazdah	1	0	0	0	0
@@ -47268,7 +47366,7 @@ kisi	کسی	urdu	cusi	1	0	0	0	0
 kisi	کسی	urdu	kasi	1	0	0	0	0
 kisi	کسی	urdu	kiis	0	3	5	0	0
 kisi	کسی	urdu	kis	1	8	3	0	0
-kisi	کسی	urdu	kise	0	406	13	0	0
+kisi	کسی	urdu	kise	0	404	15	0	0
 kisi	کسی	urdu	kisee	1	0	0	0	0
 kisi	کسی	urdu	kissi	1	15	6	0	0
 kisi	کسی	urdu	kisy	1	12	0	0	0
@@ -47350,7 +47448,7 @@ kitna	کتنا	urdu	ktna	1	36	32	0	0
 kitna	کتنا	urdu	ktnna	0	3	3	0	0
 kitne	کتنے	urdu	katnay	1	0	0	0	0
 kitne	کتنے	urdu	ketne	1	0	0	0	0
-kitne	کتنے	urdu	kitnay	1	32	3	0	0
+kitne	کتنے	urdu	kitnay	1	31	4	0	0
 kitne	کتنے	urdu	kitney	1	0	0	0	0
 kitne	کتنے	urdu	kitnne	0	1	0	0	0
 kitne	کتنے	urdu	kne	0	2	1	0	0
@@ -47359,6 +47457,7 @@ kitne	کتنے	urdu	ktine	0	3	0	0	0
 kitne	کتنے	urdu	ktne	0	22	5	0	0
 kitne	کتنے	urdu	ktnne	0	1	0	0	0
 kitni	کتنی	urdu	katni	1	0	0	0	0
+kitni	کتنی	urdu	kitani	0	4	0	0	0
 kitni	کتنی	urdu	kitnee	1	0	0	0	0
 kitni	کتنی	urdu	kitny	1	0	0	0	0
 kits	کیٹز	urdu	cats	1	0	0	0	0
@@ -47480,7 +47579,7 @@ kohello	کوہلو	urdu	kohloo	1	0	0	0	0
 kohello	کوہلو	urdu	kohlu	1	0	0	0	0
 kohli		name		0	0	0	0	0
 kohsar	کوہسار	urdu		0	0	0	0	0
-koi	کوئی	urdu	koe	1	796	45	0	0
+koi	کوئی	urdu	koe	1	794	47	0	0
 koi	کوئی	urdu	koee	1	0	0	0	0
 koi	کوئی	urdu	koii	0	7	0	0	0
 koi	کوئی	urdu	koye	0	5	1	0	0
@@ -47660,6 +47759,7 @@ koyeh	کویہ	urdu	kweah	1	0	0	0	0
 koyeh	کویہ	urdu	kwiah	1	0	0	0	0
 koyem	کوایم	urdu		0	0	0	0	0
 kpk		urdu		0	0	0	0	0
+kripaa		urdu	kripya	0	4	0	0	0
 kris	کریس	urdu	chris	1	0	0	0	0
 kris	کریس	urdu	kres	1	0	0	0	0
 krishan	کرشن	urdu	krishen	1	0	0	0	0
@@ -47839,11 +47939,13 @@ kutte	کتے	urdu	kate	1	0	0	0	0
 kutte	کتے	urdu	katte	1	0	0	0	0
 kutte	کتے	urdu	koty	0	3	1	0	0
 kutte	کتے	urdu	kute	1	48	2	0	0
-kutte	کتے	urdu	kuttay	1	90	6	0	0
+kutte	کتے	urdu	kuttay	1	89	7	0	0
 kutte	کتے	urdu	kuttey	1	0	0	0	0
 kutton	کتوں	urdu	katon	1	0	0	0	0
 kutton	کتوں	urdu	katun	1	0	0	0	0
+kutton	کتوں	urdu	kuto	0	4	0	0	0
 kutton	کتوں	urdu	kuton	1	0	0	0	0
+kutton	کتوں	urdu	kutooo	0	1	0	0	0
 kutton	کتوں	urdu	kutto	0	10	1	0	0
 kutton	کتوں	urdu	kuttoo	1	0	0	0	0
 kutton	کتوں	urdu	kuttooo	0	1	0	0	0
@@ -47881,7 +47983,7 @@ kya	کیا	urdu	kiya	1	18	5	0	0
 kya	کیا	urdu	kiyaa	1	0	0	0	0
 kya	کیا	urdu	kuya	1	0	0	0	0
 kya	کیا	urdu	ky	1	0	0	0	0
-kya	کیا	urdu	kyaa	1	0	0	0	0
+kya	کیا	urdu	kyaa	1	4	0	0	0
 kya	کیا	urdu	kyaaa	0	2	0	0	0
 kyani	کیانی	urdu	kiani	1	0	0	0	0
 kyani	کیانی	urdu	kiyani	1	0	0	0	0
@@ -47897,7 +47999,7 @@ kyun	کیوں	urdu	kiu	0	8	0	0	0
 kyun	کیوں	urdu	kiun	1	0	0	0	0
 kyun	کیوں	urdu	kiyon	1	1	0	0	0
 kyun	کیوں	urdu	kiyun	1	0	0	0	0
-kyun	کیوں	urdu	ku	0	192	4	0	0
+kyun	کیوں	urdu	ku	0	191	5	0	0
 kyun	کیوں	urdu	kuen	1	0	0	0	0
 kyun	کیوں	urdu	kuyn	0	4	4	0	0
 kyun	کیوں	urdu	kyn	0	78	43	0	0
@@ -47928,6 +48030,7 @@ kyunki		urdu	kunki	0	18	13	0	0
 kyunki		urdu	kuynki	0	33	15	0	0
 kyunki		urdu	kynki	0	64	60	0	0
 kyunki		urdu	kynuki	0	21	14	0	0
+kyunki		urdu	kyoki	0	4	0	0	0
 kyunki		urdu	kyuki	0	31	14	0	0
 kyunki		urdu	kyukni	0	22	19	0	0
 kyunki		urdu	kyunik	0	24	16	0	0
@@ -48186,6 +48289,7 @@ ladhakta	لڑھکتا	urdu	larhta	1	0	0	0	0
 ladhakta	لڑھکتا	urdu	ledhakta	1	0	0	0	0
 ladi	لڑی	urdu	ladee	1	0	0	0	0
 ladi	لڑی	urdu	lari	1	0	0	0	0
+ladies		english		0	0	0	0	0
 ladkada	لڑکھڑا	urdu	ladkha	1	0	0	0	0
 ladkada	لڑکھڑا	urdu	larkara	1	0	0	0	0
 ladkada	لڑکھڑا	urdu	larkha	1	0	0	0	0
@@ -48298,7 +48402,7 @@ lagane	لگانے	urdu	lagaane	1	0	0	0	0
 lagane	لگانے	urdu	laganay	1	0	0	0	0
 lagane	لگانے	urdu	laganey	1	0	0	0	0
 lagane	لگانے	urdu	lgany	0	7	0	0	0
-lagani		urdu		0	0	0	0	0
+lagani		urdu	lagni	0	4	0	0	0
 lagao	لگاؤ	urdu	lagaav	1	0	0	0	0
 lagao	لگاؤ	urdu	lagaaw	1	0	0	0	0
 lagao	لگاؤ	urdu	lagavu	1	0	0	0	0
@@ -48429,6 +48533,7 @@ lagta	لگتا	urdu	lgata	0	4	0	0	0
 lagta	لگتا	urdu	lgta	1	11	10	0	0
 lagta	لگتا	urdu	lugta	1	0	0	0	0
 lagte	لگتے	urdu	lagtay	0	18	1	0	0
+lagte	لگتے	urdu	lgte	0	4	0	0	0
 lagti	لگتی	urdu	lagtee	1	0	0	0	0
 lagti	لگتی	urdu	lagtiii	0	1	0	0	0
 lagti	لگتی	urdu	lagty	1	0	0	0	0
@@ -48818,6 +48923,7 @@ lanat		urdu	laaaannnaaaaatttt	0	1	0	0	0
 lanat		urdu	laaanat	0	1	0	0	0
 lanat		urdu	laaant	0	1	0	0	0
 lanat		urdu	lanaaat	0	2	0	0	0
+lanat		urdu	lanet	0	4	0	0	0
 lanat		urdu	lannaaat	0	1	0	0	0
 lanat		urdu	lannattttttttttttttttttttttttttttttttttttttttttttt	0	1	0	0	0
 lanat		urdu	lannnat	0	1	0	0	0
@@ -48825,6 +48931,7 @@ lanat		urdu	lannnnatttt	0	1	0	0	0
 lanat		urdu	lant	0	44	2	0	0
 lanat		urdu	lanut	0	6	1	0	0
 lanatein		urdu	lanatain	0	4	1	0	0
+lanatein		urdu	lante	0	4	0	0	0
 lanati	لعنتی	urdu	laaaaanati	0	1	0	0	0
 lanati	لعنتی	urdu	laaanti	0	12	1	0	0
 lanati	لعنتی	urdu	laanati	1	0	0	0	0
@@ -48833,7 +48940,7 @@ lanati	لعنتی	urdu	laanti	0	15	1	0	0
 lanati	لعنتی	urdu	lanatee	1	0	0	0	0
 lanati	لعنتی	urdu	lanatii	1	0	0	0	0
 lanati	لعنتی	urdu	lannattiii	0	1	0	0	0
-lanati	لعنتی	urdu	lanti	1	86	9	0	0
+lanati	لعنتی	urdu	lanti	1	85	10	0	0
 lanati	لعنتی	urdu	lantiii	0	3	0	0	0
 lanati	لعنتی	urdu	lantiiiii	0	1	0	0	0
 lancashire	لنکاشائر	urdu	lankaashaair	1	0	0	0	0
@@ -48966,6 +49073,7 @@ larka	لڑکا	urdu	ladhka	1	0	0	0	0
 larka	لڑکا	urdu	ledka	1	0	0	0	0
 larka	لڑکا	urdu	ludhka	1	0	0	0	0
 larke		urdu	larkay	0	12	0	0	0
+larki		urdu	ldki	0	4	0	0	0
 larki		urdu	lrki	0	15	2	0	0
 larkiyan		urdu	larkiya	0	14	0	0	0
 larkiyon		urdu	larkiyo	0	11	0	0	0
@@ -49340,7 +49448,7 @@ leageon	لیگیوں	urdu	legeon	1	0	0	0	0
 leageon	لیگیوں	urdu	legion	1	0	0	0	0
 leageon	لیگیوں	urdu	legiyon	1	0	0	0	0
 league	لیگ	urdu	lage	1	0	0	0	0
-league	لیگ	urdu	leeg	1	0	0	0	0
+league	لیگ	urdu	leeg	1	3	1	0	0
 league	لیگ	urdu	leg	1	0	0	0	0
 league	لیگ	urdu	lege	1	0	0	0	0
 league	لیگ	urdu	lig	1	0	0	0	0
@@ -49360,6 +49468,7 @@ learn		english		0	0	0	0	0
 lease	لیز	urdu	lase	1	0	0	0	0
 lease	لیز	urdu	lays	1	0	0	0	0
 least		english		0	0	0	0	0
+leather		english		0	0	0	0	0
 leave		english		0	0	0	0	0
 lebanan	لبنان	urdu	labnan	1	0	0	0	0
 lebanan	لبنان	urdu	lebanon	1	1	0	0	0
@@ -49528,7 +49637,7 @@ len	لین	urdu	leaen	1	0	0	0	0
 len	لین	urdu	lean	1	0	0	0	0
 len	لین	urdu	leen	1	0	0	0	0
 len	لین	urdu	line	1	0	0	0	0
-lena	لینا	urdu	laina	0	53	1	0	0
+lena	لینا	urdu	laina	0	52	2	0	0
 lena	لینا	urdu	layna	1	0	0	0	0
 lena	لینا	urdu	lea	0	3	0	0	0
 lena	لینا	urdu	leena	1	0	0	0	0
@@ -49972,6 +50081,7 @@ liye	لیے	urdu	liey	1	117	84	0	0
 liye	لیے	urdu	liy	0	179	150	0	0
 liye	لیے	urdu	liyay	1	5	1	0	0
 liye	لیے	urdu	liyye	0	189	196	0	0
+liye	لیے	urdu	luay	0	1	0	0	0
 liye	لیے	urdu	lye	1	251	139	0	0
 liye	لیے	urdu	lyie	0	104	96	0	0
 liza	لیزا	urdu		0	0	0	0	0
@@ -50046,6 +50156,7 @@ logo	لوگو	urdu	lagoe	1	0	0	0	0
 logo	لوگو	urdu	laugo	1	0	0	0	0
 logo	لوگو	urdu	logoa	1	0	0	0	0
 logo	لوگو	urdu	logooo	0	2	0	0	0
+logon	لوگوں	urdu	logn	0	4	0	0	0
 logon	لوگوں	urdu	logo	1	0	0	0	0
 logon	لوگوں	urdu	logoun	1	0	0	0	0
 logon	لوگوں	urdu	logu	0	8	0	0	0
@@ -50140,6 +50251,7 @@ loot	لوٹ	urdu	laut	1	0	0	0	0
 loot	لوٹ	urdu	lord	1	0	0	0	0
 loot	لوٹ	urdu	lot	1	0	0	0	0
 loot	لوٹ	urdu	lut	1	1	0	0	0
+loota		urdu	luta	0	4	0	0	0
 lootayra	لٹیرا	urdu	lootera	1	0	0	0	0
 lootayra	لٹیرا	urdu	lotayra	1	0	0	0	0
 lootayra	لٹیرا	urdu	lotera	1	0	0	0	0
@@ -50202,7 +50314,7 @@ lota		urdu	lotta	0	6	0	0	0
 lote		urdu	loootaaaaay	0	1	0	0	0
 lote		urdu	lotay	0	7	1	0	0
 lote		urdu	lotayyyyyy	0	1	0	0	0
-lote		urdu	loty	0	3	2	0	0
+lote		urdu	loty	0	4	1	0	0
 lotee	لوطی	urdu	lothi	1	0	0	0	0
 lotee	لوطی	urdu	lothy	1	0	0	0	0
 lotee	لوطی	urdu	loti	1	0	0	0	0
@@ -50352,7 +50464,7 @@ ma	ما	urdu	maa	1	2	0	0	0
 ma	ما	urdu	maaaa	0	3	0	0	0
 ma	ما	urdu	maaaaaa	0	1	0	0	0
 ma'am		english		0	0	0	0	0
-maa	معا	urdu	ma	0	73	7	0	0
+maa	معا	urdu	ma	0	79	7	0	0
 maa	معا	urdu	maaa	1	0	0	0	0
 maa	معا	urdu	maan	1	0	0	0	0
 maa	معا	urdu	man	1	0	0	0	0
@@ -52440,7 +52552,7 @@ maimunah	میمونہ	urdu	maimuah	1	0	0	0	0
 maimunah	میمونہ	urdu	maimuna	1	0	0	0	0
 maimunah	میمونہ	urdu	maimunh	1	0	0	0	0
 maimunah	میمونہ	urdu	maymunah	1	0	0	0	0
-main	میں	urdu	ma	0	135	14	0	0
+main	میں	urdu	ma	0	133	15	0	0
 main	میں	urdu	mai	0	3444	2225	0	0
 main	میں	urdu	mainn	0	223	170	0	0
 main	میں	urdu	man	0	210	124	0	0
@@ -54817,9 +54929,10 @@ marna	مارنا	urdu	marnaa	1	0	0	0	0
 marnaa	مرنا	urdu	marna	1	2	0	0	0
 marne	مرنے	urdu	marnay	1	22	0	0	0
 marne	مرنے	urdu	marney	1	0	0	0	0
-maro	مرو	urdu	maroo	1	0	0	0	0
+maro	مرو	urdu	maroo	1	4	0	0	0
 maro	مرو	urdu	marooo	0	2	0	0	0
 maro	مرو	urdu	maru	1	2	0	0	0
+maro	مرو	urdu	mro	0	4	0	0	0
 marojah	مروجہ	urdu	marawwajh	1	0	0	0	0
 marojah	مروجہ	urdu	marwajh	1	0	0	0	0
 marojah	مروجہ	urdu	morawija	1	0	0	0	0
@@ -55536,6 +55649,7 @@ masla	مثلآ	urdu	maslan	1	0	0	0	0
 masla	مثلآ	urdu	maslla	0	5	1	0	0
 masla	مثلآ	urdu	massla	0	5	2	0	0
 masla	مثلآ	urdu	msala	0	2	0	0	0
+masla	مثلآ	urdu	msla	0	4	2	0	0
 masla	مثلآ	urdu	musla	1	0	0	0	0
 masla	مثلآ	urdu	muslan	1	0	0	0	0
 maslaa	مسل	urdu	masal	1	0	0	0	0
@@ -56740,8 +56854,11 @@ mayo	مائیو	urdu		0	0	0	0	0
 mayoob	معیوب	urdu	mayub	1	0	0	0	0
 mayoob	معیوب	urdu	muiob	1	0	0	0	0
 mayus	مایوس	urdu	maayus	1	0	0	0	0
-mayus	مایوس	urdu	mayoos	1	0	0	0	0
+mayus	مایوس	urdu	mayoos	1	4	0	0	0
 mayus	مایوس	urdu	mayos	1	0	0	0	0
+mayusi	مایوسی	urdu	maayusi	1	0	0	0	0
+mayusi	مایوسی	urdu	mayoosi	1	0	0	0	0
+mayusi	مایوسی	urdu	mayuse	1	0	0	0	0
 mayut	مایوٹ	urdu	mayoot	1	0	0	0	0
 mayut	مایوٹ	urdu	mayot	1	0	0	0	0
 mayut	مایوٹ	urdu	mayutt	1	0	0	0	0
@@ -57190,6 +57307,9 @@ mehar	مھر	urdu	mahar	1	0	0	0	0
 mehar	مھر	urdu	mohar	1	0	0	0	0
 mehar	مھر	urdu	muhar	1	0	0	0	0
 meharabadaan	مہرآبادان	urdu		0	0	0	0	0
+meharban	مہربان	urdu	maherbaan	1	0	0	0	0
+meharban	مہربان	urdu	maherban	1	0	0	0	0
+meharban	مہربان	urdu	meherbaan	1	0	0	0	0
 meharbani		urdu	meherbaani	0	6	0	0	0
 mehaz	محض	urdu	mahaz	1	1	3	0	0
 mehaz	محض	urdu	mahz	1	0	0	0	0
@@ -57314,11 +57434,11 @@ mehta	مہتا	urdu		0	0	0	0	0
 mehtab	مہتاب	urdu	mahtaab	1	1	0	0	0
 mehtab	مہتاب	urdu	mehtaab	1	0	0	0	0
 mehtar		urdu		0	0	0	0	0
-mein	میں	urdu	ma	0	410	15	0	0
+mein	میں	urdu	ma	0	406	14	0	0
 mein	میں	urdu	mai	1	13	1	0	0
-mein	میں	urdu	main	1	2767	180	0	0
+mein	میں	urdu	main	1	2769	178	0	0
 mein	میں	urdu	may	0	67	5	0	0
-mein	میں	urdu	me	1	910	63	0	0
+mein	میں	urdu	me	1	912	61	0	0
 mein	میں	urdu	mea	0	8	0	0	0
 mein	میں	urdu	meein	1	0	0	0	0
 mein	میں	urdu	meen	1	0	0	0	0
@@ -57327,7 +57447,7 @@ mein	میں	urdu	meinn	0	288	215	0	0
 mein	میں	urdu	men	1	241	185	0	0
 mein	میں	urdu	meni	0	135	121	0	0
 mein	میں	urdu	mey	0	10	1	0	0
-mein	میں	urdu	mi	0	12	2	0	0
+mein	میں	urdu	mi	0	11	3	0	0
 mein	میں	urdu	mien	1	219	107	0	0
 mein	میں	urdu	min	1	253	166	0	0
 mein	میں	urdu	mn	1	3	0	0	0
@@ -57468,7 +57588,7 @@ mercy	مرسی	urdu	marsy	1	0	0	0	0
 mercy	مرسی	urdu	merci	1	0	0	0	0
 mercy	مرسی	urdu	mersee	1	0	0	0	0
 mere	میرے	urdu	mairay	1	0	0	0	0
-mere	میرے	urdu	mare	0	265	26	0	0
+mere	میرے	urdu	mare	0	267	24	0	0
 mere	میرے	urdu	mary	0	109	5	0	0
 mere	میرے	urdu	mee	0	18	15	0	0
 mere	میرے	urdu	meer	0	24	13	0	0
@@ -57712,7 +57832,7 @@ mile	ملے	urdu	mie	0	2	0	0	0
 mile	ملے	urdu	miel	0	7	1	0	0
 mile	ملے	urdu	milay	1	18	0	0	0
 mile	ملے	urdu	miley	1	3	0	0	0
-mile	ملے	urdu	mily	0	22	0	0	0
+mile	ملے	urdu	mily	0	21	1	0	0
 mile	ملے	urdu	mle	0	10	2	0	0
 milega		urdu	miega	0	3	0	0	0
 milega		urdu	mielga	0	2	3	0	0
@@ -57856,6 +57976,7 @@ miniton	منٹوں	urdu	mintoon	1	0	0	0	0
 miniton	منٹوں	urdu	minuiton	1	0	0	0	0
 minnesauta	منیسوٹا	urdu	minnesota	1	0	0	0	0
 minnesauta	منیسوٹا	urdu	minnessota	1	0	0	0	0
+mint		english		0	0	0	0	0
 minute	منٹ	english	ment	1	0	0	0	0
 minute	منٹ	english	minit	1	0	0	0	0
 minute	منٹ	english	minite	1	0	0	0	0
@@ -57984,6 +58105,7 @@ miss		english	mis	0	1	15	0	0
 miss		english	misss	0	3	18	0	0
 miss		english	misssss	0	1	0	0	0
 miss		english	msis	0	1	15	0	0
+missed		english		0	0	0	0	0
 missile	میزائل	urdu	meesail	1	0	0	0	0
 missile	میزائل	urdu	misael	1	0	0	0	0
 missile	میزائل	urdu	misail	1	0	0	0	0
@@ -58174,7 +58296,7 @@ mohabbat	محبت	urdu	mahabbat	1	0	0	0	0
 mohabbat	محبت	urdu	mahbat	1	0	0	0	0
 mohabbat	محبت	urdu	mahobbat	0	6	0	0	0
 mohabbat	محبت	urdu	mohabbot	1	0	0	0	0
-mohabbat	محبت	urdu	mohabbt	1	0	0	0	0
+mohabbat	محبت	urdu	mohabbt	1	3	1	0	0
 mohabbat	محبت	urdu	mohobbat	0	11	0	0	0
 mohabbat	محبت	urdu	muhabat	1	58	4	0	0
 mohabbat	محبت	urdu	muhabbat	1	5	0	0	0
@@ -58847,6 +58969,7 @@ mountain	ماؤنٹین	urdu	mountin	1	0	0	0	0
 mouse	ماؤس	english	maus	1	0	0	0	0
 mouse	ماؤس	english	mouce	1	0	0	0	0
 mouse	ماؤس	english	mowse	1	0	0	0	0
+mouth		english		0	0	0	0	0
 mouud	موعود	urdu	maoud	1	0	0	0	0
 mouud	موعود	urdu	moaad	1	0	0	0	0
 mouud	موعود	urdu	moaud	1	0	0	0	0
@@ -58861,6 +58984,7 @@ move	موو	urdu	mov	1	0	0	0	0
 move	موو	urdu	muve	1	0	0	0	0
 movement	موومنٹ	urdu		0	0	0	0	0
 movie		english	moie	0	1	0	0	0
+movie		english	moive	0	1	1	0	0
 movie		english	move	0	7	3	0	0
 movie		english	movei	0	2	2	0	0
 movie		english	movi	0	2	5	0	0
@@ -59147,6 +59271,7 @@ mudti	مڑتی	urdu	madthee	1	0	0	0	0
 mudti	مڑتی	urdu	madthi	1	0	0	0	0
 mudti	مڑتی	urdu	madti	1	0	0	0	0
 mueed	معید	urdu		0	0	0	0	0
+mufaad		urdu	mafad	0	4	0	0	0
 mufahmat	مفاہمت	urdu	mafahimat	1	0	0	0	0
 mufahmat	مفاہمت	urdu	mufahamt	1	0	0	0	0
 mufahmat	مفاہمت	urdu	mufahemt	1	0	0	0	0
@@ -59367,6 +59492,7 @@ mujh	مجھ	urdu	mujhh	1	0	0	0	0
 mujhe	مجھے	urdu	majhe	1	0	0	0	0
 mujhe	مجھے	urdu	mhe	0	39	31	0	0
 mujhe	مجھے	urdu	mhje	0	78	56	0	0
+mujhe	مجھے	urdu	mjah	0	1	0	0	0
 mujhe	مجھے	urdu	mje	1	215	136	0	0
 mujhe	مجھے	urdu	mjeh	0	82	51	0	0
 mujhe	مجھے	urdu	mjh	0	220	147	0	0
@@ -59379,7 +59505,7 @@ mujhe	مجھے	urdu	mjue	0	76	45	0	0
 mujhe	مجھے	urdu	mjuhay	0	40	19	0	0
 mujhe	مجھے	urdu	mjuhe	0	67	43	0	0
 mujhe	مجھے	urdu	mjuhy	0	50	22	0	0
-mujhe	مجھے	urdu	mjy	0	24	4	0	0
+mujhe	مجھے	urdu	mjy	0	23	5	0	0
 mujhe	مجھے	urdu	mojhe	1	0	0	0	0
 mujhe	مجھے	urdu	mue	0	62	38	0	0
 mujhe	مجھے	urdu	muej	0	89	64	0	0
@@ -59399,7 +59525,7 @@ mujhe	مجھے	urdu	mujeh	0	69	46	0	0
 mujhe	مجھے	urdu	mujh	0	197	137	0	0
 mujhe	مجھے	urdu	mujha	0	36	16	0	0
 mujhe	مجھے	urdu	mujhai	0	1	0	0	0
-mujhe	مجھے	urdu	mujhay	1	795	454	0	0
+mujhe	مجھے	urdu	mujhay	1	796	453	0	0
 mujhe	مجھے	urdu	mujhayy	0	56	40	0	0
 mujhe	مجھے	urdu	mujhhay	0	66	20	0	0
 mujhe	مجھے	urdu	mujhhe	0	97	60	0	0
@@ -60519,6 +60645,7 @@ mutabadil	متبادل	urdu	muthbadel	1	0	0	0	0
 mutabiq	مطابق	urdu	matabaq	1	0	0	0	0
 mutabiq	مطابق	urdu	matabik	1	0	0	0	0
 mutabiq	مطابق	urdu	matabiq	1	0	0	0	0
+mutabiq	مطابق	urdu	motabiq	0	4	0	0	0
 mutabiq	مطابق	urdu	mutaabik	1	0	0	0	0
 mutabiq	مطابق	urdu	mutaabiq	1	19	6	0	0
 mutabiq	مطابق	urdu	mutabeeq	1	0	0	0	0
@@ -60789,6 +60916,7 @@ muzafaraabad	مظفرآباد	urdu	muzaffaraabad	1	0	0	0	0
 muzaffarpur	مظفرپور	urdu	muzafarpur	1	0	0	0	0
 muzaffarpur	مظفرپور	urdu	muzaferpoor	1	0	0	0	0
 muzaffarpur	مظفرپور	urdu	muzaferpur	1	0	0	0	0
+muzahira		urdu	mozahra	0	4	0	0	0
 muzahiron	مظاہروں	urdu	mazaaharon	1	0	0	0	0
 muzahiron	مظاہروں	urdu	mazahiron	1	0	0	0	0
 muzahiron	مظاہروں	urdu	muzaaharon	1	0	0	0	0
@@ -61581,7 +61709,7 @@ nahi	نہیں	urdu	nahhin	0	25	14	0	0
 nahi	نہیں	urdu	nahii	0	6	0	0	0
 nahi	نہیں	urdu	nahiii	0	1	0	0	0
 nahi	نہیں	urdu	nahiiiiiiii	0	1	0	0	0
-nahi	نہیں	urdu	nahin	0	353	122	0	0
+nahi	نہیں	urdu	nahin	0	352	123	0	0
 nahi	نہیں	urdu	nahinn	0	21	7	0	0
 nahi	نہیں	urdu	nahiyn	1	0	0	0	0
 nahi	نہیں	urdu	nahn	1	38	15	0	0
@@ -61590,7 +61718,9 @@ nahi	نہیں	urdu	naih	0	18	6	0	0
 nahi	نہیں	urdu	naii	0	6	0	0	0
 nahi	نہیں	urdu	naiii	0	1	0	0	0
 nahi	نہیں	urdu	nain	0	6	2	0	0
+nahi	نہیں	urdu	neh	0	4	0	0	0
 nahi	نہیں	urdu	nehi	0	24	0	0	0
+nahi	نہیں	urdu	nei	0	4	0	0	0
 nahi	نہیں	urdu	nh	0	105	6	0	0
 nahi	نہیں	urdu	nhai	0	24	3	0	0
 nahi	نہیں	urdu	nhain	0	14	5	0	0
@@ -61602,7 +61732,7 @@ nahi	نہیں	urdu	nhiiii	0	1	0	0	0
 nahi	نہیں	urdu	nhiiiii	0	1	0	0	0
 nahi	نہیں	urdu	nhin	1	38	17	0	0
 nahi	نہیں	urdu	nhn	1	17	0	0	0
-nahi	نہیں	urdu	ni	1	557	38	0	0
+nahi	نہیں	urdu	ni	1	560	35	0	0
 nahi	نہیں	urdu	nii	0	10	0	0	0
 nahi	نہیں	urdu	niii	0	2	0	0	0
 nahid	ناہید	urdu	naaheed	1	0	0	0	0
@@ -62183,9 +62313,11 @@ namudaar	نمودار	urdu	namoodaar	1	0	0	0	0
 namudaar	نمودار	urdu	nimodar	1	0	0	0	0
 namumkin	ناممکن	urdu	naamoomkin	1	0	0	0	0
 namumkin	ناممکن	urdu	namumken	1	0	0	0	0
+namuna		urdu	namona	0	4	0	0	0
 namunasib	نامناسب	urdu	namanasab	1	0	0	0	0
 namunasib	نامناسب	urdu	namunaasib	1	0	0	0	0
 namunasib	نامناسب	urdu	namunsib	1	0	0	0	0
+namune		urdu	namonay	0	4	0	0	0
 namunon	نمونوں	urdu	namoono	1	0	0	0	0
 namunon	نمونوں	urdu	namoonon	1	0	0	0	0
 namunon	نمونوں	urdu	namuno	1	0	0	0	0
@@ -63452,6 +63584,7 @@ nazdeek	نزدیک	urdu	nazdeak	1	0	0	0	0
 nazdeek	نزدیک	urdu	nazdiik	1	0	0	0	0
 nazdeek	نزدیک	urdu	nazdik	1	0	0	0	0
 nazdeek	نزدیک	urdu	nazdyk	1	0	0	0	0
+nazdeek	نزدیک	urdu	nezdiqe	0	4	0	0	0
 nazdik	نذدیک	urdu	najdik	1	0	0	0	0
 nazdik	نذدیک	urdu	nazdeek	1	0	0	0	0
 nazdiki	نزدیکی	urdu	najdiki	1	0	0	0	0
@@ -63543,12 +63676,12 @@ ne	نے	urdu	na	1	1	0	0	0
 ne	نے	urdu	naay	1	1	0	0	0
 ne	نے	urdu	nae	1	0	0	0	0
 ne	نے	urdu	nai	1	0	0	0	0
-ne	نے	urdu	nay	1	154	7	0	0
+ne	نے	urdu	nay	1	155	6	0	0
 ne	نے	urdu	nayyy	0	1	0	0	0
 ne	نے	urdu	neeee	0	1	0	0	0
 ne	نے	urdu	neh	1	6	0	0	0
 ne	نے	urdu	ney	1	62	16	0	0
-ne	نے	urdu	ny	1	1118	62	0	0
+ne	نے	urdu	ny	1	1117	63	0	0
 near	نیئر	urdu	naiyar	1	0	0	0	0
 near	نیئر	urdu	neare	1	0	0	0	0
 near	نیئر	urdu	neyar	1	0	0	0	0
@@ -63773,7 +63906,7 @@ nezon	نیزوں	urdu	neezon	1	0	0	0	0
 nezon	نیزوں	urdu	nejon	1	0	0	0	0
 nezon	نیزوں	urdu	nezoun	1	0	0	0	0
 nezon	نیزوں	urdu	nizon	1	0	0	0	0
-niazi		name		0	0	0	0	0
+niazi		urdu	naizi	0	4	0	0	0
 nibatne	نبٹنے	urdu	nabatnay	1	0	0	0	0
 nibatne	نبٹنے	urdu	nabatne	1	0	0	0	0
 nibhate	نبھاتے	urdu	nibhaatay	1	0	0	0	0
@@ -64235,6 +64368,7 @@ nishandahi	نشاندہی	urdu	nishanadhy	1	0	0	0	0
 nishandahi	نشاندہی	urdu	nishandahee	1	0	0	0	0
 nishani	نشانی	urdu	nishaanee	1	0	0	0	0
 nishani	نشانی	urdu	nishanee	1	0	0	0	0
+nishaniyan		urdu	nishaniya	0	3	0	0	0
 nishaniyon	نشانیوں	urdu	nashaniyon	1	0	0	0	0
 nishaniyon	نشانیوں	urdu	nishaaneeyion	1	0	0	0	0
 nishaniyon	نشانیوں	urdu	nishaneeyeon	1	0	0	0	0
@@ -64823,7 +64957,7 @@ oon	اون	urdu	own	1	0	0	0	0
 oonch	اونچ	urdu	ounch	1	0	0	0	0
 oonch	اونچ	urdu	unch	1	0	0	0	0
 ooncha	اونچا	urdu	awncha	1	0	0	0	0
-ooncha	اونچا	urdu	oncha	1	0	0	0	0
+ooncha	اونچا	urdu	oncha	1	4	0	0	0
 ooncha	اونچا	urdu	ouncha	1	1	0	0	0
 ooncha	اونچا	urdu	uncha	1	0	0	0	0
 ooncha	اونچا	urdu	unchaa	1	0	0	0	0
@@ -65327,6 +65461,7 @@ pada	پڑا	urdu	padda	0	9	4	0	0
 pada	پڑا	urdu	padha	1	0	0	0	0
 pada	پڑا	urdu	padhaa	1	0	0	0	0
 pada	پڑا	urdu	para	1	2	0	0	0
+pada	پڑا	urdu	pda	0	4	5	0	0
 pada	پڑا	urdu	pdaa	0	2	1	0	0
 padaheen	پڑہیں	urdu	padahin	1	0	0	0	0
 padaheen	پڑہیں	urdu	padhen	1	0	0	0	0
@@ -66250,7 +66385,7 @@ pakhtu	پختو	urdu	paqhthoo	1	0	0	0	0
 pakhtu	پختو	urdu	paqhthu	1	0	0	0	0
 pakhtu	پختو	urdu	pukhto	1	0	0	0	0
 pakhtu	پختو	urdu	pukhtu	1	0	0	0	0
-pakhtun	پختون	urdu	pakhton	1	0	0	0	0
+pakhtun	پختون	urdu	pakhton	1	4	0	0	0
 pakhtun	پختون	urdu	pakhtoon	1	0	0	0	0
 pakhtun	پختون	urdu	paqhthoon	1	0	0	0	0
 pakhtun	پختون	urdu	paqhthun	1	0	0	0	0
@@ -66285,6 +66420,8 @@ pakistani	پاکستانی	urdu	pakistaani	1	0	0	0	0
 pakistani	پاکستانی	urdu	pakistaanii	1	0	0	0	0
 pakistani	پاکستانی	urdu	pakistanii	1	0	0	0	0
 pakistaniyon		urdu	pakistanio	0	10	0	0	0
+pakistaniyon		urdu	pakistanion	0	3	1	0	0
+pakistaniyon		urdu	pakistaniyo	0	4	0	0	0
 pakistaniyon		urdu	pakistaniyooon	0	1	0	0	0
 pakiza	پاکیزہ	urdu	pakeezah	1	0	0	0	0
 pakiza	پاکیزہ	urdu	pakizah	1	0	0	0	0
@@ -66657,7 +66794,7 @@ par	پر	urdu	parr	1	18	6	0	0
 par	پر	urdu	parrf	1	0	0	0	0
 par	پر	urdu	parrr	0	3	0	0	0
 par	پر	urdu	pe	1	0	0	0	0
-par	پر	urdu	per	1	388	31	0	0
+par	پر	urdu	per	1	387	32	0	0
 par	پر	urdu	por	1	0	0	0	0
 par	پر	urdu	pr	1	39	4	0	0
 par	پر	urdu	pur	1	4	2	0	0
@@ -66929,7 +67066,7 @@ parhne		urdu	parhen	0	2	0	0	0
 parhne		urdu	parhhne	0	4	1	0	0
 parhne		urdu	parhnay	0	15	0	0	0
 parhne		urdu	parhnne	0	4	2	0	0
-parhne		urdu	parne	0	3	0	0	0
+parhne		urdu	parne	0	7	0	0	0
 parhne		urdu	parrhne	0	4	1	0	0
 parhne		urdu	prahne	0	3	0	0	0
 parhne		urdu	prhne	0	9	0	0	0
@@ -67677,7 +67814,7 @@ payment		english		0	0	0	0	0
 payroll	پیرول	urdu	parole	1	0	0	0	0
 payroll	پیرول	urdu	perul	1	0	0	0	0
 payroll	پیرول	urdu	pirul	1	0	0	0	0
-pazeer	پزیر	urdu	pazer	1	0	0	0	0
+pazeer	پزیر	urdu	pazer	1	4	0	0	0
 pazeer	پزیر	urdu	pazir	1	1	0	0	0
 pazeer	پزیر	urdu	pejeer	1	0	0	0	0
 pazeer	پزیر	urdu	pezeer	1	0	0	0	0
@@ -67710,7 +67847,7 @@ pe	پہ	urdu	peh	1	5	0	0	0
 pe	پہ	urdu	per	1	1	0	0	0
 pe	پہ	urdu	pey	0	9	0	0	0
 pe	پہ	urdu	pih	1	0	0	0	0
-pe	پہ	urdu	py	0	341	20	0	0
+pe	پہ	urdu	py	0	342	19	0	0
 peace	پیس	urdu	pace	1	1	0	0	0
 peace	پیس	urdu	pase	1	0	0	0	0
 peace	پیس	urdu	pease	1	0	0	0	0
@@ -67755,7 +67892,7 @@ pedia	پیڈیا	urdu	paydiyaa	1	0	0	0	0
 pedia	پیڈیا	urdu	pedhia	1	0	0	0	0
 pedia	پیڈیا	urdu	pediya	1	0	0	0	0
 pedia	پیڈیا	urdu	pedya	1	0	0	0	0
-peeche	پیچھے	urdu	pechay	0	31	2	0	0
+peeche	پیچھے	urdu	pechay	0	30	3	0	0
 peeche	پیچھے	urdu	peche	0	9	0	0	0
 peeche	پیچھے	urdu	peechay	1	1	0	0	0
 peeche	پیچھے	urdu	peechhay	1	0	0	0	0
@@ -68664,6 +68801,7 @@ plan	پلان	english	palan	1	0	0	0	0
 planck	پلانک	urdu		0	0	0	0	0
 planning	پلاننگ	urdu	planing	1	0	0	0	0
 plano	پلینو	urdu		0	0	0	0	0
+plans		english		0	0	0	0	0
 plant	پلانٹ	urdu	plaanat	1	0	0	0	0
 plant	پلانٹ	urdu	planet	1	0	0	0	0
 plant	پلانٹ	urdu	plannet	1	0	0	0	0
@@ -68883,7 +69021,9 @@ poocha	پوچا	urdu	poochha	0	7	5	0	0
 poocha	پوچا	urdu	pooha	0	1	3	0	0
 poocha	پوچا	urdu	poohca	0	3	2	0	0
 poocha	پوچا	urdu	poucha	1	0	0	0	0
+pooche	پوچھے	urdu	pochay	0	4	0	0	0
 pooche	پوچھے	urdu	pochhe	1	0	0	0	0
+pooche	پوچھے	urdu	pochy	0	4	0	0	0
 pooche	پوچھے	urdu	poochay	1	0	0	0	0
 pooche	پوچھے	urdu	poochey	1	0	0	0	0
 pooche	پوچھے	urdu	poochhe	1	1	0	0	0
@@ -69311,6 +69451,7 @@ projects	پراجیکٹس	urdu		0	0	0	0	0
 proman	پرومن	urdu		0	0	0	0	0
 promo		english		0	0	0	0	0
 promote	پروموٹ	english	promot	1	4	1	0	0
+promoting		english		0	0	0	0	0
 promotions	پروموشنز	urdu		0	0	0	0	0
 pronism	پرونزم	urdu		0	0	0	0	0
 proof	پروف	urdu	pruf	1	0	0	0	0
@@ -69423,6 +69564,7 @@ punjah	پنجہ	urdu	panjaa	1	0	0	0	0
 punjah	پنجہ	urdu	panjah	1	0	0	0	0
 punjgana	پنجگانہ	urdu		0	0	0	0	0
 punjsheer	پنجشیر	urdu		0	0	0	0	0
+puppet		english		0	0	0	0	0
 pur		urdu		0	0	0	0	0
 pura	پرا	urdu	para	1	0	0	0	0
 pura	پرا	urdu	paraa	1	0	0	0	0
@@ -69501,6 +69643,7 @@ push	پش	urdu	pushh	1	0	0	0	0
 pusht	پشت	urdu	pishat	1	0	0	0	0
 put		english		0	0	0	0	0
 putar		urdu		0	0	0	0	0
+putte		urdu	pathy	0	1	0	0	0
 pyaas	پیاس	urdu	peyaas	1	0	0	0	0
 pyaas	پیاس	urdu	piyaas	1	0	0	0	0
 pyaas	پیاس	urdu	piyas	1	0	0	0	0
@@ -69523,6 +69666,7 @@ pyara	پیارا	urdu	piyaaraa	1	0	0	0	0
 pyara	پیارا	urdu	pyaaraa	1	0	0	0	0
 pyara	پیارا	urdu	pyaraa	1	0	0	0	0
 pyare	پیارے	urdu	peyaare	1	0	0	0	0
+pyare	پیارے	urdu	peyary	0	4	0	0	0
 pyare	پیارے	urdu	piyaare	1	0	0	0	0
 pyare	پیارے	urdu	pyaare	1	0	0	0	0
 pyare	پیارے	urdu	pyary	0	12	0	0	0
@@ -69792,7 +69936,7 @@ qadiani	قادیانی	urdu	kadiyani	1	0	0	0	0
 qadiani	قادیانی	urdu	khadiani	1	0	0	0	0
 qadiani	قادیانی	urdu	qadeani	1	0	0	0	0
 qadiani	قادیانی	urdu	qadiyani	1	0	0	0	0
-qadiani	قادیانی	urdu	qadyani	1	0	0	0	0
+qadiani	قادیانی	urdu	qadyani	1	3	1	0	0
 qadir	قادر	urdu	kadir	1	0	0	0	0
 qadir	قادر	urdu	khadar	1	0	0	0	0
 qadir	قادر	urdu	khader	1	0	0	0	0
@@ -70070,6 +70214,7 @@ qanoonan	قانونا	urdu	qhanoonan	1	0	0	0	0
 qanooni	قانونی	urdu	kanooni	1	0	0	0	0
 qanooni	قانونی	urdu	kanuni	1	0	0	0	0
 qanooni	قانونی	urdu	khanooni	1	0	0	0	0
+qanooni	قانونی	urdu	qanone	0	4	0	0	0
 qanooni	قانونی	urdu	qanoni	1	0	0	0	0
 qanooni	قانونی	urdu	qanoony	1	0	0	0	0
 qanooni	قانونی	urdu	qanuni	1	2	0	0	0
@@ -71420,6 +71565,7 @@ rahi	رہی	urdu	rahy	1	0	0	0	0
 rahi	رہی	urdu	raih	0	11	4	0	0
 rahi	رہی	urdu	rhai	0	9	6	0	0
 rahi	رہی	urdu	rhi	1	236	182	0	0
+rahi	رہی	urdu	rhii	0	4	0	0	0
 rahi	رہی	urdu	rhiii	0	1	0	0	0
 rahia	رہیا	urdu	rahiya	1	0	0	0	0
 rahia	رہیا	urdu	rahya	1	0	0	0	0
@@ -71817,7 +71963,7 @@ rakhee	رکہی	urdu	rakhy	1	0	0	0	0
 rakheel	راخیل	urdu	raakhel	1	0	0	0	0
 rakheel	راخیل	urdu	rakhel	1	0	0	0	0
 rakheel	راخیل	urdu	rakhil	1	0	0	0	0
-rakhein		urdu	rakhain	0	13	1	0	0
+rakhein		urdu	rakhain	0	12	2	0	0
 rakhel	رکھیل	urdu	rakhail	1	0	0	0	0
 rakhel	رکھیل	urdu	rakhaill	1	0	0	0	0
 rakhel	رکھیل	urdu	rakhayl	1	0	0	0	0
@@ -73063,6 +73209,7 @@ rekhtay	ریختے	urdu	rekhtey	1	0	0	0	0
 rekhtay	ریختے	urdu	rieqte	1	0	0	0	0
 rekhtay	ریختے	urdu	rieqty	1	0	0	0	0
 related		urdu	releted	0	1	0	0	0
+relationship		english		0	0	0	0	0
 release	ریلیز	urdu	realse	1	0	0	0	0
 release	ریلیز	urdu	rilease	1	0	0	0	0
 reliance	ریلائنس	urdu	relians	1	0	0	0	0
@@ -73178,6 +73325,7 @@ resource	ریسورس	urdu	resourse	1	0	0	0	0
 resources	ریسورسز	urdu		0	0	0	0	0
 respect		english		0	0	0	0	0
 response		english		0	0	0	0	0
+responsible		english		0	0	0	0	0
 rest		english		0	0	0	0	0
 restaurant		english		0	0	0	0	0
 result		english		0	0	0	0	0
@@ -74068,7 +74216,7 @@ rozana	روزانہ	urdu	rzana	0	1	1	0	0
 roze	روزے	urdu	rauzey	1	0	0	0	0
 roze	روزے	urdu	roje	1	0	0	0	0
 roze	روزے	urdu	rojey	1	0	0	0	0
-roze	روزے	urdu	rozay	1	6	1	0	0
+roze	روزے	urdu	rozay	1	5	2	0	0
 roze	روزے	urdu	rozey	1	0	0	0	0
 rozey	روضے	urdu	raujey	1	0	0	0	0
 rozey	روضے	urdu	rauzey	1	0	0	0	0
@@ -74265,6 +74413,7 @@ rulay	رولے	urdu	rule	1	0	0	0	0
 rulay	رولے	urdu	ruley	1	0	0	0	0
 rulay	رولے	urdu	ruly	1	0	0	0	0
 rule	rule	urdu		0	0	0	0	0
+rules		english		0	0	0	0	0
 rumal	رومال	urdu	roomal	1	0	0	0	0
 rumal	رومال	urdu	rumaal	1	0	0	0	0
 rumania	رومانیہ	urdu	romaneah	1	0	0	0	0
@@ -74272,6 +74421,7 @@ rumania	رومانیہ	urdu	romaniah	1	0	0	0	0
 rumania	رومانیہ	urdu	roomaniya	1	0	0	0	0
 rumania	رومانیہ	urdu	rumaniah	1	0	0	0	0
 rumania	رومانیہ	urdu	rumaniya	1	0	0	0	0
+run		english		0	0	0	0	0
 runs		english		0	0	0	0	0
 runuma	رونما	urdu	ronma	1	0	0	0	0
 runuma	رونما	urdu	ronuma	1	0	0	0	0
@@ -74579,7 +74729,7 @@ saare	سارے	urdu	saaray	1	2	1	0	0
 saare	سارے	urdu	saarey	1	0	0	0	0
 saare	سارے	urdu	saray	1	1	0	0	0
 saare	سارے	urdu	sarayyy	0	1	0	0	0
-saare	سارے	urdu	sare	1	120	4	0	0
+saare	سارے	urdu	sare	1	119	5	0	0
 saare	سارے	urdu	sarey	0	4	0	0	0
 saare	سارے	urdu	sary	0	74	4	0	0
 saarfeen	صارفین	urdu	sarfeen	1	1	0	0	0
@@ -74720,6 +74870,7 @@ sabhee	سبہی	urdu	sabhi	1	0	0	0	0
 sabhi	سبھی	urdu	sabhe	1	0	0	0	0
 sabhi	سبھی	urdu	sabhee	1	0	0	0	0
 sabhi	سبھی	urdu	sabi	0	1	0	0	0
+sabhi	سبھی	urdu	sbi	0	4	0	0	0
 sabhi	سبھی	urdu	subhi	1	0	0	0	0
 sabhraon	سبھراؤں	urdu		0	0	0	0	0
 sabi	سبی	urdu	sabe	1	0	0	0	0
@@ -77186,6 +77337,7 @@ sapoot	سپوت	urdu	sapot	1	0	0	0	0
 sapoot	سپوت	urdu	sappot	1	0	0	0	0
 sapoot	سپوت	urdu	saput	1	0	0	0	0
 sapoot	سپوت	urdu	spot	1	0	0	0	0
+sapooton		urdu	sapooto	0	1	0	0	0
 sapurdgi	سپردگی	urdu	superdagi	1	0	0	0	0
 sapurdgi	سپردگی	urdu	supurdgi	1	0	0	0	0
 sapurdgi	سپردگی	urdu	supurdgy	1	0	0	0	0
@@ -77793,14 +77945,14 @@ satesh	ستیش	urdu	satissh	1	0	0	0	0
 satesh	ستیش	urdu	stesh	1	0	0	0	0
 satghadah	ستگھڑہ	urdu		0	0	0	0	0
 sath	ساتھ	urdu	saat	1	0	0	0	0
-sath	ساتھ	urdu	saath	1	504	39	0	0
+sath	ساتھ	urdu	saath	1	503	40	0	0
 sath	ساتھ	urdu	sah	0	31	22	0	0
 sath	ساتھ	urdu	saht	0	51	36	0	0
 sath	ساتھ	urdu	sat	0	38	18	0	0
 sath	ساتھ	urdu	sathh	0	48	37	0	0
 sath	ساتھ	urdu	satth	0	49	26	0	0
 sath	ساتھ	urdu	stah	0	69	33	0	0
-sath	ساتھ	urdu	sth	1	185	67	0	0
+sath	ساتھ	urdu	sth	1	186	66	0	0
 sathee	سطحی	urdu	satahi	1	0	0	0	0
 sathee	سطحی	urdu	sathi	1	1	0	0	0
 sathee	سطحی	urdu	sthi	1	0	0	0	0
@@ -78717,6 +78869,7 @@ self	سلف	urdu	salaf	1	0	0	0	0
 self	سلف	urdu	salf	1	0	0	0	0
 self	سلف	urdu	sulf	1	0	0	0	0
 selfi	سیلفی	urdu	selfie	1	1	0	0	0
+selfie		english		0	0	0	0	0
 selfy	سلفی	urdu	salafi	1	0	0	0	0
 selfy	سلفی	urdu	salfee	1	0	0	0	0
 selfy	سلفی	urdu	salfi	1	0	0	0	0
@@ -79152,6 +79305,7 @@ shadian	شادیاں	urdu	shadyan	1	1	0	0	0
 shadiyane	شادیانے	urdu	shaadiyane	1	0	0	0	0
 shadiyon	شادیوں	urdu	shaadion	1	1	0	0	0
 shadiyon	شادیوں	urdu	shadieon	1	0	0	0	0
+shadiyon	شادیوں	urdu	shadio	0	4	0	0	0
 shadiyon	شادیوں	urdu	shadion	1	0	0	0	0
 shadtoon	شدتوں	urdu	shadtun	1	0	0	0	0
 shadtoon	شدتوں	urdu	shidaton	1	0	0	0	0
@@ -81172,7 +81326,7 @@ shukri	شکری	urdu	shekri	1	0	0	0	0
 shukri	شکری	urdu	shukree	1	0	0	0	0
 shukriya	شکریہ	urdu	shakria	1	0	0	0	0
 shukriya	شکریہ	urdu	shekriyah	1	0	0	0	0
-shukriya	شکریہ	urdu	shukariya	0	33	3	0	0
+shukriya	شکریہ	urdu	shukariya	0	34	2	0	0
 shukriya	شکریہ	urdu	shukrea	1	0	0	0	0
 shukriya	شکریہ	urdu	shukria	1	3	2	0	0
 shukriya	شکریہ	urdu	shukriaaaa	0	1	0	0	0
@@ -81592,7 +81746,7 @@ siwaye	سوائے	urdu	sawaaey	1	0	0	0	0
 siwaye	سوائے	urdu	sawaey	1	0	0	0	0
 siwaye	سوائے	urdu	sivaaye	1	0	0	0	0
 siwaye	سوائے	urdu	siwaaye	1	0	0	0	0
-siwaye	سوائے	urdu	siwae	1	0	0	0	0
+siwaye	سوائے	urdu	siwae	1	4	0	0	0
 siyad	صیاد	urdu	saiyad	1	0	0	0	0
 siyad	صیاد	urdu	seyaad	1	0	0	0	0
 siyad	صیاد	urdu	seyad	1	0	0	0	0
@@ -81682,6 +81836,7 @@ skin	اسکن	urdu	iskin	1	0	0	0	0
 skin	اسکن	urdu	scon	1	0	0	0	0
 skin	اسکن	urdu	scun	1	0	0	0	0
 skin	اسکن	urdu	sken	1	0	0	0	0
+skip		english		0	0	0	0	0
 skwadran	اسکواڈرن	urdu	squadron	1	0	0	0	0
 skwadran	اسکواڈرن	urdu	squadrun	1	0	0	0	0
 sky	سکائی	urdu	saakai	1	0	0	0	0
@@ -81850,6 +82005,7 @@ sochiye	سوچئے	urdu	sochie	1	0	0	0	0
 sochiye	سوچئے	urdu	sochiyea	1	0	0	0	0
 sochna	سوچنا	urdu	souchna	1	0	0	0	0
 sochne	سوچنے	urdu	sochnae	1	0	0	0	0
+sochne	سوچنے	urdu	sochnay	0	4	0	0	0
 sochne	سوچنے	urdu	sochney	1	0	0	0	0
 sochne	سوچنے	urdu	sonchnay	1	0	0	0	0
 sochne	سوچنے	urdu	suchne	1	0	0	0	0
@@ -82071,6 +82227,7 @@ sona	سونا	urdu	sawna	1	0	0	0	0
 sona	سونا	urdu	sna	0	1	0	0	0
 sona	سونا	urdu	son	0	1	0	0	0
 sona	سونا	urdu	sonaa	1	0	0	0	0
+sona	سونا	urdu	souna	0	4	0	0	0
 sona	سونا	urdu	suna	1	0	0	0	0
 sonam	سونم	urdu	soanam	1	0	0	0	0
 sonam	سونم	urdu	sonem	1	0	0	0	0
@@ -82891,6 +83048,7 @@ sukhanwar	سخنور	urdu	saqnur	1	0	0	0	0
 sukhanwar	سخنور	urdu	sukhanvar	1	0	0	0	0
 sukharsindh	سکھرسندھ	urdu		0	0	0	0	0
 sukoon	سکون	urdu	sakon	0	41	8	0	0
+sukoon	سکون	urdu	skoon	0	4	0	0	0
 sukoonat	سکونت	urdu		0	0	0	0	0
 sulah	صلح	urdu		0	0	0	0	0
 sulajhnay	سلجھنے	urdu	sulajhne	1	0	0	0	0
@@ -83854,6 +84012,7 @@ tabhar	تبحر	urdu	tabahur	1	0	0	0	0
 tabhi	تبھی	urdu	tabhee	1	0	0	0	0
 tabhi	تبھی	urdu	tabhy	1	0	0	0	0
 tabhi	تبھی	urdu	tbhi	0	13	0	0	0
+tabhi	تبھی	urdu	tbi	0	4	0	0	0
 tabi	ٹبی	urdu	tabee	1	0	0	0	0
 tabi	ٹبی	urdu	tibbi	1	0	0	0	0
 tabi	ٹبی	urdu	tubi	1	0	0	0	0
@@ -85406,6 +85565,8 @@ talwar	تلوار	urdu	talwaar	1	0	0	0	0
 talwaron	تلواروں	urdu	talvaaron	1	0	0	0	0
 talwaron	تلواروں	urdu	talvaron	1	0	0	0	0
 talwaron	تلواروں	urdu	talwaaron	1	0	0	0	0
+talwe		urdu	talway	0	4	0	0	0
+talwe		urdu	talweeey	0	1	0	0	0
 tam	ٹام	urdu	taam	1	0	0	0	0
 tam	ٹام	urdu	tom	1	0	0	0	0
 tama	ٹاما	urdu	taama	1	0	0	0	0
@@ -86071,9 +86232,10 @@ taraf	طرف	urdu	tara	1	0	0	0	0
 taraf	طرف	urdu	taraff	1	0	0	0	0
 taraf	طرف	urdu	taraph	1	0	0	0	0
 taraf	طرف	urdu	traf	1	1	0	0	0
+tarah	طرح	urdu	taran	0	1	0	0	0
 tarah	طرح	urdu	tareh	1	0	0	0	0
 tarah	طرح	urdu	tarh	1	0	0	0	0
-tarah	طرح	urdu	tarha	0	40	2	0	0
+tarah	طرح	urdu	tarha	0	39	3	0	0
 tarah	طرح	urdu	tarhan	0	6	0	0	0
 tarah	طرح	urdu	terah	1	2	1	0	0
 tarah	طرح	urdu	trah	1	1	0	0	0
@@ -87905,6 +88067,7 @@ thank	تھنک	english	think	1	0	0	0	0
 thank	تھنک	english	thinkw	1	0	0	0	0
 thank	تھنک	english	thynk	1	0	0	0	0
 thanks		english	thanksss	0	1	0	0	0
+thanks		english	thnx	0	4	0	0	0
 thanku		urdu		0	0	0	0	0
 thanon	تھانوں	urdu		0	0	0	0	0
 thanwi	تھانوی	urdu	tahaanvi	1	0	0	0	0
@@ -87983,7 +88146,7 @@ theek	ٹھیک	urdu	teek	0	1	1	0	0
 theek	ٹھیک	urdu	tehek	0	4	0	0	0
 theek	ٹھیک	urdu	tek	0	9	1	0	0
 theek	ٹھیک	urdu	the	0	3	0	0	0
-theek	ٹھیک	urdu	theak	0	115	5	0	0
+theek	ٹھیک	urdu	theak	0	116	4	0	0
 theek	ٹھیک	urdu	theeek	0	1	0	0	0
 theek	ٹھیک	urdu	theekh	1	0	0	0	0
 theek	ٹھیک	urdu	theekk	0	4	2	0	0
@@ -88281,6 +88444,7 @@ time	ٹائم	english	tym	0	4	1	0	0
 time	ٹائم	english	tyme	1	0	0	0	0
 timergara	تیمرگرہ	urdu	timargrah	1	0	0	0	0
 timergara	تیمرگرہ	urdu	tymargrah	1	0	0	0	0
+timing		english		0	0	0	0	0
 timur	تیمور	urdu	taimoor	1	0	0	0	0
 timur	تیمور	urdu	taimur	1	1	0	0	0
 timur	تیمور	urdu	timurr	1	0	0	0	0
@@ -88374,16 +88538,16 @@ tlp		urdu		0	0	0	0	0
 tmpl	ٹمپل	urdu		0	0	0	0	0
 tnkiyan	ٹنکیاں	urdu		0	0	0	0	0
 tnx		english		0	0	0	0	0
-to	تو	urdu	tau	0	19	0	0	0
+to	تو	urdu	tau	0	18	1	0	0
 to	تو	urdu	tho	1	27	0	0	0
 to	تو	urdu	thoooo	0	3	1	0	0
 to	تو	urdu	thoooooo	0	1	0	0	0
-to	تو	urdu	toa	1	0	0	0	0
+to	تو	urdu	toa	1	4	0	0	0
 to	تو	urdu	too	1	32	5	0	0
 to	تو	urdu	tooo	0	1	0	0	0
 to	تو	urdu	toooo	0	1	0	0	0
 to	تو	urdu	toooooooooooooooo	0	1	0	0	0
-to	تو	urdu	tou	1	167	2	0	0
+to	تو	urdu	tou	1	166	3	0	0
 to	تو	urdu	touuu	0	1	0	0	0
 to	تو	urdu	tu	1	1	2	0	0
 to	تو	urdu	tuo	0	8	0	0	0
@@ -88674,6 +88838,7 @@ topi	ٹوپی	urdu	tupi	1	0	0	0	0
 topi	ٹوپی	urdu	tupy	1	0	0	0	0
 topi	ٹوپی	urdu	tuupi	1	0	0	0	0
 topic		english		0	0	0	0	0
+topics		english		0	0	0	0	0
 toqaan	طوقان	urdu	tauqaan	1	0	0	0	0
 toqaan	طوقان	urdu	tooqan	1	0	0	0	0
 toqaan	طوقان	urdu	toqan	1	0	0	0	0
@@ -88787,6 +88952,7 @@ tractors	ٹریکٹرز	urdu	tractorz	1	0	0	0	0
 trade	ٹریڈ	urdu	tired	1	0	0	0	0
 trade	ٹریڈ	urdu	tred	1	0	0	0	0
 traders	ٹریڈرز	urdu	traderz	1	0	0	0	0
+trading		english		0	0	0	0	0
 trafalgar	ٹریفالگر	urdu		0	0	0	0	0
 traffic		english		0	0	0	0	0
 trafficking	ٹریفکنگ	urdu		0	0	0	0	0
@@ -89253,6 +89419,7 @@ ulajhna	الجھنا	urdu	uljhana	1	0	0	0	0
 ulajhne	الجھنے	urdu	ulajhnay	1	0	0	0	0
 ulajhne	الجھنے	urdu	ulajnay	1	0	0	0	0
 ulama	علماء	urdu	ulamae	1	0	0	0	0
+ulama	علماء	urdu	ulma	0	4	0	0	0
 ulama	علماء	urdu	ulmaay	1	0	0	0	0
 ulama	علماء	urdu	ulmae	1	0	0	0	0
 ulatne	الٹنے	urdu	altaney	1	0	0	0	0
@@ -89282,6 +89449,7 @@ uljhane	الجھانے	urdu	uljhaney	1	0	0	0	0
 uljhay	الجھے	urdu	aljhe	1	0	0	0	0
 uljhay	الجھے	urdu	uljhe	1	0	0	0	0
 ullah		urdu		0	0	0	0	0
+ullu		urdu	olu	0	1	0	0	0
 ullu		urdu	ullo	0	4	1	0	0
 ulmaye	علمائے	urdu	almaaey	1	0	0	0	0
 ulmaye	علمائے	urdu	almaey	1	0	0	0	0
@@ -89411,7 +89579,7 @@ umpiron	امپائروں	urdu	empiroon	1	0	0	0	0
 umpiron	امپائروں	urdu	umpirun	1	0	0	0	0
 umrah	امراء	urdu	omrah	1	0	0	0	0
 umrah	امراء	urdu	oomrah	1	0	0	0	0
-umrah	امراء	urdu	umra	1	0	0	0	0
+umrah	امراء	urdu	umra	1	3	1	0	0
 umrao	امراؤ	urdu	amraao	1	0	0	0	0
 umrao	امراؤ	urdu	amrao	1	0	0	0	0
 umrao	امراؤ	urdu	amrau	1	0	0	0	0
@@ -89474,6 +89642,7 @@ undulus	اندلس	urdu	andulus	1	2	0	0	0
 undulus	اندلس	urdu	endless	1	0	0	0	0
 undulus	اندلس	urdu	indalas	1	0	0	0	0
 undulus	اندلس	urdu	undlas	1	1	0	0	0
+uneducated		english		0	0	0	0	0
 uneo	یونیوں	urdu	unioun	1	0	0	0	0
 unesco	یونیسکو	urdu	unisko	1	0	0	0	0
 unfollow		english		0	0	0	0	0
@@ -89711,6 +89880,7 @@ use	اسے	urdu	usey	1	1	0	0	0
 use	اسے	urdu	ussy	0	4	1	0	0
 use	اسے	urdu	usy	0	39	2	0	0
 useful		english		0	0	0	0	0
+useless		english		0	0	0	0	0
 user	یوزر	urdu	usar	1	0	0	0	0
 user	یوزر	urdu	yousar	1	0	0	0	0
 users	یوزرز	urdu		0	0	0	0	0
@@ -91111,7 +91281,9 @@ vote	ووٹ	urdu	wot	1	0	0	0	0
 voter	ووٹر	urdu	vawater	1	0	0	0	0
 voton	ووٹوں	urdu	woton	1	0	0	0	0
 voucher		english		0	0	0	0	0
+vouchers		english		0	0	0	0	0
 vrsha	ورشا	urdu		0	0	0	0	0
+vulgarity		english		0	0	0	0	0
 vursaa	ورثاء	urdu	warsaah	1	0	0	0	0
 vursaa	ورثاء	urdu	wurchaa	1	0	0	0	0
 vursaa	ورثاء	urdu	wursa	1	1	0	0	0
@@ -91527,6 +91699,7 @@ wafoor	وفور	urdu	wafur	1	0	0	0	0
 wafoor	وفور	urdu	wafuur	1	0	0	0	0
 wag	وگ	urdu	vag	1	0	0	0	0
 wag	وگ	urdu	wig	1	0	0	0	0
+wagaira		urdu	wagera	0	3	1	0	0
 wagan	وگن	urdu	wagon	1	0	0	0	0
 wagarat	وغارت	urdu	vagarat	1	0	0	0	0
 wagarat	وغارت	urdu	waghaarat	1	0	0	0	0
@@ -91775,6 +91948,7 @@ wajood	وجود	urdu	vajood	1	0	0	0	0
 wajood	وجود	urdu	vajoodi	1	0	0	0	0
 wajood	وجود	urdu	vajuud	1	0	0	0	0
 wajood	وجود	urdu	vujood	1	0	0	0	0
+wajood	وجود	urdu	wajod	0	2	1	0	0
 wajood	وجود	urdu	wajode	1	0	0	0	0
 wajood	وجود	urdu	wajoode	1	0	0	0	0
 wajood	وجود	urdu	wajoodi	1	0	0	0	0
@@ -91984,6 +92158,7 @@ walon	والوں	urdu	waalon	1	6	1	0	0
 walon	والوں	urdu	walaun	1	0	0	0	0
 walon	والوں	urdu	waloo	1	6	0	0	0
 walon	والوں	urdu	waloon	1	12	0	0	0
+walon	والوں	urdu	walu	0	4	0	0	0
 walon	والوں	urdu	wlo	0	5	0	0	0
 walqalam	والقلم	urdu	walqalem	1	0	0	0	0
 walsalaam	والسلام	urdu	valsalaam	1	0	0	0	0
@@ -92084,6 +92259,7 @@ wansh	ونش	urdu	winsh	1	0	0	0	0
 want		english		0	0	0	0	0
 wanu	ونو	urdu		0	0	0	0	0
 wapaak	وپاک	urdu	wapak	1	0	0	0	0
+wapas	واپس	urdu	bapas	0	2	0	0	0
 wapas	واپس	urdu	waapas	1	0	0	0	0
 wapas	واپس	urdu	waaps	0	7	8	0	0
 wapas	واپس	urdu	waas	0	7	4	0	0
@@ -92178,7 +92354,7 @@ waqoof	وقوف	urdu	wuqoof	1	0	0	0	0
 waqt	وقت	urdu	vaqt	1	0	0	0	0
 waqt	وقت	urdu	wakt	1	0	0	0	0
 waqt	وقت	urdu	waq	0	12	4	0	0
-waqt	وقت	urdu	waqat	1	111	5	0	0
+waqt	وقت	urdu	waqat	1	112	4	0	0
 waqt	وقت	urdu	waqqt	0	11	7	0	0
 waqt	وقت	urdu	waqtt	0	12	11	0	0
 waqt	وقت	urdu	watq	0	14	8	0	0
@@ -92458,6 +92634,7 @@ wast	وسط	urdu	wasti	1	0	0	0	0
 wast	وسط	urdu	wust	1	0	0	0	0
 wasta		urdu		0	0	0	0	0
 waste		english		0	0	0	0	0
+wastey		urdu	wastay	0	3	1	0	0
 wasti	واسطی	urdu	vaasti	1	0	0	0	0
 wasti	واسطی	urdu	waasti	1	0	0	0	0
 wasy	وسی	urdu	wasi	1	0	0	0	0
@@ -92682,6 +92859,7 @@ western	ویسٹرن	urdu	vesturn	1	0	0	0	0
 westfield	ویٹفیلڈ	urdu	wetfield	1	1	0	0	0
 westminster	ویسٹمنسٹر	urdu		0	0	0	0	0
 what		english		0	0	0	0	0
+what's		english		0	0	0	0	0
 whats		english		0	0	0	0	0
 whatsapp		name		0	0	0	0	0
 wheel	وہیل	urdu	vahail	1	0	0	0	0
@@ -92832,7 +93010,7 @@ woh	وہ	urdu	vo	1	50	2	0	0
 woh	وہ	urdu	voh	1	1	0	0	0
 woh	وہ	urdu	wah	1	0	0	0	0
 woh	وہ	urdu	who	1	2	1	0	0
-woh	وہ	urdu	wo	1	1000	126	0	0
+woh	وہ	urdu	wo	1	999	127	0	0
 woh	وہ	urdu	wooo	0	1	0	0	0
 woh	وہ	urdu	wuh	1	0	0	0	0
 woman		english		0	0	0	0	0
@@ -92874,6 +93052,7 @@ workshop	ورکشاپ	urdu	warkshaap	1	0	0	0	0
 workshop	ورکشاپ	urdu	workshap	1	0	0	0	0
 world	ورلڈ	urdu		0	0	0	0	0
 worldcup	ورلڈکپ	urdu		0	0	0	0	0
+worry		english		0	0	0	0	0
 worst		english		0	0	0	0	0
 would		english		0	0	0	0	0
 wow		english	waaao	0	2	0	0	0
@@ -93010,7 +93189,7 @@ yaar	یار	urdu	yaaaaaaar	0	1	0	0	0
 yaar	یار	urdu	yaaaar	0	1	0	0	0
 yaar	یار	urdu	yaaar	0	2	0	0	0
 yaar	یار	urdu	yaer	1	0	0	0	0
-yaar	یار	urdu	yar	1	387	30	0	0
+yaar	یار	urdu	yar	1	386	31	0	0
 yaar	یار	urdu	yarr	1	0	0	0	0
 yaar	یار	urdu	yarrr	0	6	2	0	0
 yaar	یار	urdu	yarrrr	0	2	0	0	0
@@ -93126,7 +93305,7 @@ yahin	یہیں	urdu	yehen	1	0	0	0	0
 yahizirah	یحضرہ	urdu	yahzara	1	0	0	0	0
 yahizirah	یحضرہ	urdu	yahzarh	1	0	0	0	0
 yahizirah	یحضرہ	urdu	yihzirah	1	0	0	0	0
-yahoodi		urdu		0	0	0	0	0
+yahoodi		urdu	yahodi	0	4	0	0	0
 yahoodiyan	یہودیان	urdu	yahudeeyan	1	0	0	0	0
 yahoodiyan	یہودیان	urdu	yahudiyaan	1	0	0	0	0
 yahoodiyan	یہودیان	urdu	yahudiyan	1	0	0	0	0
@@ -93485,7 +93664,7 @@ younis	یونس	urdu	yunas	1	0	0	0	0
 younis	یونس	urdu	yunis	1	0	0	0	0
 younis	یونس	urdu	yunus	1	1	0	0	0
 younis	یونس	urdu	yuunis	1	0	0	0	0
-your		english	ur	0	6	0	0	0
+your		english	ur	0	7	0	0	0
 yousafi	یوسفی	urdu	yosfi	1	1	0	0	0
 yousafi	یوسفی	urdu	yousafee	1	0	0	0	0
 yousafi	یوسفی	urdu	yousefi	1	0	0	0	0
@@ -94425,7 +94604,7 @@ zaroor	ضرور	urdu	zarroor	0	4	0	0	0
 zaroor	ضرور	urdu	zarur	1	0	0	0	0
 zaroor	ضرور	urdu	zroooor	0	1	0	0	0
 zaroor	ضرور	urdu	zroor	0	2	1	0	0
-zaroor	ضرور	urdu	zror	0	4	1	0	0
+zaroor	ضرور	urdu	zror	0	5	0	0	0
 zaroor	ضرور	urdu	zrr	0	13	15	0	0
 zaroor	ضرور	urdu	zrru	0	1	6	0	0
 zaroor	ضرور	urdu	zrrur	0	2	4	0	0
@@ -94447,7 +94626,7 @@ zaroorat	ضرورت	urdu	zarurat	1	1	0	0	0
 zaroorat	ضرورت	urdu	zorrt	0	7	1	0	0
 zaroorat	ضرورت	urdu	zort	0	5	1	0	0
 zaroorat	ضرورت	urdu	zrorrt	0	5	5	0	0
-zaroorat	ضرورت	urdu	zrort	0	64	21	0	0
+zaroorat	ضرورت	urdu	zrort	0	68	21	0	0
 zaroorat	ضرورت	urdu	zrortt	0	3	2	0	0
 zaroorat	ضرورت	urdu	zrot	0	3	3	0	0
 zaroorat	ضرورت	urdu	zrotr	0	5	0	0	0
@@ -94598,7 +94777,6 @@ zawiye	زاویے	urdu	zaweae	1	0	0	0	0
 zawiye	زاویے	urdu	zawie	1	0	0	0	0
 zawiyia	زاویہٴ	urdu		0	0	0	0	0
 zawreen	زاؤرین	urdu		0	0	0	0	0
-zay	زے	urdu	ze	1	0	0	0	0
 zaya	ضائع	urdu	zaaya	1	0	0	0	0
 zaya	ضائع	urdu	zaia	1	0	0	0	0
 zaya	ضائع	urdu	zaye	1	0	0	0	0
@@ -94677,7 +94855,7 @@ zeher	ذہر	urdu	zaher	1	0	0	0	0
 zehni	ذہنی	urdu	jehani	1	0	0	0	0
 zehni	ذہنی	urdu	zaheni	0	16	1	0	0
 zehni	ذہنی	urdu	zahnee	1	0	0	0	0
-zehni	ذہنی	urdu	zahni	1	0	0	0	0
+zehni	ذہنی	urdu	zahni	1	4	0	0	0
 zehni	ذہنی	urdu	zehny	1	0	0	0	0
 zehnon	ذہنوں	urdu		0	0	0	0	0
 zehr		urdu		0	0	0	0	0
@@ -94771,6 +94949,7 @@ zila	ضلع	urdu	zile	1	2	0	0	0
 zilah	ضلح	urdu	zalah	1	0	0	0	0
 zilah	ضلح	urdu	zolah	1	0	0	0	0
 zile	ضلعے	urdu		0	0	0	0	0
+zilla		urdu	jila	0	3	1	0	0
 zillat	ذلت	urdu	zallat	1	0	0	0	0
 zillat	ذلت	urdu	zilat	1	0	0	0	0
 zim	ضم	urdu	zam	1	0	0	0	0
@@ -94985,7 +95164,7 @@ zyada	زیادہ	urdu	jyada	1	27	5	0	0
 zyada	زیادہ	urdu	zada	1	36	15	0	0
 zyada	زیادہ	urdu	zaida	0	12	4	0	0
 zyada	زیادہ	urdu	zayada	0	71	3	0	0
-zyada	زیادہ	urdu	zayda	0	6	0	0	0
+zyada	زیادہ	urdu	zayda	0	10	0	0	0
 zyada	زیادہ	urdu	zeada	0	2	0	0	0
 zyada	زیادہ	urdu	zeyada	1	0	0	0	0
 zyada	زیادہ	urdu	zeyadah	1	0	0	0	0

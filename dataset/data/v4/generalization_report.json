@@ -21,10 +21,10 @@
     "sentences": 297,
     "words": 3634,
     "gold_urdu_unseen_in_train_pct": 5.8,
-    "gold_urdu_unseen_in_train_and_trainsafe_lexicon_pct": 5.7,
+    "gold_urdu_unseen_in_train_and_trainsafe_lexicon_pct": 5.8,
     "noisy_spelling_unseen_in_train_pct": 8.5,
     "tokens_needing_change_pct": 31.6,
-    "changed_tokens_with_seen_pair_pct": 72.6,
+    "changed_tokens_with_seen_pair_pct": 72.8,
     "english_types": 175,
     "english_types_unseen_pct": 5.1,
     "name_types": 28,
@@ -32,8 +32,8 @@
     "frames_unseen_pct": null,
     "WER_unchanged": 32.39,
     "CER_unchanged": 9.52,
-    "WER_dictionary": 16.32,
-    "CER_dictionary": 4.83
+    "WER_dictionary": 16.26,
+    "CER_dictionary": 4.82
   },
   "test_social_uci": {
     "sentences": 186,
@@ -44,14 +44,14 @@
     "tokens_needing_change_pct": 30.9,
     "changed_tokens_with_seen_pair_pct": 60.1,
     "english_types": 250,
-    "english_types_unseen_pct": 42.4,
+    "english_types_unseen_pct": 42.0,
     "name_types": 92,
     "name_types_unseen_pct": 89.1,
     "frames_unseen_pct": null,
     "WER_unchanged": 35.14,
     "CER_unchanged": 9.99,
-    "WER_dictionary": 22.2,
-    "CER_dictionary": 6.36
+    "WER_dictionary": 22.25,
+    "CER_dictionary": 6.4
   },
   "test_synth_iid": {
     "sentences": 2000,
@@ -86,8 +86,8 @@
     "frames_unseen_pct": 54.5,
     "WER_unchanged": 45.07,
     "CER_unchanged": 11.83,
-    "WER_dictionary": 8.48,
-    "CER_dictionary": 2.31
+    "WER_dictionary": 8.46,
+    "CER_dictionary": 2.3
   },
   "dev_dakshina": {
     "sentences": 377,
@@ -104,7 +104,7 @@
     "frames_unseen_pct": null,
     "WER_unchanged": 22.93,
     "CER_unchanged": 6.72,
-    "WER_dictionary": 12.68,
+    "WER_dictionary": 12.7,
     "CER_dictionary": 4.1
   },
   "dev_templated": {
@@ -127,20 +127,20 @@
   },
   "dev_social_new": {
     "sentences": 1000,
-    "words": 7568,
-    "gold_urdu_unseen_in_train_pct": 0.6,
-    "gold_urdu_unseen_in_train_and_trainsafe_lexicon_pct": 0.6,
-    "noisy_spelling_unseen_in_train_pct": 1.0,
-    "tokens_needing_change_pct": 25.5,
-    "changed_tokens_with_seen_pair_pct": 98.2,
-    "english_types": 318,
+    "words": 7658,
+    "gold_urdu_unseen_in_train_pct": 0.5,
+    "gold_urdu_unseen_in_train_and_trainsafe_lexicon_pct": 0.5,
+    "noisy_spelling_unseen_in_train_pct": 0.9,
+    "tokens_needing_change_pct": 25.3,
+    "changed_tokens_with_seen_pair_pct": 98.1,
+    "english_types": 343,
     "english_types_unseen_pct": 0.0,
-    "name_types": 39,
+    "name_types": 38,
     "name_types_unseen_pct": 0.0,
     "frames_unseen_pct": null,
-    "WER_unchanged": 25.55,
-    "CER_unchanged": 7.78,
-    "WER_dictionary": 4.72,
-    "CER_dictionary": 1.2
+    "WER_unchanged": 25.33,
+    "CER_unchanged": 7.74,
+    "WER_dictionary": 4.7,
+    "CER_dictionary": 1.21
   }
 }

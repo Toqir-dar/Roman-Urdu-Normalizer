@@ -82,25 +82,25 @@
       "url": 4
     },
     "tier": {
-      "silver": 12970,
-      "gold": 6314
+      "silver": 12775,
+      "gold": 6509
     },
     "lang_hint": {
-      "urdu": 14905,
-      "mixed": 4216,
-      "english": 163
+      "urdu": 14862,
+      "mixed": 4253,
+      "english": 169
     },
-    "agrees_with_source_normalized": 4292
+    "agrees_with_source_normalized": 4216
   },
   "social_new_split": {
     "test_social": 297,
     "dev": 1000,
-    "train": 17963,
+    "train": 17962,
     "train_tier": {
-      "silver": 12751,
-      "gold": 5212
+      "silver": 12557,
+      "gold": 5405
     },
-    "removed_test_overlap": 21,
+    "removed_test_overlap": 22,
     "test_status": {
       "edited": 151,
       "ok": 146
@@ -115,10 +115,10 @@
       "test": 2112
     },
     "lang_hint": {
-      "urdu": 15723,
-      "mixed": 2041,
-      "unknown": 1325,
-      "english": 305,
+      "urdu": 15711,
+      "mixed": 2078,
+      "unknown": 1293,
+      "english": 312,
       "punjabi?": 23
     }
   },
@@ -131,13 +131,13 @@
     "test_synth_ood": 1967
   },
   "lexicon": {
-    "canonicals": 30198,
-    "rows": 100154,
-    "eval_only_variants_removed_from_trainsafe": 2419,
-    "eval_only_canonicals_removed": 1339
+    "canonicals": 30279,
+    "rows": 100317,
+    "eval_only_variants_removed_from_trainsafe": 2413,
+    "eval_only_canonicals_removed": 1335
   },
   "records": {
-    "train": 48703,
+    "train": 48702,
     "dev": 4831,
     "test_real": 394,
     "test_social": 297,
@@ -149,7 +149,7 @@
     "train": {
       "dakshina": 3146,
       "templated": 27594,
-      "social_new": 17963
+      "social_new": 17962
     },
     "dev": {
       "dakshina": 377,
