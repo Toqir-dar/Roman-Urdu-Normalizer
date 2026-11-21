@@ -1,0 +1,24 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local run artifacts
+.out/
+out/
+*.log
+.env
+checkpoints/
+wandb/
+runs/
+hf_cache/
+.cache/

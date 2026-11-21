@@ -7,6 +7,7 @@ e.g. `mujhy kl ghr jana h` → `mujhe kal ghar jana hai`.
   pairs) and read [`dataset/data/v4/README.md`](dataset/data/v4/README.md) for splits, conventions and known limits.
 - **Inputs:** [`external_raw/`](external_raw/) (`dataset.csv`, UCI `Roman Urdu DataSet.csv`) and `dataset/sources/`.
 - **Rebuild:** `cd dataset && python build_v4.py build && python audit_v4.py` (Python 3, standard library only).
+- **Docs:** [`docs/`](docs/) — project plan PDF and methodology diagram.
 
 | Split | Sentences |
 |---|---|
